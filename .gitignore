@@ -1,5 +1,4 @@
 docs/
-<<<<<<< HEAD
 node/server.json
 node/node_modules
 =======
@@ -35,4 +34,3 @@ Thumbs.db
 nbproject
 *.sublime-project
 *.sublime-workspace
->>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862

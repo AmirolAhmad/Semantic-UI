@@ -1,17 +1,14 @@
 {
   "name"        : "semantic",
-<<<<<<< HEAD
-  "version"     : "0.1.0",
+  "version"     : "0.12.2",
   "description" : "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
   "homepage"    : "http://www.semantic-ui.com",
   "main": [
     "./build/*"
-=======
   "description" : "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
   "homepage"    : "http://www.semantic-ui.com",
   "main": [
     "build/**/*"
->>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
   ],
   "author": {
     "name" : "Jack Lukic",
@@ -31,11 +28,8 @@
   ],
   "ignore": [
     "node",
-<<<<<<< HEAD
     "source",
-=======
     "src",
->>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
     "docs"
   ]
 }

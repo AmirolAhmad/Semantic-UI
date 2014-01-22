@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Semantic
 
 Semantic is a set of specifications for sharing UI elements between developers. Semantic is also a UI library to make front end development simpler and easier to learn.
@@ -275,4 +274,3 @@ If you'd like to start a conversation about Semantic feel free to reach out by e
 * [Features Missing for 1.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
 * [Planned Updates for 1.X](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=2&page=1&sort=updated&state=open)
 * [Additional Components Scoped for 2.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&labels=&milestone=3&page=1&sort=updated&state=open)
->>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
