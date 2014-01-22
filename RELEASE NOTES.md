@@ -1,6 +1,5 @@
 ## RELEASE NOTES
 
-<<<<<<< HEAD
 =======
 ### Version 0.12.2 - Jan 21, 2014
 
