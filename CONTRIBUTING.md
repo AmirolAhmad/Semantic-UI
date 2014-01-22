@@ -20,6 +20,11 @@ Please submit any bugs you encounter when using the library to our [Github Issue
 
 When submiting a bug report, please include a set of steps to reproduce the issue and any related information, browser, OS etc. If we can't see the issue then it will make solving things much more difficult.
 
+<<<<<<< HEAD
+=======
+Please create a fork of this [jsfiddle](http://jsfiddle.net/pMDsH/) to demonstrate bugs.
+
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 ### Style Guide
 
 Contributors should read over the coding guidelines for the project. Most importantly, the guide for language, as it is one of the most important parts about Semantic UI.
@@ -80,6 +85,11 @@ Make sure npm does not require sudo to operate, this might cause permissions iss
 
 ```bash
 npm install -g docpad
+<<<<<<< HEAD
+=======
+docpad install eco
+docpad update; docpad upgrade
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 ```
 
 ```bash
@@ -90,24 +100,47 @@ npm install -g grunt-cli
 
 [Fork](https://github.com/jlukic/Semantic-UI/fork)
 
+<<<<<<< HEAD
 ### 4) Start Your Server
 
 It's important to note that all server code exists inside of `/node` in the project. So all commands should be run relative to that directory.
 
 ```bash
 cd node
+=======
+### 4A) Build Semantic
+
+In order to have the current version of semantic available inside your local documentation, you will have to build it once with Grunt
+
+```bash
+grunt build
+```
+
+### 4B) Start Your Server
+
+```bash
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 docpad run
 ```
 
 Docpad should now run an instance of semantic-ui.com locally you can access at `http://localhost:9778`
 
+<<<<<<< HEAD
+=======
+Note that some asset files might be missing until you run `grunt build` once.
+
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 ## Fixing Bugs
 
 ### Watch Script
 
 If you are working on fixing a UI component that is part of Semantic, your best bet is to work actively on the file in `/src/{type}/{elementname}/` while running a watch script from grunt. This will rebuild the docs after you make changes, so you can see if you have corrected the issue you are fixing.
 
+<<<<<<< HEAD
 To see exactly what this is doing you can check out our [commented gruntfile](https://github.com/jlukic/Semantic-UI/blob/master/node/Gruntfile.js)
+=======
+To see exactly what this is doing you can check out our [commented gruntfile](https://github.com/jlukic/Semantic-UI/blob/master/Gruntfile.js)
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 
 ```bash
 grunt

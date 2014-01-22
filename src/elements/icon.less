@@ -31,9 +31,15 @@
   src: url(../fonts/icons.eot);
   src:
     url(../fonts/icons.eot?#iefix) format('embedded-opentype'),
+<<<<<<< HEAD
     url(../fonts/icons.woff) format('woff'),
     url(../fonts/icons.ttf) format('truetype'),
     url(../fonts/icons.svg#icons) format('svg')
+=======
+    url(../fonts/icons.svg#icons) format('svg'),
+    url(../fonts/icons.woff) format('woff'),
+    url(../fonts/icons.ttf) format('truetype')
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
   ;
 
   font-style: normal;
@@ -71,6 +77,12 @@ i.icon {
   font-smoothing: antialiased;
 }
 
+<<<<<<< HEAD
+=======
+i.icon.left:before { content: "\f060"; }
+i.icon.right:before { content: "\f061"; }
+
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.icon.add.sign.box:before { content: "\f0fe"; }
 i.icon.add.sign:before { content: "\f055"; }
 i.icon.add:before { content: "\f067"; }
@@ -254,7 +266,10 @@ i.icon.layout.column:before { content: "\f0db"; }
 i.icon.layout.grid:before { content: "\f00a"; }
 i.icon.layout.list:before { content: "\f00b"; }
 i.icon.leaf:before { content: "\f06c"; }
+<<<<<<< HEAD
 i.icon.left:before { content: "\f060"; }
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.icon.legal:before { content: "\f0e3"; }
 i.icon.lemon:before { content: "\f094"; }
 i.icon.level.down:before { content: "\f149"; }
@@ -330,7 +345,10 @@ i.icon.resize.horizontal:before { content: "\f07e"; }
 i.icon.resize.small:before { content: "\f066"; }
 i.icon.resize.vertical:before { content: "\f07d"; }
 i.icon.retweet:before { content: "\f079"; }
+<<<<<<< HEAD
 i.icon.right:before { content: "\f061"; }
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.icon.road:before { content: "\f018"; }
 i.icon.rocket:before { content: "\f135"; }
 i.icon.rss.sign:before { content: "\f143"; }
@@ -352,12 +370,21 @@ i.icon.signal:before { content: "\f012"; }
 i.icon.sitemap:before { content: "\f0e8"; }
 i.icon.skype:before { content: "\f17e"; }
 i.icon.smile:before { content: "\f118"; }
+<<<<<<< HEAD
 i.icon.sort.alphabet.descending:before { content: "\f15e"; }
 i.icon.sort.alphabet:before { content: "\f15d"; }
 i.icon.sort.ascending:before { content: "\f0de"; }
 i.icon.sort.attributes.descending:before { content: "\f161"; }
 i.icon.sort.attributes:before { content: "\f160"; }
 i.icon.sort.descending:before { content: "\f0dd"; }
+=======
+i.icon.sort.ascending:before { content: "\f0de"; }
+i.icon.sort.descending:before { content: "\f0dd"; }
+i.icon.sort.alphabet.descending:before { content: "\f15e"; }
+i.icon.sort.alphabet:before { content: "\f15d"; }
+i.icon.sort.attributes.descending:before { content: "\f161"; }
+i.icon.sort.attributes:before { content: "\f160"; }
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.icon.sort.order.descending:before { content: "\f163"; }
 i.icon.sort.order:before { content: "\f162"; }
 i.icon.sort:before { content: "\f0dc"; }
@@ -457,8 +484,11 @@ i.icon.star {
 }
 
 /* left side icons */
+<<<<<<< HEAD
 i.icon.left,
 i.icon.left,
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.icon.left {
   width: auto;
   margin: 0em 0.5em 0em 0em;
@@ -466,8 +496,11 @@ i.icon.left {
 
 /* right side icons */
 i.icon.search,
+<<<<<<< HEAD
 i.icon.up,
 i.icon.down,
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.icon.right {
   width: auto;
   margin: 0em 0em 0em 0.5em;
@@ -596,9 +629,15 @@ i.link.icon:hover {
 --------------------*/
 
 i.circular.icon {
+<<<<<<< HEAD
   -webkit-border-radius: 500px;
   -moz-border-radius: 500px;
   border-radius: 500px;
+=======
+  -webkit-border-radius: 500em !important;
+  -moz-border-radius: 500em !important;
+  border-radius: 500em !important;
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 
   padding: 0.5em 0.35em !important;
 
@@ -621,6 +660,7 @@ i.circular.inverted.icon {
       Flipped
 --------------------*/
 
+<<<<<<< HEAD
 i.vertically.flipped.icon {
   -webkit-transform: scale(1, -1);
   -moz-transform: scale(1, -1);
@@ -628,6 +668,9 @@ i.vertically.flipped.icon {
   -ms-transform: scale(1, -1);
   transform: scale(1, -1);
 }
+=======
+i.flipped.icon,
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.horizontally.flipped.icon {
   -webkit-transform: scale(-1, 1);
   -moz-transform: scale(-1, 1);
@@ -635,6 +678,7 @@ i.horizontally.flipped.icon {
   -ms-transform: scale(-1, 1);
   transform: scale(-1, 1);
 }
+<<<<<<< HEAD
 
 /*-------------------
         Rotated
@@ -648,6 +692,23 @@ i.left.rotated.icon {
   transform: rotate(-90deg);
 }
 i.right.rotated.icon {
+=======
+i.vertically.flipped.icon {
+  -webkit-transform: scale(1, -1);
+  -moz-transform: scale(1, -1);
+  -o-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+
+/*-------------------
+      Rotated
+--------------------*/
+
+i.rotated.icon,
+i.right.rotated.icon,
+i.clockwise.rotated.icon {
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -o-transform: rotate(90deg);
@@ -655,6 +716,17 @@ i.right.rotated.icon {
   transform: rotate(90deg);
 }
 
+<<<<<<< HEAD
+=======
+i.left.rotated.icon,
+i.counterclockwise.rotated.icon {
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 
 /*-------------------
         Square
@@ -671,9 +743,12 @@ i.square.icon {
 
   vertical-align: baseline;
 }
+<<<<<<< HEAD
 i.square.icon:before {
   vertical-align: middle;
 }
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
 i.square.inverted.icon {
   border: none;
   -webkit-box-shadow: none;
@@ -755,6 +830,13 @@ i.icon {
   font-size: 1em;
 }
 i.large.icon {
+<<<<<<< HEAD
+=======
+  font-size: 1.5em;
+  vertical-align: middle;
+}
+i.big.icon {
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
   font-size: 2em;
   vertical-align: middle;
 }
