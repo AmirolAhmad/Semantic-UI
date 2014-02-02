@@ -65,16 +65,34 @@
 
 .ui.form textarea,
 .ui.form input[type="text"],
+<<<<<<< HEAD
 .ui.form input[type="date"],
 .ui.form input[type="password"],
+=======
+.ui.form input[type="email"],
+.ui.form input[type="date"],
+.ui.form input[type="password"],
+.ui.form input[type="number"],
+.ui.form input[type="url"],
+.ui.form input[type="tel"],
+>>>>>>> upstream/master
 .ui.form .ui.input {
   width: 100%;
 }
 
 .ui.form textarea,
 .ui.form input[type="text"],
+<<<<<<< HEAD
 .ui.form input[type="date"],
 .ui.form input[type="password"] {
+=======
+.ui.form input[type="email"],
+.ui.form input[type="date"],
+.ui.form input[type="password"],
+.ui.form input[type="number"],
+.ui.form input[type="url"],
+.ui.form input[type="tel"] {
+>>>>>>> upstream/master
 
   margin: 0em;
   padding: 0.85em 1.2em;
@@ -138,9 +156,13 @@
   max-height: 24em;
   resize: vertical;
 }
+<<<<<<< HEAD
 .ui.form select {
   -webkit-tap-highlight-color:  rgba(255, 255, 255, 0);
 }
+=======
+
+>>>>>>> upstream/master
 .ui.form textarea,
 .ui.form input[type="checkbox"] {
   vertical-align: top;
@@ -201,8 +223,18 @@
 ---------------------*/
 
 .ui.form input[type="text"]:focus,
+<<<<<<< HEAD
 .ui.form input[type="password"]:focus,
 .ui.form textarea:focus {
+=======
+.ui.form input[type="email"]:focus,
+.ui.form input[type="date"]:focus,
+.ui.form input[type="password"]:focus,
+.ui.form input[type="number"]:focus,
+.ui.form input[type="url"]:focus,
+.ui.form input[type="tel"]:focus,
+.ui.form textarea:focus{
+>>>>>>> upstream/master
   color: rgba(0, 0, 0, 0.85);
   border-color: rgba(0, 0, 0, 0.2);
   border-bottom-left-radius: 0;
@@ -235,6 +267,7 @@
 
 /* On Field(s) */
 .ui.form .fields.error .field label,
+<<<<<<< HEAD
 .ui.form .field.error label {
   color: #D95C5C;
 }
@@ -246,6 +279,36 @@
 .ui.form .field.error input[type="text"],
 .ui.form .field.error input[type="date"],
 .ui.form .field.error input[type="password"] {
+=======
+.ui.form .field.error label,
+.ui.form .fields.error .field .input,
+.ui.form .field.error .input {
+  color: #D95C5C;
+}
+
+.ui.form .fields.error .field .corner.label,
+.ui.form .field.error .corner.label {
+  border-color: #D95C5C;
+  color: #FFFFFF;
+}
+
+.ui.form .fields.error .field textarea,
+.ui.form .fields.error .field input[type="text"],
+.ui.form .fields.error .field input[type="email"],
+.ui.form .fields.error .field input[type="date"],
+.ui.form .fields.error .field input[type="password"],
+.ui.form .fields.error .field input[type="number"],
+.ui.form .fields.error .field input[type="url"],
+.ui.form .fields.error .field input[type="tel"],
+.ui.form .field.error textarea,
+.ui.form .field.error input[type="text"],
+.ui.form .field.error input[type="email"],
+.ui.form .field.error input[type="date"],
+.ui.form .field.error input[type="password"],
+.ui.form .field.error input[type="number"],
+.ui.form .field.error input[type="url"],
+.ui.form .field.error input[type="tel"] {
+>>>>>>> upstream/master
   background-color: #FFFAFA;
   border-color: #E7BEBE;
   border-left: none;
@@ -259,11 +322,23 @@
   -webkit-box-shadow: 0.3em 0em 0em 0em #D95C5C inset;
   -moz-box-shadow: 0.3em 0em 0em 0em #D95C5C inset;
   box-shadow: 0.3em 0em 0em 0em #D95C5C inset;
+<<<<<<< HEAD
 
 }
 .ui.form .field.error textarea:focus,
 .ui.form .field.error input[type="text"]:focus,
 .ui.form .field.error input[type="password"]:focus {
+=======
+}
+.ui.form .field.error textarea:focus,
+.ui.form .field.error input[type="text"]:focus,
+.ui.form .field.error input[type="email"]:focus,
+.ui.form .field.error input[type="date"]:focus,
+.ui.form .field.error input[type="password"]:focus,
+.ui.form .field.error input[type="number"]:focus,
+.ui.form .field.error input[type="url"]:focus,
+.ui.form .field.error input[type="tel"]:focus{
+>>>>>>> upstream/master
   border-color: rgba(255, 80, 80, 1);
   color: rgba(255, 80, 80, 1);
 
@@ -279,6 +354,7 @@
 
 /* browsers require these rules separate */
 .ui.form ::-webkit-input-placeholder {
+<<<<<<< HEAD
   color: #E0E0E0;
 }
 .ui.form ::-moz-placeholder {
@@ -289,6 +365,18 @@
 }
 .ui.form :focus::-moz-placeholder {
   color: #AAAAAA;
+=======
+  color: #AAAAAA;
+}
+.ui.form ::-moz-placeholder {
+  color: #AAAAAA;
+}
+.ui.form :focus::-webkit-input-placeholder {
+  color: #999999;
+}
+.ui.form :focus::-moz-placeholder {
+  color: #999999;
+>>>>>>> upstream/master
 }
 
 /* Error Placeholder */
@@ -377,12 +465,20 @@
 }
 .ui.form .date.field > label:after {
   position: absolute;
+<<<<<<< HEAD
   top: 1.4em;
   right: 0.5em;
 
   font-family: 'Icons';
   content: '📅'; /* '\1f4c5' */
   font-size: 1.5em;
+=======
+  top: 2em;
+  right: 0.5em;
+  font-family: 'Icons';
+  content: '\f133';
+  font-size: 1.2em;
+>>>>>>> upstream/master
   font-weight: normal;
   color: #CCCCCC;
 }
@@ -395,7 +491,17 @@
   color: #FFFFFF;
 }
 .ui.inverted.form .field.error textarea,
+<<<<<<< HEAD
 .ui.inverted.form .field.error input[type="text"] {
+=======
+.ui.inverted.form .field.error input[type="text"],
+.ui.inverted.form .field.error input[type="email"],
+.ui.inverted.form .field.error input[type="date"],
+.ui.inverted.form .field.error input[type="password"],
+.ui.inverted.form .field.error input[type="number"],
+.ui.inverted.form .field.error input[type="url"],
+.ui.inverted.form .field.error input[type="tel"]{
+>>>>>>> upstream/master
   background-color: #FFCCCC;
 }
 
@@ -431,7 +537,11 @@
   line-height: 0;
   height: 0;
 }
+<<<<<<< HEAD
 .ui.form .fields .field {
+=======
+.ui.form .fields > .field {
+>>>>>>> upstream/master
   clear: none;
   float: left;
   -webkit-box-sizing: border-box;
@@ -439,35 +549,62 @@
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
+<<<<<<< HEAD
 .ui.form .fields .field:first-child {
+=======
+.ui.form .fields > .field:first-child {
+>>>>>>> upstream/master
   border-left: none;
   box-shadow: none;
 }
 
 /* Other Combinations */
+<<<<<<< HEAD
 .ui.form .two.fields .field {
+=======
+.ui.form .two.fields > .fields,
+.ui.form .two.fields > .field {
+>>>>>>> upstream/master
   width: 50%;
   padding-left: 1%;
   padding-right: 1%;
 }
+<<<<<<< HEAD
 
 .ui.form .three.fields .field {
+=======
+.ui.form .three.fields > .fields,
+.ui.form .three.fields > .field {
+>>>>>>> upstream/master
   width: 33.333%;
   padding-left: 1%;
   padding-right: 1%;
 }
+<<<<<<< HEAD
 .ui.form .four.fields .field {
+=======
+.ui.form .four.fields > .fields,
+.ui.form .four.fields > .field {
+>>>>>>> upstream/master
   width: 25%;
   padding-left: 1%;
   padding-right: 1%;
 }
+<<<<<<< HEAD
 .ui.form .five.fields .field {
+=======
+.ui.form .five.fields > .fields,
+.ui.form .five.fields > .field {
+>>>>>>> upstream/master
   width: 20%;
   padding-left: 1%;
   padding-right: 1%;
 }
 
+<<<<<<< HEAD
 /* override sides, ie8 no last-child */
+=======
+>>>>>>> upstream/master
 .ui.form .fields .field:first-child {
   padding-left: 0%;
 }
@@ -487,11 +624,17 @@
 .ui.form .inline.fields .field > label,
 .ui.form .inline.fields .field > p,
 .ui.form .inline.fields .field > input,
+<<<<<<< HEAD
 .ui.form .inline.fields .field > select,
 .ui.form .inline.field > label,
 .ui.form .inline.field > p,
 .ui.form .inline.field > input,
 .ui.form .inline.field > select {
+=======
+.ui.form .inline.field > label,
+.ui.form .inline.field > p,
+.ui.form .inline.field > input {
+>>>>>>> upstream/master
 
   display: inline-block;
   width: auto;
@@ -527,8 +670,18 @@
 }
 .ui.small.form textarea,
 .ui.small.form input[type="text"],
+<<<<<<< HEAD
 .ui.small.form input[type="password"],
 .ui.small.form label {
+=======
+.ui.small.form input[type="email"],
+.ui.small.form input[type="date"],
+.ui.small.form input[type="password"],
+.ui.small.form input[type="number"],
+.ui.small.form input[type="url"],
+.ui.small.form input[type="tel"],
+.ui.small.form label{
+>>>>>>> upstream/master
   font-size: 1em;
 }
 

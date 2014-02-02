@@ -65,6 +65,7 @@ ol.ui.list li,
   visibility: hidden;
 }
 
+<<<<<<< HEAD
 
 /* Icon */
 .ui.list .item > .icon {
@@ -72,11 +73,25 @@ ol.ui.list li,
   margin: 0em;
   padding: 0em 0.5em 0em 0em;
   vertical-align: middle;
+=======
+/* Sub-List */
+.ui.list .list {
+  clear: both;
+}
+
+/* Icon */
+.ui.list .item > .icon {
+  display: block;
+  float: left;
+  margin: 0em 1em 0em 0em;
+  padding: 0.1em 0em 0em 0em;
+>>>>>>> upstream/master
 }
 .ui.list .item > .icon:only-child {
   display: inline-block;
 }
 .ui.horizontal.list .item > .icon {
+<<<<<<< HEAD
   padding: 0em 0.25em 0em 0em;
 }
 
@@ -90,6 +105,23 @@ ol.ui.list li,
   -webkit-border-radius: 0.2em;
   -moz-border-radius: 0.2em;
   border-radius: 0.2em;
+=======
+  margin: 0em;
+  padding: 0em 0.25em 0em 0em;
+}
+.ui.horizontal.list .item > .icon,
+.ui.horizontal.list .item > .icon + .content {
+  float: none;
+  display: inline-block;
+}
+
+/* Image */
+.ui.list .item > img {
+  display: block;
+  float: left;
+  margin-right: 1em;
+  vertical-align: middle;
+>>>>>>> upstream/master
 }
 
 /* Content */
@@ -101,7 +133,10 @@ ol.ui.list li,
 .ui.list .item > .icon + .content {
   display: table-cell;
   vertical-align: top;
+<<<<<<< HEAD
   padding-left: 0.5em;
+=======
+>>>>>>> upstream/master
 }
 
 /* Link */
@@ -150,15 +185,30 @@ ol.ui.list li,
   display: inline-block;
   font-size: 0em;
 }
+<<<<<<< HEAD
 .ui.horizontal.list .item {
+=======
+.ui.horizontal.list > .item {
+>>>>>>> upstream/master
   display: inline-block;
   margin-left: 1em;
   font-size: 1rem;
 }
+<<<<<<< HEAD
 
 .ui.horizontal.list .item:first-child {
   margin-left: 0em;
 }
+=======
+.ui.horizontal.list > .item:first-child {
+  margin-left: 0em;
+}
+.ui.horizontal.list .list {
+  padding-left: 0em;
+  padding-bottom: 0em;
+}
+
+>>>>>>> upstream/master
 
 /*******************************
              States
@@ -179,6 +229,7 @@ ol.ui.list li,
 *******************************/
 
 /*-------------------
+<<<<<<< HEAD
        Link
 --------------------*/
 
@@ -193,6 +244,61 @@ ol.ui.list li,
 }
 .ui.link.list .active {
   color: rgba(0, 0, 0, 0.7);
+=======
+       Inverted
+--------------------*/
+
+.ui.inverted.list a .icon {
+  color: rgba(255, 255, 255, 0.6);
+}
+.ui.inverted.list .description {
+  color: rgba(255, 255, 255, 0.8);
+}
+.ui.inverted.link.list .item {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+/*-------------------
+       Link
+--------------------*/
+
+.ui.link.list .item {
+  color: rgba(0, 0, 0, 0.3);
+}
+.ui.link.list a.item,
+.ui.link.list .item a {
+  color: rgba(0, 0, 0, 0.5);
+}
+.ui.link.list a.item:hover,
+.ui.link.list .item a:hover {
+  color: rgba(0, 0, 0, 0.8);
+}
+.ui.link.list a.item:active,
+.ui.link.list .item a:active {
+  color: rgba(0, 0, 0, 0.8);
+}
+.ui.link.list a.active.item,
+.ui.link.list .active.item a {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Inverted */
+.ui.inverted.link.list a.item,
+.ui.inverted.link.list .item a {
+  color: rgba(255, 255, 255, 0.6);
+}
+.ui.inverted.link.list a.item:hover,
+.ui.inverted.link.list .item a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+.ui.inverted.link.list a.item:active,
+.ui.inverted.link.list .item a:active {
+  color: rgba(255, 255, 255, 0.9);
+}
+.ui.inverted.link.list a.active.item,
+.ui.inverted.link.list .active.item a {
+  color: rgba(255, 255, 255, 0.8);
+>>>>>>> upstream/master
 }
 
 /*-------------------
@@ -204,6 +310,7 @@ ol.ui.list li,
   color: rgba(0, 0, 0, 0.4);
   padding: 0.5em;
 
+<<<<<<< HEAD
   -webkit-transition:
     0.2s color ease,
     0.2s padding-left ease,
@@ -224,6 +331,8 @@ ol.ui.list li,
     0.2s padding-left ease,
     0.2s background-color ease
   ;
+=======
+>>>>>>> upstream/master
   transition:
     0.2s color ease,
     0.2s padding-left ease,
@@ -234,6 +343,7 @@ ol.ui.list li,
   background-color: rgba(0, 0, 0, 0.02);
   color: rgba(0, 0, 0, 0.7);
 }
+<<<<<<< HEAD
 .ui.selection.list:not(.horizontal, .ordered) .item:hover {
   padding-left: 1em;
 }
@@ -241,6 +351,8 @@ ol.ui.list li,
   padding-left: 0.5em;
 }
 
+=======
+>>>>>>> upstream/master
 .ui.selection.list .item:active {
   background-color: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.7);
@@ -250,6 +362,41 @@ ol.ui.list li,
   color: rgba(0, 0, 0, 0.7);
 }
 
+<<<<<<< HEAD
+=======
+.ui.animated.list .item {
+  transition:
+    0.2s color ease,
+    0.2s padding-left ease,
+    0.2s background-color ease
+  ;
+}
+.ui.animated.list:not(.horizontal) .item:hover {
+  padding-left: 1em;
+}
+.ui.animated.list:not(.horizontal) .item:hover .item:hover {
+  padding-left: 0.5em;
+}
+
+
+/* Inverted */
+.ui.inverted.selection.list .item {
+  color: rgba(255, 255, 255, 0.6);
+}
+.ui.inverted.selection.list .item:hover {
+  background-color: rgba(255, 255, 255, 0.04);
+  color: rgba(255, 255, 255, 0.8);
+}
+.ui.inverted.selection.list .item:active {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.7);
+}
+.ui.inverted.selection.list .item.active {
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #FFFFFF;
+}
+
+>>>>>>> upstream/master
 
 
 /*-------------------
@@ -258,7 +405,11 @@ ol.ui.list li,
 
 ul.ui.list,
 .ui.bulleted.list {
+<<<<<<< HEAD
   margin-left: 1em;
+=======
+  margin-left: 1.5em;
+>>>>>>> upstream/master
 }
 ul.ui.list li,
 .ui.bulleted.list .item {
@@ -267,7 +418,11 @@ ul.ui.list li,
 ul.ui.list li:before,
 .ui.bulleted.list .item:before {
   position: absolute;
+<<<<<<< HEAD
   left: -1em;
+=======
+  left: -1.5em;
+>>>>>>> upstream/master
   content: '•';
 
   line-height: 1.2rem;
@@ -276,7 +431,11 @@ ul.ui.list li:before,
 
 ul.ui.list ul,
 .ui.bulleted.list .list {
+<<<<<<< HEAD
   padding-left: 1.2em;
+=======
+  padding-left: 1.5em;
+>>>>>>> upstream/master
 }
 
 /* Horizontal Bulleted */
@@ -332,7 +491,11 @@ ol.ui.list li:before,
 ol.ui.list ol,
 .ui.ordered.list .list {
   counter-reset: ordered;
+<<<<<<< HEAD
   padding-left: 3em;
+=======
+  padding-left: 2.5em;
+>>>>>>> upstream/master
 }
 
 ol.ui.list ol li:before,
@@ -357,7 +520,11 @@ ol.ui.horizontal.list li:before,
 --------------------*/
 
 .ui.divided.list > .item,
+<<<<<<< HEAD
 .ui.divided.list > .list {
+=======
+.ui.divided.list:not(.horizontal) > .list {
+>>>>>>> upstream/master
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding-left: 0.5em;
   padding-right: 0.5em;
@@ -370,6 +537,7 @@ ol.ui.horizontal.list li:before,
 }
 
 /* Sub Menu */
+<<<<<<< HEAD
 .ui.divided.list .list {
   margin-left: -0.5em;
   margin-right: -0.5em;
@@ -379,6 +547,17 @@ ol.ui.horizontal.list li:before,
   padding-right: 1em;
 }
 .ui.divided.list .list .item:first-child {
+=======
+.ui.divided.list:not(.horizontal) .list {
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+}
+.ui.divided.list:not(.horizontal) .list .item {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.ui.divided.list:not(.horizontal) .list .item:first-child {
+>>>>>>> upstream/master
   border-top-width: 1px;
 }
 
@@ -414,7 +593,11 @@ ol.ui.horizontal.list li:before,
 .ui.divided.horizontal.list {
   margin-left: 0em;
 }
+<<<<<<< HEAD
 .ui.divided.horizontal.list .item {
+=======
+.ui.divided.horizontal.list > .item {
+>>>>>>> upstream/master
   border-top: none;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
   margin: 0em;
@@ -423,11 +606,26 @@ ol.ui.horizontal.list li:before,
 
   line-height: 0.6;
 }
+<<<<<<< HEAD
 .ui.horizontal.divided.list .item:first-child {
+=======
+.ui.horizontal.divided.list > .item:first-child {
+>>>>>>> upstream/master
   border-left: none;
   padding-left: 0em;
 }
 
+<<<<<<< HEAD
+=======
+/* Inverted */
+.ui.divided.inverted.list > .item,
+.ui.divided.inverted.list > .list {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.ui.divided.inverted.horizontal.list .item {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+>>>>>>> upstream/master
 
 
 
@@ -502,6 +700,20 @@ ol.ui.horizontal.list li:before,
   border-right: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+<<<<<<< HEAD
+=======
+/* Inverted */
+.ui.celled.inverted.list > .item,
+.ui.celled.inverted.list > .list {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.ui.celled.inverted.horizontal.list .item {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+
+
+>>>>>>> upstream/master
 /*-------------------
        Relaxed
 --------------------*/
@@ -510,6 +722,12 @@ ol.ui.horizontal.list li:before,
   padding-top: 0.5em;
   padding-bottom: 0.5em;
 }
+<<<<<<< HEAD
+=======
+.ui.relaxed.list .header {
+  margin-bottom: 0.25em;
+}
+>>>>>>> upstream/master
 .ui.horizontal.relaxed.list .item {
   padding-left: 1.25em;
   padding-right: 1.25em;
@@ -519,6 +737,12 @@ ol.ui.horizontal.list li:before,
   padding-top: 1em;
   padding-bottom: 1em;
 }
+<<<<<<< HEAD
+=======
+.ui.very.relaxed.list .header {
+  margin-bottom: 0.5em;
+}
+>>>>>>> upstream/master
 .ui.horizontal.very.relaxed.list .item {
   padding-left: 2em;
   padding-right: 2em;

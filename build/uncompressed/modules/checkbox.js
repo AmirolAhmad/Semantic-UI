@@ -14,6 +14,7 @@
 $.fn.checkbox = function(parameters) {
   var
     $allModules    = $(this),
+<<<<<<< HEAD
 
     settings       = $.extend(true, {}, $.fn.checkbox.settings, parameters),
 
@@ -24,6 +25,8 @@ $.fn.checkbox = function(parameters) {
     eventNamespace  = '.' + namespace,
     moduleNamespace = 'module-' + namespace,
 
+=======
+>>>>>>> upstream/master
     moduleSelector = $allModules.selector || '',
 
     time           = new Date().getTime(),
@@ -32,12 +35,28 @@ $.fn.checkbox = function(parameters) {
     query          = arguments[0],
     methodInvoked  = (typeof query == 'string'),
     queryArguments = [].slice.call(arguments, 1),
+<<<<<<< HEAD
     invokedResponse
+=======
+    returnedValue
+>>>>>>> upstream/master
   ;
 
   $allModules
     .each(function() {
       var
+<<<<<<< HEAD
+=======
+        settings        = $.extend(true, {}, $.fn.checkbox.settings, parameters),
+
+        className       = settings.className,
+        namespace       = settings.namespace,
+        error           = settings.error,
+
+        eventNamespace  = '.' + namespace,
+        moduleNamespace = 'module-' + namespace,
+
+>>>>>>> upstream/master
         $module         = $(this),
         $label          = $(this).next(settings.selector.label).first(),
         $input          = $(this).find(settings.selector.input),
@@ -91,6 +110,15 @@ $.fn.checkbox = function(parameters) {
         is: {
           radio: function() {
             return $module.hasClass(className.radio);
+<<<<<<< HEAD
+=======
+          },
+          enabled: function() {
+            return $input.prop('checked') !== undefined && $input.prop('checked');
+          },
+          disabled: function() {
+            return !module.is.enabled();
+>>>>>>> upstream/master
           }
         },
 
@@ -104,7 +132,11 @@ $.fn.checkbox = function(parameters) {
         },
 
         enable: function() {
+<<<<<<< HEAD
           module.debug('Enabling checkbox');
+=======
+          module.debug('Enabling checkbox', $input);
+>>>>>>> upstream/master
           $input
             .prop('checked', true)
           ;
@@ -123,14 +155,22 @@ $.fn.checkbox = function(parameters) {
 
         toggle: function(event) {
           module.verbose('Determining new checkbox state');
+<<<<<<< HEAD
           if($input.prop('checked') === undefined || !$input.prop('checked')) {
             module.enable();
           }
           else if( module.can.disable() ) {
+=======
+          if( module.is.disabled() ) {
+            module.enable();
+          }
+          else if( module.is.enabled() && module.can.disable() ) {
+>>>>>>> upstream/master
             module.disable();
           }
         },
         setting: function(name, value) {
+<<<<<<< HEAD
           if(value !== undefined) {
             if( $.isPlainObject(name) ) {
               $.extend(true, settings, name);
@@ -138,12 +178,20 @@ $.fn.checkbox = function(parameters) {
             else {
               settings[name] = value;
             }
+=======
+          if( $.isPlainObject(name) ) {
+            $.extend(true, settings, name);
+          }
+          else if(value !== undefined) {
+            settings[name] = value;
+>>>>>>> upstream/master
           }
           else {
             return settings[name];
           }
         },
         internal: function(name, value) {
+<<<<<<< HEAD
           if(value !== undefined) {
             if( $.isPlainObject(name) ) {
               $.extend(true, module, name);
@@ -151,6 +199,13 @@ $.fn.checkbox = function(parameters) {
             else {
               module[name] = value;
             }
+=======
+          if( $.isPlainObject(name) ) {
+            $.extend(true, module, name);
+          }
+          else if(value !== undefined) {
+            module[name] = value;
+>>>>>>> upstream/master
           }
           else {
             return module[name];
@@ -218,9 +273,12 @@ $.fn.checkbox = function(parameters) {
             if(moduleSelector) {
               title += ' \'' + moduleSelector + '\'';
             }
+<<<<<<< HEAD
             if($allModules.size() > 1) {
               title += ' ' + '(' + $allModules.size() + ')';
             }
+=======
+>>>>>>> upstream/master
             if( (console.group !== undefined || console.table !== undefined) && performance.length > 0) {
               console.groupCollapsed(title);
               if(console.table) {
@@ -238,13 +296,21 @@ $.fn.checkbox = function(parameters) {
         },
         invoke: function(query, passedArguments, context) {
           var
+<<<<<<< HEAD
+=======
+            object = instance,
+>>>>>>> upstream/master
             maxDepth,
             found,
             response
           ;
           passedArguments = passedArguments || queryArguments;
           context         = element         || context;
+<<<<<<< HEAD
           if(typeof query == 'string' && instance !== undefined) {
+=======
+          if(typeof query == 'string' && object !== undefined) {
+>>>>>>> upstream/master
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -252,6 +318,7 @@ $.fn.checkbox = function(parameters) {
                 ? value + query[depth + 1].charAt(0).toUpperCase() + query[depth + 1].slice(1)
                 : query
               ;
+<<<<<<< HEAD
               if( $.isPlainObject( instance[value] ) && (depth != maxDepth) ) {
                 instance = instance[value];
               }
@@ -268,6 +335,23 @@ $.fn.checkbox = function(parameters) {
               }
               else {
                 module.error(error.method);
+=======
+              if( $.isPlainObject( object[camelCaseValue] ) && (depth != maxDepth) ) {
+                object = object[camelCaseValue];
+              }
+              else if( object[camelCaseValue] !== undefined ) {
+                found = object[camelCaseValue];
+                return false;
+              }
+              else if( $.isPlainObject( object[value] ) && (depth != maxDepth) ) {
+                object = object[value];
+              }
+              else if( object[value] !== undefined ) {
+                found = object[value];
+                return false;
+              }
+              else {
+>>>>>>> upstream/master
                 return false;
               }
             });
@@ -278,6 +362,7 @@ $.fn.checkbox = function(parameters) {
           else if(found !== undefined) {
             response = found;
           }
+<<<<<<< HEAD
           if($.isArray(invokedResponse)) {
             invokedResponse.push(response);
           }
@@ -286,6 +371,16 @@ $.fn.checkbox = function(parameters) {
           }
           else if(response !== undefined) {
             invokedResponse = response;
+=======
+          if($.isArray(returnedValue)) {
+            returnedValue.push(response);
+          }
+          else if(returnedValue !== undefined) {
+            returnedValue = [returnedValue, response];
+          }
+          else if(response !== undefined) {
+            returnedValue = response;
+>>>>>>> upstream/master
           }
           return found;
         }
@@ -306,8 +401,13 @@ $.fn.checkbox = function(parameters) {
     })
   ;
 
+<<<<<<< HEAD
   return (invokedResponse !== undefined)
     ? invokedResponse
+=======
+  return (returnedValue !== undefined)
+    ? returnedValue
+>>>>>>> upstream/master
     : this
   ;
 };
@@ -334,7 +434,11 @@ $.fn.checkbox.settings = {
   },
 
   selector : {
+<<<<<<< HEAD
     input  : 'input[type=checkbox]',
+=======
+    input  : 'input[type=checkbox], input[type=radio]',
+>>>>>>> upstream/master
     label  : 'label'
   },
 

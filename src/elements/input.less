@@ -22,6 +22,11 @@
 .ui.input {
   display: inline-block;
   position: relative;
+<<<<<<< HEAD
+=======
+
+  color: rgba(0, 0, 0, 0.7);
+>>>>>>> upstream/master
 }
 .ui.input input {
   width: 100%;
@@ -81,11 +86,19 @@
 ---------------------*/
 
 /* browsers require these rules separate */
+<<<<<<< HEAD
 .ui.input::-web inputkit-input-placeholder {
   color: #E0E0E0;
 }
 .ui.input::-moz input-placeholder {
   color: #E0E0E0;
+=======
+.ui.input::-webkit-input-placeholder {
+  color: #BBBBBB;
+}
+.ui.input::-moz-placeholder {
+  color: #BBBBBB;
+>>>>>>> upstream/master
 }
 
 
@@ -178,6 +191,10 @@
 ---------------------*/
 
 .ui.icon.input > .icon {
+<<<<<<< HEAD
+=======
+  cursor: default;
+>>>>>>> upstream/master
   position: absolute;
   opacity: 0.5;
   top: 0px;
@@ -187,7 +204,11 @@
 
   width: 2.6em;
   height: 100%;
+<<<<<<< HEAD
   padding-top: 0.85em;
+=======
+  padding-top: 0.82em;
+>>>>>>> upstream/master
 
   text-align: center;
 
@@ -206,6 +227,12 @@
   -ms-transition: opacity 0.3s ease-out;
   transition: opacity 0.3s ease-out;
 }
+<<<<<<< HEAD
+=======
+.ui.icon.input > .link.icon {
+  cursor: pointer;
+}
+>>>>>>> upstream/master
 .ui.icon.input input {
   padding-right: 3em !important;
 }
@@ -244,11 +271,21 @@
 .ui.labeled.input .corner.label {
   top: 1px;
   right: 1px;
+<<<<<<< HEAD
+=======
+  font-size: 0.55em;
+>>>>>>> upstream/master
 
   -webkit-border-top-right-radius: 0.3125em;
   -moz-border-top-right-radius: 0.3125em;
   border-top-right-radius: 0.3125em;
 }
+<<<<<<< HEAD
+=======
+.ui.labeled.input .corner.label > .icon {
+  margin: 0.4em 0em 0em 2em;
+}
+>>>>>>> upstream/master
 .ui.labeled.input input {
   padding-right: 2.5em !important;
 }
@@ -258,7 +295,11 @@
   padding-right: 3.25em !important;
 }
 .ui.labeled.icon.input:not(.left) > .icon {
+<<<<<<< HEAD
   margin-right: 0.75em;
+=======
+  margin-right: 1.25em;
+>>>>>>> upstream/master
 }
 
 
@@ -276,6 +317,7 @@
   border-bottom-right-radius: 0px !important;
   border-right: none;
 }
+<<<<<<< HEAD
 .ui.action.input > .button {
   display: table-cell;
   opacity: 0.9;
@@ -297,6 +339,28 @@
   -webkit-box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2) inset;
   -moz-box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2) inset;
   box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2) inset;
+=======
+.ui.action.input > .button,
+.ui.action.input > .buttons {
+  display: table-cell;
+
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  white-space: nowrap;
+}
+.ui.action.input > .button > .icon,
+.ui.action.input > .buttons > .button > .icon {
+  display: inline;
+  vertical-align: top;
+}
+
+.ui.fluid.action.input {
+  display: table;
+  width: 100%;
+}
+.ui.fluid.action.input > .button {
+  width: 0.01%;
+>>>>>>> upstream/master
 }
 
 /*--------------------
@@ -315,9 +379,12 @@
 .ui.mini.input {
   font-size: 0.8125rem;
 }
+<<<<<<< HEAD
 .ui.tiny.input {
   font-size: 0.875rem;
 }
+=======
+>>>>>>> upstream/master
 .ui.small.input {
   font-size: 0.875rem;
 }

@@ -106,6 +106,7 @@
 
 /* Text Color */
 .ui.menu .item,
+<<<<<<< HEAD
 .ui.menu .item > a {
   color: rgba(0, 0, 0, 0.75);
 }
@@ -119,6 +120,21 @@
 }
 .ui.menu .dropdown.item .menu .item,
 .ui.menu .dropdown.item .menu .item a {
+=======
+.ui.menu .item > a:not(.button) {
+  color: rgba(0, 0, 0, 0.75);
+}
+.ui.menu .item .item,
+.ui.menu .item .item > a:not(.button) {
+  color: rgba(30, 30, 30, 0.7);
+}
+.ui.menu .item .item .item,
+.ui.menu .item .item .item > a:not(.button) {
+  color: rgba(30, 30, 30, 0.6);
+}
+.ui.menu .dropdown.item .menu .item,
+.ui.menu .dropdown.item .menu .item a:not(.button) {
+>>>>>>> upstream/master
   color: rgba(0, 0, 0, 0.75);
 }
 /* Hover */
@@ -128,12 +144,20 @@
 .ui.menu .item .menu .link.item.hover {
   color: rgba(0, 0, 0, 0.85);
 }
+<<<<<<< HEAD
 .ui.menu .dropdown.item .menu .item a:hover {
+=======
+.ui.menu .dropdown.item .menu .item a:not(.button):hover {
+>>>>>>> upstream/master
   color: rgba(0, 0, 0, 0.85);
 }
 /* Active */
 .ui.menu .active.item,
+<<<<<<< HEAD
 .ui.menu .active.item a {
+=======
+.ui.menu .active.item a:not(.button) {
+>>>>>>> upstream/master
   color: rgba(0, 0, 0, 0.85);
 
   -moz-border-radius: 0px;
@@ -184,6 +208,7 @@
   right: 0px;
   width: 1px;
   height: 100%;
+<<<<<<< HEAD
   background-image: -webkit-linear-gradient(top,
     rgba(0, 0, 0, 0.05) 0%,
     rgba(0, 0, 0, 0.1) 50%,
@@ -205,6 +230,9 @@
     rgba(0, 0, 0, 0.05) 100%)
   ;
   background-image: linear-gradient(top,
+=======
+  background-image: linear-gradient(
+>>>>>>> upstream/master
     rgba(0, 0, 0, 0.05) 0%,
     rgba(0, 0, 0, 0.1) 50%,
     rgba(0, 0, 0, 0.05) 100%)
@@ -237,10 +265,31 @@
   margin-bottom: 0px;
 }
 
+<<<<<<< HEAD
+=======
+
+/*--------------
+     Button
+---------------*/
+
+.ui.menu:not(.vertical) .item > .button {
+  position: relative;
+  top: -0.05em;
+
+  margin: -0.55em 0;
+  padding-bottom: 0.55em;
+  padding-top: 0.55em;
+
+  font-size: 0.875em;
+}
+
+
+>>>>>>> upstream/master
 /*--------------
      Inputs
 ---------------*/
 
+<<<<<<< HEAD
 .ui.menu .item > .input,
 .ui.menu .item > .input input {
   width: 100%;
@@ -259,15 +308,63 @@
 .ui.vertical.menu .item > .input input,
 .ui.vertical.menu .item > input[type="text"] {
   top: 0em;
+=======
+.ui.menu:not(.vertical) .item > .input {
+  margin-top: -0.85em;
+  margin-bottom: -0.85em;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  width: 100%;
+  vertical-align: top;
+}
+.ui.menu .item > .input input {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+.ui.vertical.menu .item > .input input {
+>>>>>>> upstream/master
   margin: 0em;
   padding-top: 0.63em;
   padding-bottom: 0.63em;
 }
 .ui.vertical.menu .ui.input > .icon {
+<<<<<<< HEAD
   top: 0px;
   padding-top: 0.63em;
 }
 
+=======
+  padding-top: 0.63em;
+}
+
+/* Action Input */
+.ui.menu:not(.vertical) .item > .button.labeled > .icon {
+  padding-top: 0.6em;
+}
+.ui.menu:not(.vertical) .item .action.input > .button {
+  font-size: 0.8em;
+  padding: 0.55em 0.8em;
+}
+
+/* Resizes */
+.ui.small.menu:not(.vertical) .item > .input input {
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+}
+.ui.large.menu:not(.vertical) .item > .input input {
+  top: -0.125em;
+  padding-bottom: 0.6em;
+  padding-top: 0.6em;
+}
+.ui.large.menu:not(.vertical) .item .action.input > .button {
+  font-size: 0.8em;
+  padding: 0.9em;
+}
+.ui.large.menu:not(.vertical) .item .action.input > .button > .icon {
+  padding-top: 0.8em;
+}
+
+>>>>>>> upstream/master
 /*--------------
      Header
 ---------------*/
@@ -284,9 +381,25 @@
 /*--------------
     Dropdowns
 ---------------*/
+<<<<<<< HEAD
 /*.ui.menu .dropdown.item .menu {
   margin: 1px 0px 0px 0px;
 }*/
+=======
+.ui.menu .dropdown.item .menu {
+  left: 1px;
+  margin: 0px;
+  min-width: calc(100% - 1px);
+  box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+.ui.secondary.menu .dropdown.item .menu {
+  left: 0px;
+  min-width: 100%;
+}
+.ui.menu .pointing.dropdown.item .menu {
+  margin-top: 0.75em;
+}
+>>>>>>> upstream/master
 .ui.menu .simple.dropdown.item .menu {
   margin: 0px !important;
 }
@@ -481,7 +594,10 @@
 
 .ui.vertical.menu .item > .label {
   float: right;
+<<<<<<< HEAD
   min-width: 2.5;
+=======
+>>>>>>> upstream/master
   text-align: center;
 }
 .ui.vertical.menu .item > .icon:not(.input) {
@@ -522,7 +638,11 @@
     rgba(0, 0, 0, 0.1) 1.5em,
     rgba(0, 0, 0, 0.03) 100%)
   ;
+<<<<<<< HEAD
   background-image: linear-gradient(left,
+=======
+  background-image: linear-gradient(to right,
+>>>>>>> upstream/master
     rgba(0, 0, 0, 0.03) 0%,
     rgba(0, 0, 0, 0.1) 1.5em,
     rgba(0, 0, 0, 0.03) 100%)
@@ -536,11 +656,19 @@
 /*--- Dropdown ---*/
 .ui.vertical.menu .dropdown.item > i {
   float: right;
+<<<<<<< HEAD
+=======
+  content: "\f0da";
+>>>>>>> upstream/master
 }
 .ui.vertical.menu .dropdown.item .menu {
   top: 0% !important;
   left: 100%;
   margin: 0px 0px 0px 1px;
+<<<<<<< HEAD
+=======
+  box-shadow: 0 0px 1px 1px #DDDDDD;
+>>>>>>> upstream/master
 }
 .ui.vertical.menu .dropdown.item.active {
   border-top-right-radius: 0em;
@@ -672,6 +800,11 @@
   background-color: transparent;
   border-bottom: 1px solid #DCDDDE;
 
+<<<<<<< HEAD
+=======
+  border-radius: 0em;
+
+>>>>>>> upstream/master
   -webkit-box-shadow: none !important;
   -moz-box-shadow: none !important;
   box-shadow: none !important;
@@ -700,14 +833,24 @@
 /* Active */
 .ui.tabular.menu .active.item {
   position: relative;
+<<<<<<< HEAD
   top: 1px;
+=======
+>>>>>>> upstream/master
 
   background-color: #FFFFFF;
   color: rgba(0, 0, 0, 0.8);
 
   border-color: #DCDDDE;
+<<<<<<< HEAD
 
   padding-top: 0.83em;
+=======
+  font-weight: bold;
+
+  margin-bottom: -1px;
+  border-bottom: 1px solid #FFFFFF;
+>>>>>>> upstream/master
 
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -739,10 +882,19 @@
 }
 
 .ui.pagination.menu .item {
+<<<<<<< HEAD
   min-width: 2.7em;
   min-height: 2.7em;
   text-align: center;
 }
+=======
+  min-width: 3em;
+  text-align: center;
+}
+.ui.pagination.menu .icon.item .icon {
+  vertical-align: top;
+}
+>>>>>>> upstream/master
 .ui.pagination.menu.floated {
   display: block;
 }
@@ -772,6 +924,10 @@
   -moz-box-shadow: none;
   box-shadow: none;
 }
+<<<<<<< HEAD
+=======
+.ui.secondary.menu > .menu > .item,
+>>>>>>> upstream/master
 .ui.secondary.menu > .item {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -787,10 +943,21 @@
   -moz-border-radius: 0.3125em;
   border-radius: 0.3125em;
 }
+<<<<<<< HEAD
+=======
+.ui.secondary.menu > .menu > .item:before,
+>>>>>>> upstream/master
 .ui.secondary.menu > .item:before {
   display: none !important;
 }
 
+<<<<<<< HEAD
+=======
+.ui.secondary.menu .item > .input input {
+  background-color: transparent;
+  border: none;
+}
+>>>>>>> upstream/master
 .ui.secondary.menu .link.item,
 .ui.secondary.menu a.item {
   opacity: 0.8;
@@ -801,7 +968,10 @@
   -ms-transition: none;
   transition: none;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master
 .ui.secondary.menu .header.item {
   border-right: 0.1em solid rgba(0, 0, 0, 0.1);
   background-color: transparent;
@@ -818,6 +988,10 @@
 }
 
 /* active */
+<<<<<<< HEAD
+=======
+.ui.secondary.menu > .menu > .active.item,
+>>>>>>> upstream/master
 .ui.secondary.menu > .active.item {
   background-color: rgba(0, 0, 0, 0.08);
   opacity: 1;
@@ -841,8 +1015,13 @@
 .ui.secondary.inverted.menu a.item:hover {
   color: rgba(255, 255, 255, 0.9);
 }
+<<<<<<< HEAD
 .ui.secondary.inverted.menu > .active.item {
   background-color: rgba(255, 255, 255, 0.9);
+=======
+.ui.secondary.inverted.menu .active.item {
+  background-color: rgba(255, 255, 255, 0.1);
+>>>>>>> upstream/master
 }
 
 
@@ -862,6 +1041,7 @@
 
 .ui.secondary.pointing.menu {
   border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+<<<<<<< HEAD
 
 }
 
@@ -874,6 +1054,11 @@
   box-shadow: none !important;
 }
 
+=======
+}
+
+.ui.secondary.pointing.menu > .menu > .item,
+>>>>>>> upstream/master
 .ui.secondary.pointing.menu > .item {
   margin: 0em 0em -3px;
   padding: 0.6em 0.95em;
@@ -900,24 +1085,58 @@
     color 0.2s
   ;
 }
+<<<<<<< HEAD
+=======
+
+/* Item Types */
+.ui.secondary.pointing.menu .header.item {
+  margin-bottom: -3px;
+  background-color: transparent !important;
+  border-right-width: 0px !important;
+  font-weight: bold !important;
+  color: rgba(0, 0, 0, 0.8) !important;
+}
+.ui.secondary.pointing.menu .text.item {
+  box-shadow: none !important;
+}
+.ui.secondary.pointing.menu > .menu > .item:after,
+>>>>>>> upstream/master
 .ui.secondary.pointing.menu > .item:after {
   display: none;
 }
 
 /* Hover */
+<<<<<<< HEAD
 .ui.secondary.pointing.menu > .item.hover,
 .ui.secondary.pointing.menu > .item:hover {
+=======
+.ui.secondary.pointing.menu > .menu > .link.item:hover,
+.ui.secondary.pointing.menu > .link.item:hover,
+.ui.secondary.pointing.menu > .menu > a.item:hover,
+.ui.secondary.pointing.menu > a.item:hover {
+>>>>>>> upstream/master
   background-color: transparent;
   color: rgba(0, 0, 0, 0.7);
 }
 
 /* Down */
+<<<<<<< HEAD
 .ui.secondary.pointing.menu > .item:active {
+=======
+.ui.secondary.pointing.menu > .menu > .link.item:active,
+.ui.secondary.pointing.menu > .link.item:active,
+.ui.secondary.pointing.menu > .menu > a.item:active,
+.ui.secondary.pointing.menu > a.item:active {
+>>>>>>> upstream/master
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.2);
 }
 
 /* Active */
+<<<<<<< HEAD
+=======
+.ui.secondary.pointing.menu > .menu > .item.active,
+>>>>>>> upstream/master
 .ui.secondary.pointing.menu > .item.active {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.4);
@@ -991,14 +1210,24 @@
 .ui.secondary.inverted.pointing.menu > .item {
   color: rgba(255, 255, 255, 0.7);
 }
+<<<<<<< HEAD
 
 /* Hover */
 .ui.secondary.inverted.pointing.menu > .item.hover,
+=======
+.ui.secondary.inverted.pointing.menu > .header.item {
+  color: #FFFFFF !important;
+}
+
+/* Hover */
+.ui.secondary.inverted.pointing.menu > .menu > .item:hover,
+>>>>>>> upstream/master
 .ui.secondary.inverted.pointing.menu > .item:hover {
   color: rgba(255, 255, 255, 0.85);
 }
 
 /* Down */
+<<<<<<< HEAD
 .ui.secondary.inverted.pointing.menu > .item:active {
   border-color: rgba(255, 255, 255, 0.4) !important;
 }
@@ -1006,6 +1235,17 @@
 /* Active */
 .ui.secondary.inverted.pointing.menu > .item.active {
   border-color: rgba(255, 255, 255, 0.8) !important;
+=======
+.ui.secondary.inverted.pointing.menu > .menu > .item:active,
+.ui.secondary.inverted.pointing.menu > .item:active {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+/* Active */
+.ui.secondary.inverted.pointing.menu > .menu > .item.active,
+.ui.secondary.inverted.pointing.menu > .item.active {
+  border-color: rgba(255, 255, 255, 0.8);
+>>>>>>> upstream/master
   color: rgba(255, 255, 255, 1);
 }
 
@@ -1282,27 +1522,47 @@
 
 /*--- Border ---*/
 .ui.inverted.menu .item:before {
+<<<<<<< HEAD
   background-image: -webkit-linear-gradient(top,
+=======
+  background-image: -webkit-linear-gradient(
+>>>>>>> upstream/master
     rgba(255, 255, 255, 0.03) 0%,
     rgba(255, 255, 255, 0.1) 50%,
     rgba(255, 255, 255, 0.03) 100%)
   ;
+<<<<<<< HEAD
   background-image: -moz-linear-gradient(top,
+=======
+  background-image: -moz-linear-gradient(
+>>>>>>> upstream/master
     rgba(255, 255, 255, 0.03) 0%,
     rgba(255, 255, 255, 0.1) 50%,
     rgba(255, 255, 255, 0.03) 100%)
   ;
+<<<<<<< HEAD
   background-image: -o-linear-gradient(top,
+=======
+  background-image: -o-linear-gradient(
+>>>>>>> upstream/master
     rgba(255, 255, 255, 0.03) 0%,
     rgba(255, 255, 255, 0.1) 50%,
     rgba(255, 255, 255, 0.03) 100%)
   ;
+<<<<<<< HEAD
   background-image: -ms-linear-gradient(top,
+=======
+  background-image: -ms-linear-gradient(
+>>>>>>> upstream/master
     rgba(255, 255, 255, 0.03) 0%,
     rgba(255, 255, 255, 0.1) 50%,
     rgba(255, 255, 255, 0.03) 100%)
   ;
+<<<<<<< HEAD
   background-image: linear-gradient(top,
+=======
+  background-image: linear-gradient(
+>>>>>>> upstream/master
     rgba(255, 255, 255, 0.03) 0%,
     rgba(255, 255, 255, 0.1) 50%,
     rgba(255, 255, 255, 0.03) 100%)
@@ -1329,7 +1589,11 @@
     rgba(255, 255, 255, 0.1) 50%,
     rgba(255, 255, 255, 0.03) 100%)
   ;
+<<<<<<< HEAD
   background-image: linear-gradient(left,
+=======
+  background-image: linear-gradient(to right,
+>>>>>>> upstream/master
     rgba(255, 255, 255, 0.03) 0%,
     rgba(255, 255, 255, 0.1) 50%,
     rgba(255, 255, 255, 0.03) 100%)
@@ -1379,11 +1643,19 @@
 
 /*--- Pointers ---*/
 .ui.inverted.pointing.menu .active.item:after {
+<<<<<<< HEAD
   background-color: #505050;
   box-shadow: none;
 }
 .ui.inverted.pointing.menu .active.item:hover:after {
   background-color: #3B3B3B;
+=======
+  background-color: #5B5B5B;
+  box-shadow: none;
+}
+.ui.inverted.pointing.menu .active.item:hover:after {
+  background-color: #4A4A4A;
+>>>>>>> upstream/master
 }
 
 
@@ -1590,8 +1862,12 @@
 
 .ui.menu.fixed {
   position: fixed;
+<<<<<<< HEAD
   z-index: 10;
 
+=======
+  z-index: 999;
+>>>>>>> upstream/master
   margin: 0em;
   border: none;
   width: 100%;
@@ -1633,13 +1909,25 @@
   height: 100%;
 }
 
+<<<<<<< HEAD
+=======
+/* Coupling with Grid */
+.ui.fixed.menu + .ui.grid {
+  padding-top: 2.75rem;
+}
+
+>>>>>>> upstream/master
 /*-------------------
        Pointing
 --------------------*/
 
 .ui.pointing.menu .active.item:after {
   position: absolute;
+<<<<<<< HEAD
   bottom: -0.35em;
+=======
+  bottom: -0.3em;
+>>>>>>> upstream/master
   left: 50%;
   content: "";
 
@@ -1762,6 +2050,15 @@
 .ui.large.menu .item .item {
   font-size: 0.875rem;
 }
+<<<<<<< HEAD
 .ui.large.vertical.menu {
   width: 18rem;
 }
+=======
+.ui.large.menu .dropdown.item .item {
+  font-size: 1rem;
+}
+.ui.large.vertical.menu {
+  width: 18rem;
+}
+>>>>>>> upstream/master
