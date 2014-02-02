@@ -26,7 +26,11 @@
 .ui.accordion .accordion {
   width: 600px;
   max-width: 100%;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   font-size: 1rem;
   border-radius: 0.3125em;
   background-color: #FFFFFF;
@@ -39,7 +43,11 @@
   box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.accordion .title {
   cursor: pointer;
   margin: 0em;
@@ -67,7 +75,11 @@
 
 /* Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.accordion .content {
   display: none;
   margin: 0em;
@@ -79,7 +91,11 @@
 
 /* Arrow */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.accordion .title .dropdown.icon {
   display: inline-block;
   float: none;
@@ -132,7 +148,11 @@
   box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.basic.accordion.menu .title,
 .ui.basic.accordion.menu .content {
   padding: 0em;
@@ -184,7 +204,11 @@
       Hover
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.accordion .title:hover,
 .ui.accordion .active.title {
   color: rgba(0, 0, 0, 0.8);
@@ -199,7 +223,11 @@
      Active
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.accordion .active.title {
   background-color: rgba(0, 0, 0, 0.1);
   color: rgba(0, 0, 0, 0.8);
@@ -257,4 +285,8 @@
 .ui.fluid.accordion .accordion {
   width: 100%;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

@@ -30,7 +30,11 @@ $.fn.shape = function(parameters) {
     moduleNamespace = 'module-' + namespace,
 =======
     $body           = $('body'),
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
     time            = new Date().getTime(),
     performance     = [],
@@ -42,7 +46,11 @@ $.fn.shape = function(parameters) {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
 
   $allModules
@@ -63,7 +71,11 @@ $.fn.shape = function(parameters) {
         eventNamespace  = '.' + namespace,
         moduleNamespace = 'module-' + namespace,
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         // selector cache
         $module       = $(this),
         $sides        = $module.find(selector.sides),
@@ -73,7 +85,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
         nextSelector = false,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         $activeSide,
         $nextSide,
 
@@ -195,7 +211,11 @@ $.fn.shape = function(parameters) {
           }
           else {
             callback();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -217,7 +237,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
             .removeClass(className.css)
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             .removeClass(className.animating)
             .attr('style', '')
             .removeAttr('style')
@@ -348,7 +372,11 @@ $.fn.shape = function(parameters) {
         },
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         set: {
 
           defaultSide: function() {
@@ -360,7 +388,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
             nextSelector = false;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.verbose('Active side set to', $activeSide);
             module.verbose('Next side set to', $nextSide);
           },
@@ -429,7 +461,11 @@ $.fn.shape = function(parameters) {
 
           nextSide: function(selector) {
             nextSelector = selector;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             $nextSide = $module.find(selector);
             if($nextSide.size() === 0) {
               module.error(error.side);
@@ -449,7 +485,11 @@ $.fn.shape = function(parameters) {
             $.proxy(settings.onChange, $nextSide)();
 =======
             $.proxy(settings.onChange, $nextSide[0])();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.set.defaultSide();
           }
         },
@@ -462,7 +502,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
               module.set.stageSize();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.stage.above();
               module.animate( module.get.transform.up() );
             }
@@ -477,7 +521,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
               module.set.stageSize();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.stage.below();
               module.animate( module.get.transform.down() );
             }
@@ -492,7 +540,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
               module.set.stageSize();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.stage.left();
               module.animate(module.get.transform.left() );
             }
@@ -507,7 +559,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
               module.set.stageSize();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.stage.right();
               module.animate(module.get.transform.right() );
             }
@@ -522,7 +578,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
               module.set.stageSize();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.stage.behind();
               module.animate(module.get.transform.over() );
             }
@@ -537,7 +597,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
               module.set.stageSize();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.stage.behind();
               module.animate(module.get.transform.back() );
             }
@@ -651,7 +715,11 @@ $.fn.shape = function(parameters) {
 
         },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         stage: {
 
           above: function() {
@@ -799,7 +867,11 @@ $.fn.shape = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -820,7 +892,11 @@ $.fn.shape = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -911,7 +987,11 @@ $.fn.shape = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -922,7 +1002,11 @@ $.fn.shape = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -963,7 +1047,11 @@ $.fn.shape = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -992,7 +1080,11 @@ $.fn.shape = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -1019,7 +1111,11 @@ $.fn.shape = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -1055,7 +1151,11 @@ $.fn.shape.settings = {
 =======
   // animation duration
   duration   : 700,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
   // possible errors
   error: {
@@ -1073,7 +1173,11 @@ $.fn.shape.settings = {
     animating : 'animating',
     hidden    : 'hidden',
     loading   : 'loading',
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     active    : 'active'
   },
 

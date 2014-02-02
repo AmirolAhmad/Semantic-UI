@@ -18,7 +18,11 @@
             Video
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video {
   position: relative;
   max-width: 100%;
@@ -46,7 +50,11 @@
 
 /* Play Icon Overlay */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video .play {
   cursor: pointer;
   position: absolute;
@@ -69,7 +77,11 @@
   transition: opacity 0.3s;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video .play.icon:before {
   position: absolute;
   top: 50%;
@@ -83,7 +95,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video .placeholder {
   display: block;
   width: 100%;
@@ -130,7 +146,11 @@
      Active
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video.active .play,
 .ui.video.active .placeholder {
   display: none;
@@ -144,4 +164,8 @@
 .ui.video.active .embed {
   display: block;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

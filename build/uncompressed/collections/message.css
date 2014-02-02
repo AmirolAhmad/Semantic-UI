@@ -18,7 +18,11 @@
             Message
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message {
   position: relative;
   min-height: 18px;
@@ -35,7 +39,11 @@
   -ms-transition: opacity 0.1s ease, color 0.1s ease, background 0.1s ease, box-shadow 0.1s ease;
 =======
   -webkit-transition: opacity 0.1s ease, color 0.1s ease, background 0.1s ease, -webkit-box-shadow 0.1s ease;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   transition: opacity 0.1s ease, color 0.1s ease, background 0.1s ease, box-shadow 0.1s ease;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -74,7 +82,11 @@
 
 /* block with headers */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message .header {
   margin: 0em;
   font-size: 1.33em;
@@ -86,7 +98,11 @@
 
 /* block with paragraphs */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message p {
   opacity: 0.85;
   margin: 1em 0em;
@@ -132,7 +148,11 @@
 
 /* block with child list */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message ul.list {
   opacity: 0.85;
   list-style-position: inside;
@@ -155,7 +175,11 @@
   padding: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message ul.list li:before {
   position: absolute;
   content: '\2022';
@@ -178,7 +202,11 @@
 
 /* dismissable block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message > .close.icon {
   cursor: pointer;
   position: absolute;
@@ -216,7 +244,11 @@
             States
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message.visible,
 .ui.header.visible {
   display: block !important;
@@ -224,7 +256,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message.hidden,
 .ui.header.hidden {
   display: none;
@@ -260,7 +296,11 @@
     Attached
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.attached.message {
   margin-left: -1px;
   margin-right: -1px;
@@ -311,7 +351,11 @@
       Icon
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.message {
   display: table;
   width: 100%;
@@ -339,7 +383,11 @@
   padding-left: 1em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.message > .content {
   display: table-cell;
   vertical-align: middle;
@@ -354,7 +402,11 @@
     Inverted
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.message {
   background-color: rgba(255, 255, 255, 0.05);
   color: rgba(255, 255, 255, 0.95);
@@ -386,7 +438,11 @@
      Colors
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.black.message {
   background-color: #333333;
   color: rgba(255, 255, 255, 0.95);
@@ -401,7 +457,11 @@
      Types
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.blue.message,
 .ui.info.message {
   background-color: #E6F4F9;
@@ -413,7 +473,11 @@
 
 /* Green Text Block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.green.message {
   background-color: #DEFCD5;
   color: #52A954;
@@ -424,7 +488,11 @@
 
 /* Yellow Text Block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.yellow.message,
 .ui.warning.message {
   background-color: #F6F3D5;
@@ -436,7 +504,11 @@
 
 /* Red Text Block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.red.message {
   background-color: #F1D7D7;
   color: #A95252;
@@ -513,4 +585,8 @@
 .ui.massive.message {
   font-size: 2em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

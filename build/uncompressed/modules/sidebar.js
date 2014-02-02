@@ -3,7 +3,11 @@
  * # Semantic - Dropdown
 =======
  * # Semantic - Sidebar
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -54,7 +58,11 @@ $.fn.sidebar = function(parameters) {
     methodInvoked  = (typeof query == 'string'),
     queryArguments = [].slice.call(arguments, 1),
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
 
   $allModules
@@ -87,7 +95,11 @@ $.fn.sidebar = function(parameters) {
 
         element         = this,
         instance        = $module.data(moduleNamespace),
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         module
       ;
 
@@ -166,7 +178,11 @@ $.fn.sidebar = function(parameters) {
             callback();
             $.proxy(settings.onChange, element)();
             $.proxy(settings.onShow, element)();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             module.debug('Sidebar is already visible');
@@ -182,7 +198,11 @@ $.fn.sidebar = function(parameters) {
             : function(){}
           ;
           module.debug('Hiding sidebar', callback);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           if(module.is.open()) {
             if(!settings.overlay) {
               module.pullPage();
@@ -207,7 +227,11 @@ $.fn.sidebar = function(parameters) {
           ;
         },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         toggle: function() {
           if(module.is.closed()) {
             module.show();
@@ -282,7 +306,11 @@ $.fn.sidebar = function(parameters) {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         remove: {
           bodyCSS: function() {
             module.debug('Removing body css styles', $style);
@@ -375,7 +403,11 @@ $.fn.sidebar = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -396,7 +428,11 @@ $.fn.sidebar = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -487,7 +523,11 @@ $.fn.sidebar = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -498,7 +538,11 @@ $.fn.sidebar = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -539,7 +583,11 @@ $.fn.sidebar = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -568,7 +616,11 @@ $.fn.sidebar = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -594,7 +646,11 @@ $.fn.sidebar = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -620,7 +676,11 @@ $.fn.sidebar.settings = {
   overlay     : false,
   duration    : 300,
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   onChange     : function(){},
   onShow       : function(){},
   onHide       : function(){},
@@ -640,7 +700,11 @@ $.fn.sidebar.settings = {
     sidebar: '.ui.sidebar'
   },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   error   : {
     method   : 'The method you called is not defined.',
     notFound : 'There were no elements that matched the specified selector'
@@ -652,4 +716,8 @@ $.fn.sidebar.settings = {
 })( jQuery, window , document );
 =======
 })( jQuery, window , document );
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

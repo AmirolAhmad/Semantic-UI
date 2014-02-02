@@ -26,7 +26,11 @@ $.fn.checkbox = function(parameters) {
     moduleNamespace = 'module-' + namespace,
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     moduleSelector = $allModules.selector || '',
 
     time           = new Date().getTime(),
@@ -39,7 +43,11 @@ $.fn.checkbox = function(parameters) {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
 
   $allModules
@@ -56,7 +64,11 @@ $.fn.checkbox = function(parameters) {
         eventNamespace  = '.' + namespace,
         moduleNamespace = 'module-' + namespace,
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         $module         = $(this),
         $label          = $(this).next(settings.selector.label).first(),
         $input          = $(this).find(settings.selector.input),
@@ -118,7 +130,11 @@ $.fn.checkbox = function(parameters) {
           },
           disabled: function() {
             return !module.is.enabled();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -136,7 +152,11 @@ $.fn.checkbox = function(parameters) {
           module.debug('Enabling checkbox');
 =======
           module.debug('Enabling checkbox', $input);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $input
             .prop('checked', true)
           ;
@@ -165,7 +185,11 @@ $.fn.checkbox = function(parameters) {
             module.enable();
           }
           else if( module.is.enabled() && module.can.disable() ) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.disable();
           }
         },
@@ -184,7 +208,11 @@ $.fn.checkbox = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -205,7 +233,11 @@ $.fn.checkbox = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -278,7 +310,11 @@ $.fn.checkbox = function(parameters) {
               title += ' ' + '(' + $allModules.size() + ')';
             }
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             if( (console.group !== undefined || console.table !== undefined) && performance.length > 0) {
               console.groupCollapsed(title);
               if(console.table) {
@@ -299,7 +335,11 @@ $.fn.checkbox = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -310,7 +350,11 @@ $.fn.checkbox = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -351,7 +395,11 @@ $.fn.checkbox = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -380,7 +428,11 @@ $.fn.checkbox = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -407,7 +459,11 @@ $.fn.checkbox = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -438,7 +494,11 @@ $.fn.checkbox.settings = {
     input  : 'input[type=checkbox]',
 =======
     input  : 'input[type=checkbox], input[type=radio]',
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     label  : 'label'
   },
 

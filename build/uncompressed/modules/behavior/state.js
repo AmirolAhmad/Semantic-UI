@@ -41,7 +41,11 @@ $.fn.state = function(parameters) {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
   $allModules
     .each(function() {
@@ -549,7 +553,11 @@ $.fn.state = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -560,7 +568,11 @@ $.fn.state = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -601,7 +613,11 @@ $.fn.state = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -630,7 +646,11 @@ $.fn.state = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -657,7 +677,11 @@ $.fn.state = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };

@@ -29,7 +29,11 @@ $.fn.rating = function(parameters) {
     moduleNamespace = 'module-' + namespace,
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     time            = new Date().getTime(),
     performance     = [],
 
@@ -40,7 +44,11 @@ $.fn.rating = function(parameters) {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
   $allModules
     .each(function() {
@@ -71,7 +79,11 @@ $.fn.rating = function(parameters) {
         $module         = $(this),
         $icon           = $module.find(selector.icon),
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         module
       ;
 
@@ -103,7 +115,11 @@ $.fn.rating = function(parameters) {
 <<<<<<< HEAD
 =======
           instance = module;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $module
             .data(moduleNamespace, module)
           ;
@@ -113,7 +129,11 @@ $.fn.rating = function(parameters) {
 <<<<<<< HEAD
 =======
           module.verbose('Destroying previous instance', instance);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $module
             .removeData(moduleNamespace)
           ;
@@ -188,7 +208,11 @@ $.fn.rating = function(parameters) {
             .addClass(className.active)
 =======
             .removeClass(className.disabled)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           ;
         },
 
@@ -202,7 +226,11 @@ $.fn.rating = function(parameters) {
             .removeClass(className.active)
 =======
             .addClass(className.disabled)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           ;
         },
 
@@ -246,7 +274,11 @@ $.fn.rating = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -267,7 +299,11 @@ $.fn.rating = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -340,7 +376,11 @@ $.fn.rating = function(parameters) {
             if($allModules.size() > 1) {
               title += ' ' + '(' + $allModules.size() + ')';
             }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             if( (console.group !== undefined || console.table !== undefined) && performance.length > 0) {
               console.groupCollapsed(title);
               if(console.table) {
@@ -361,7 +401,11 @@ $.fn.rating = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -372,7 +416,11 @@ $.fn.rating = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -413,7 +461,11 @@ $.fn.rating = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -442,7 +494,11 @@ $.fn.rating = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -450,7 +506,11 @@ $.fn.rating = function(parameters) {
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
       if(methodInvoked) {
         if(instance === undefined) {
           module.initialize();
@@ -472,7 +532,11 @@ $.fn.rating = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -510,7 +574,11 @@ $.fn.rating.settings = {
     disabled : 'disabled',
     hover    : 'hover',
     loading  : 'loading'
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   },
 
   selector  : {

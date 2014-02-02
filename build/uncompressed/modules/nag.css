@@ -18,7 +18,11 @@
              Nag
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nag {
   display: none;
   opacity: 0.95;
@@ -40,7 +44,11 @@
 <<<<<<< HEAD
   -moz-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
   font-size: 1em;
   text-align: center;
@@ -68,7 +76,11 @@ a.ui.nag {
   cursor: pointer;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nag > .title {
   display: inline-block;
   margin: 0em 0.5em;
@@ -77,7 +89,11 @@ a.ui.nag {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nag > .close.icon {
   cursor: pointer;
   opacity: 0.4;
@@ -135,7 +151,11 @@ a.ui.nag {
      Static
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.overlay.nag {
   position: absolute;
   display: block;
@@ -173,7 +193,11 @@ a.ui.nag {
   border-radius: 5px 5px 0px 0px;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.fixed.bottom.nags,
 .ui.fixed.bottom.nag {
   top: auto;
@@ -189,7 +213,11 @@ a.ui.nag {
      White
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.white.nags .nag,
 .ui.white.nag {
   background-color: #F1F1F1;
@@ -199,7 +227,11 @@ a.ui.nag {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.white.nags .nag .close,
 .ui.white.nags .nag .title,
 .ui.white.nag .close,
@@ -224,4 +256,8 @@ a.ui.nag {
 .ui.nags .nag {
   border-radius: 0px;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

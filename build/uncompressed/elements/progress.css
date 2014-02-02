@@ -18,7 +18,11 @@
          Progress Bar
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.progress {
   border: 1px solid rgba(0, 0, 0, 0.1);
   width: 100%;
@@ -29,7 +33,11 @@
   -webkit-border-radius: 0.3125em;
   -moz-border-radius: 0.3125em;
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-radius: 0.3125em;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -39,7 +47,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.progress .bar {
   display: inline-block;
   height: 100%;
@@ -143,7 +155,11 @@
   position: relative;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.active.progress .bar::after {
   content: '';
   opacity: 0;
@@ -167,7 +183,11 @@
   animation: progress-active 2s ease-out infinite;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes progress-active {
   0% {
     opacity: 0;
@@ -183,7 +203,11 @@
     opacity: 0.3;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     opacity: 0;
     width: 95%;
@@ -205,7 +229,11 @@
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @keyframes progress-active {
   0% {
     opacity: 0;
@@ -221,7 +249,11 @@
     opacity: 0.3;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     opacity: 0;
     width: 100%;
@@ -273,7 +305,11 @@
 
 /* bottom attached */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.progress.attached {
   position: relative;
   border: none;
@@ -281,7 +317,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.progress.attached,
 .ui.progress.attached .bar {
   display: block;
@@ -430,7 +470,11 @@
   animation: progress-striped 3s linear infinite;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes progress-striped {
   0% {
     background-position: 0px 0;
@@ -438,7 +482,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     background-position: 60px 0;
   }
@@ -454,7 +502,11 @@
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @keyframes progress-striped {
   0% {
     background-position: 0px 0;
@@ -462,7 +514,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     background-position: 60px 0;
   }
@@ -483,4 +539,8 @@
 .ui.small.progress .bar {
   height: 14px;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

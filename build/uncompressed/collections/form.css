@@ -25,7 +25,11 @@
         Form
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form {
   position: relative;
   max-width: 100%;
@@ -68,7 +72,11 @@
         Field
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .field {
   clear: both;
   margin: 0em 0em 1em;
@@ -83,7 +91,11 @@
         Labels
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .field > label {
   margin: 0em 0em 0.3em;
   display: block;
@@ -131,7 +143,11 @@
 .ui.form input[type="number"],
 .ui.form input[type="url"],
 .ui.form input[type="tel"] {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   margin: 0em;
   padding: 0.85em 1.2em;
   font-size: 0.875em;
@@ -155,7 +171,11 @@
   -webkit-transition: background-color 0.3s ease-out, -webkit-box-shadow 0.2s ease, border-color 0.2s ease;
   transition: background-color 0.3s ease-out, box-shadow 0.2s ease, border-color 0.2s ease;
   -webkit-box-shadow: 0em 0em 0em 0em rgba(0, 0, 0, 0.3) inset;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: 0em 0em 0em 0em rgba(0, 0, 0, 0.3) inset;
   -webkit-appearance: none;
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
@@ -167,7 +187,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.textarea,
 .ui.form textarea {
   line-height: 1.33;
@@ -182,7 +206,11 @@
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form textarea,
 .ui.form input[type="checkbox"] {
   vertical-align: top;
@@ -197,7 +225,11 @@
        Dividers
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .divider {
   clear: both;
   margin: 1em 0em;
@@ -212,7 +244,11 @@
    Types of Messages
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .info.message,
 .ui.form .warning.message,
 .ui.form .error.message {
@@ -245,7 +281,11 @@
   white-space: nowrap;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.field .prompt {
   margin-top: 0em;
   margin-left: 1em;
@@ -253,7 +293,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.field .prompt:before {
   margin-top: -0.3em;
   bottom: auto;
@@ -287,7 +331,11 @@
 .ui.form input[type="number"]:focus,
 .ui.form input[type="url"]:focus,
 .ui.form input[type="tel"]:focus,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form textarea:focus {
   color: rgba(0, 0, 0, 0.85);
   border-color: rgba(0, 0, 0, 0.2);
@@ -381,7 +429,11 @@
 .ui.form .field.error input[type="number"],
 .ui.form .field.error input[type="url"],
 .ui.form .field.error input[type="tel"] {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   background-color: #FFFAFA;
   border-color: #E7BEBE;
   border-left: none;
@@ -409,7 +461,11 @@
 .ui.form .field.error input[type="number"]:focus,
 .ui.form .field.error input[type="url"]:focus,
 .ui.form .field.error input[type="tel"]:focus {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-color: #ff5050;
   color: #ff5050;
   -webkit-appearance: none;
@@ -498,7 +554,11 @@
        Disabled
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .field :disabled,
 .ui.form .field.disabled {
   opacity: 0.5;
@@ -537,7 +597,11 @@
   position: relative;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form.loading:after {
   position: absolute;
   top: 0%;
@@ -565,7 +629,11 @@
       Fluid Width
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form.fluid {
   width: 100%;
   -webkit-box-sizing: border-box;
@@ -673,7 +741,11 @@
   margin: 0em 0em 1em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .grouped.fields .field {
   display: block;
   float: none;
@@ -700,7 +772,11 @@
   clear: both;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .fields:after {
   content: ' ';
   display: block;
@@ -714,7 +790,11 @@
 =======
 
 .ui.form .fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   clear: none;
   float: left;
   -webkit-box-sizing: border-box;
@@ -741,7 +821,11 @@
 
 .ui.form .two.fields > .fields,
 .ui.form .two.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 50%;
   padding-left: 1%;
   padding-right: 1%;
@@ -752,7 +836,11 @@
 
 .ui.form .three.fields > .fields,
 .ui.form .three.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 33.333%;
   padding-left: 1%;
   padding-right: 1%;
@@ -763,7 +851,11 @@
 
 .ui.form .four.fields > .fields,
 .ui.form .four.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 25%;
   padding-left: 1%;
   padding-right: 1%;
@@ -774,7 +866,11 @@
 
 .ui.form .five.fields > .fields,
 .ui.form .five.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 20%;
   padding-left: 1%;
   padding-right: 1%;
@@ -804,7 +900,11 @@
     Inline Fields
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field {
   min-height: 1.3em;
   margin-right: 0.5em;
@@ -826,7 +926,11 @@
 .ui.form .inline.field > label,
 .ui.form .inline.field > p,
 .ui.form .inline.field > input {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   display: inline-block;
   width: auto;
   margin-top: 0em;
@@ -837,7 +941,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field > input,
 .ui.form .inline.field > input {
   font-size: 0.875em;
@@ -845,7 +953,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field > :first-child,
 .ui.form .inline.field > :first-child {
   margin: 0em 0.5em 0em 0em;
@@ -853,7 +965,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field > :only-child,
 .ui.form .inline.field > :only-child {
   margin: 0em;
@@ -905,4 +1021,8 @@
 .ui.large.form {
   font-size: 1.125em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

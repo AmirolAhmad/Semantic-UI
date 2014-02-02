@@ -21,7 +21,11 @@
 
 /* Prototype */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table {
   width: 100%;
   border-collapse: collapse;
@@ -32,7 +36,11 @@
 
 /* Table Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th,
 .ui.table tr,
 .ui.table td {
@@ -72,7 +80,11 @@
 .ui.table th {
   cursor: auto;
   background-color: rgba(0, 0, 0, 0.05);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   text-align: left;
   color: rgba(0, 0, 0, 0.8);
   padding: 0.5em 0.7em;
@@ -112,7 +124,11 @@
 
 /* Table Cells */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table td {
   padding: 0.40em 0.7em;
   vertical-align: middle;
@@ -130,7 +146,11 @@
   border-top: 1px solid rgba(0, 0, 0, 0.03);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tfoot th {
   font-weight: normal;
   font-style: italic;
@@ -260,7 +280,11 @@
 
 .ui.sortable.table th.disabled:hover {
   cursor: auto;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   text-align: left;
   font-weight: bold;
   color: #333333;
@@ -300,7 +324,11 @@
   box-shadow: 2px 0px 0px #119000 inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.positive td,
 .ui.table td.positive {
   background-color: #F2F8F0 !important;
@@ -309,7 +337,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.positive:hover td,
 .ui.celled.table tr:hover td.positive,
 .ui.table tr.positive:hover td,
@@ -340,7 +372,11 @@
   box-shadow: 2px 0px 0px #CD2929 inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.negative td,
 .ui.table td.negative {
   background-color: #F9F4F4;
@@ -349,7 +385,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.negative:hover td,
 .ui.celled.table tr:hover td.negative,
 .ui.table tr.negative:hover td,
@@ -396,7 +436,11 @@
   color: #CD2929;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.error:hover td,
 .ui.celled.table tr:hover td.error,
 .ui.table tr.error:hover td,
@@ -430,7 +474,11 @@
   box-shadow: 2px 0px 0px #7D6C00 inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.warning td,
 .ui.table td.warning,
 .ui.table th.warning {
@@ -442,7 +490,11 @@
   color: #7D6C00;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.warning:hover td,
 .ui.celled.table tr:hover td.warning,
 .ui.table tr.warning:hover td,
@@ -497,7 +549,11 @@
      Disabled
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.disabled td,
 .ui.table tr td.disabled,
 .ui.table tr.disabled:hover td,
@@ -629,7 +685,11 @@
 
 /* Column Width */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.one.wide,
 .ui.table td.one.wide {
   width: 6.25%;
@@ -637,7 +697,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.two.wide,
 .ui.table td.two.wide {
   width: 12.5%;
@@ -645,7 +709,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.three.wide,
 .ui.table td.three.wide {
   width: 18.75%;
@@ -653,7 +721,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.four.wide,
 .ui.table td.four.wide {
   width: 25%;
@@ -661,7 +733,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.five.wide,
 .ui.table td.five.wide {
   width: 31.25%;
@@ -669,7 +745,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.six.wide,
 .ui.table td.six.wide {
   width: 37.5%;
@@ -677,7 +757,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.seven.wide,
 .ui.table td.seven.wide {
   width: 43.75%;
@@ -685,7 +769,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.eight.wide,
 .ui.table td.eight.wide {
   width: 50%;
@@ -693,7 +781,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.nine.wide,
 .ui.table td.nine.wide {
   width: 56.25%;
@@ -701,7 +793,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.ten.wide,
 .ui.table td.ten.wide {
   width: 62.5%;
@@ -709,7 +805,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.eleven.wide,
 .ui.table td.eleven.wide {
   width: 68.75%;
@@ -717,7 +817,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.twelve.wide,
 .ui.table td.twelve.wide {
   width: 75%;
@@ -725,7 +829,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.thirteen.wide,
 .ui.table td.thirteen.wide {
   width: 81.25%;
@@ -733,7 +841,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.fourteen.wide,
 .ui.table td.fourteen.wide {
   width: 87.5%;
@@ -741,7 +853,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.fifteen.wide,
 .ui.table td.fifteen.wide {
   width: 93.75%;
@@ -749,7 +865,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.sixteen.wide,
 .ui.table td.sixteen.wide {
   width: 100%;
@@ -771,7 +891,11 @@
   color: rgba(0, 0, 0, 0.8);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tbody tr,
 .ui.celled.table tfoot tr {
   border: none;
@@ -817,7 +941,11 @@
     Sortable
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sortable.table thead th {
   cursor: pointer;
   white-space: nowrap;
@@ -825,7 +953,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sortable.table thead th.sorted,
 .ui.sortable.table thead th.sorted:hover {
   -webkit-user-select: none;
@@ -836,7 +968,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sortable.table thead th:after {
   display: inline-block;
   content: '';
@@ -882,7 +1018,11 @@
   color: rgba(255, 255, 255, 0.9);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.table th {
   background-color: rgba(0, 0, 0, 0.15);
   color: rgba(255, 255, 255, 0.9);
@@ -935,7 +1075,11 @@
       Basic
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.basic.table th {
   background-color: transparent;
   padding: 0.5em;
@@ -968,7 +1112,11 @@
      Padded
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.padded.table th,
 .ui.padded.table td {
   padding: 0.8em 1em;
@@ -1026,4 +1174,8 @@
 .ui.large.table {
   font-size: 1.1em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

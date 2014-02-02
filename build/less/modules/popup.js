@@ -21,7 +21,11 @@ $.fn.popup = function(parameters) {
       : $.fn.popup.settings,
 =======
     $document       = $(document),
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
     moduleSelector  = $allModules.selector || '',
 
@@ -36,7 +40,11 @@ $.fn.popup = function(parameters) {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
   $allModules
     .each(function() {
@@ -75,7 +83,11 @@ $.fn.popup = function(parameters) {
           : $window,
         $popup          = (settings.inline)
           ? $target.next(settings.selector.popup)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           : $window.children(settings.selector.popup).last(),
 
         searchDepth     = 0,
@@ -91,7 +103,11 @@ $.fn.popup = function(parameters) {
         namespace       = settings.namespace,
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         element         = this,
         instance        = $module.data(moduleNamespace),
         module
@@ -111,7 +127,11 @@ $.fn.popup = function(parameters) {
           if(settings.on == 'click') {
             $module
               .on('click', module.toggle)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             ;
           }
           else {
@@ -128,7 +148,11 @@ $.fn.popup = function(parameters) {
           if(settings.target) {
             module.debug('Target set to element', $target);
           }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $window
             .on('resize' + eventNamespace, module.event.resize)
           ;
@@ -158,7 +182,11 @@ $.fn.popup = function(parameters) {
           else {
             $popup = $window.children(selector.popup).last();
           }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         },
 
         destroy: function() {
@@ -171,7 +199,11 @@ $.fn.popup = function(parameters) {
           $popup
             .remove()
           ;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $module
             .off(eventNamespace)
             .removeData(moduleNamespace)
@@ -221,7 +253,11 @@ $.fn.popup = function(parameters) {
           resize: function() {
             if( module.is.visible() ) {
               module.set.position();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
           }
         },
@@ -252,7 +288,11 @@ $.fn.popup = function(parameters) {
               module.verbose('Inserting popup element inline');
 =======
               module.verbose('Inserting popup element inline', $popup);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               $popup
                 .insertAfter($module)
               ;
@@ -272,7 +312,11 @@ $.fn.popup = function(parameters) {
               ;
             }
             $.proxy(settings.onCreate, $popup)();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             module.error(error.content);
@@ -350,7 +394,11 @@ $.fn.popup = function(parameters) {
           }
         },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         remove: function() {
           module.debug('Removing popup');
           $popup
@@ -447,7 +495,11 @@ $.fn.popup = function(parameters) {
               return 'blur';
             }
           },
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           offstagePosition: function() {
             var
               boundary  = {
@@ -475,7 +527,11 @@ $.fn.popup = function(parameters) {
 <<<<<<< HEAD
 =======
             module.verbose('Checking if outside viewable area', popup.position);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             // return only boundaries that have been surpassed
             $.each(offstage, function(direction, isOffstage) {
               if(isOffstage) {
@@ -922,7 +978,11 @@ $.fn.popup = function(parameters) {
           ;
           if(!settings.preserve) {
             module.remove();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -941,7 +1001,11 @@ $.fn.popup = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -962,7 +1026,11 @@ $.fn.popup = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -1050,7 +1118,11 @@ $.fn.popup = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -1061,7 +1133,11 @@ $.fn.popup = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -1102,7 +1178,11 @@ $.fn.popup = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -1131,7 +1211,11 @@ $.fn.popup = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -1158,7 +1242,11 @@ $.fn.popup = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -1175,7 +1263,11 @@ $.fn.popup.settings = {
   onInit         : function(){},
 =======
   onCreate       : function(){},
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   onShow         : function(){},
   onHide         : function(){},
 
@@ -1204,7 +1296,11 @@ $.fn.popup.settings = {
   preserve       : false,
 
   duration       : 250,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   easing         : 'easeOutQuint',
   transition     : 'scale',
 
@@ -1213,7 +1309,11 @@ $.fn.popup.settings = {
   arrowOffset    : 0,
 =======
   offset         : 0,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   maxSearchDepth : 10,
 
   error: {
@@ -1251,7 +1351,11 @@ $.fn.popup.settings = {
     popup       : 'ui popup',
     position    : 'top left center bottom right',
     visible     : 'visible'
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   },
 
   selector    : {

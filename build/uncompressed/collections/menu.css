@@ -25,7 +25,11 @@
       Menu
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu {
   margin: 1rem 0rem;
   background-color: #FFFFFF;
@@ -58,7 +62,11 @@
   margin-bottom: 0rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu:after {
   content: ".";
   display: block;
@@ -83,7 +91,11 @@
   border-radius: 0px 0.1875em 0.1875em 0px;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item {
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -158,7 +170,11 @@
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item .menu a.item:hover,
 .ui.menu .item .menu a.item.hover,
 .ui.menu .item .menu .link.item:hover,
@@ -198,7 +214,11 @@
       Items
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item {
   position: relative;
   display: inline-block;
@@ -223,7 +243,11 @@
   margin: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item.left,
 .ui.menu .menu.left {
   float: left;
@@ -231,7 +255,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item.right,
 .ui.menu .menu.right {
   float: right;
@@ -246,7 +274,11 @@
     Borders
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item:before {
   position: absolute;
   content: '';
@@ -267,7 +299,11 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.1) 50%, rgba(0, 0, 0, 0.05) 100%);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .menu.right .item:before,
 .ui.menu .item.right:before {
   right: auto;
@@ -283,7 +319,11 @@
   Text Content
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .text.item > *,
 .ui.menu .item > p:only-child {
   -webkit-user-select: text;
@@ -363,7 +403,11 @@
 }
 
 .ui.vertical.menu .item > .input input {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   margin: 0em;
   padding-top: 0.63em;
   padding-bottom: 0.63em;
@@ -419,7 +463,11 @@
      Header
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .header.item {
   background-color: rgba(0, 0, 0, 0.04);
   margin: 0em;
@@ -469,7 +517,11 @@
   margin: 0px !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .dropdown.item .menu .item {
   width: 100%;
   color: rgba(0, 0, 0, 0.75);
@@ -499,7 +551,11 @@
      Labels
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item > .label {
   background-color: rgba(0, 0, 0, 0.35);
   color: #FFFFFF;
@@ -524,7 +580,11 @@
       Images
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item > img:only-child {
   display: block;
   max-width: 100%;
@@ -547,7 +607,11 @@
       Hover
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.link.menu .item:hover,
 .ui.menu .item.hover,
 .ui.menu .link.item:hover,
@@ -560,7 +624,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .ui.dropdown.active {
   background-color: rgba(0, 0, 0, 0.02);
   -webkit-box-shadow: none;
@@ -585,7 +653,11 @@
       Down
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.link.menu .item:active,
 .ui.menu .link.item:active,
 .ui.menu a.item:active,
@@ -602,7 +674,11 @@
      Active
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .active.item {
   background-color: rgba(0, 0, 0, 0.01);
   color: rgba(0, 0, 0, 0.95);
@@ -689,7 +765,11 @@
      Disabled
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item.disabled,
 .ui.menu .item.disabled:hover,
 .ui.menu .item.disabled.hover {
@@ -717,7 +797,11 @@
   position: relative;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.loading:after {
   position: absolute;
   top: 0%;
@@ -745,7 +829,11 @@
     Vertical
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item {
   display: block;
   height: auto !important;
@@ -780,7 +868,11 @@
   text-align: center;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item > .icon:not(.input) {
   float: right;
   width: 1.22em;
@@ -789,7 +881,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item > .label + .icon {
   float: none;
   margin: 0em 0.25em 0em 0em;
@@ -800,7 +896,11 @@
 
 /*--- Border ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item:before {
   position: absolute;
   content: '';
@@ -838,7 +938,11 @@
   content: "\f0da";
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .dropdown.item .menu {
   top: 0% !important;
   left: 100%;
@@ -850,7 +954,11 @@
   box-shadow: 0 0px 1px 1px #DDDDDD;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .dropdown.item.active {
   border-top-right-radius: 0em;
   border-bottom-right-radius: 0em;
@@ -892,7 +1000,11 @@
   margin: 0.5em -0.95em 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item > .menu > .item {
   padding: 0.5rem 1.5rem;
   font-size: 0.875em;
@@ -921,7 +1033,11 @@
   color: rgba(0, 0, 0, 0.4);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu > .menu > .item:hover,
 .ui.tiered.menu > .menu > .item.hover {
   color: rgba(0, 0, 0, 0.8);
@@ -936,7 +1052,11 @@
   color: rgba(0, 0, 0, 0.8);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu > .menu .item.active:after {
   position: absolute;
   content: '';
@@ -950,7 +1070,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu .sub.menu {
   background-color: rgba(0, 0, 0, 0.01);
   border-radius: 0em;
@@ -980,7 +1104,11 @@
   background-image: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu .sub.menu .active.item {
   padding-top: 0.83em;
   background-color: transparent;
@@ -1028,7 +1156,11 @@
   color: rgba(255, 255, 255, 0.6);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.tiered.menu > .menu > .item:hover,
 .ui.inverted.tiered.menu > .menu > .item.hover {
   color: rgba(255, 255, 255, 0.9);
@@ -1043,7 +1175,11 @@
   display: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.tiered.menu > .sub.menu > .active.item,
 .ui.inverted.tiered.menu > .menu > .active.item {
   color: #ffffff !important;
@@ -1095,7 +1231,11 @@
   box-shadow: none !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tabular.menu .item {
   background-color: transparent;
   border-left: 1px solid transparent;
@@ -1118,7 +1258,11 @@
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tabular.menu .item:hover {
   background-color: transparent;
   color: rgba(0, 0, 0, 0.8);
@@ -1159,7 +1303,11 @@
 
 /* Coupling with segment for attachment */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.attached.tabular.menu {
   position: relative;
   z-index: 2;
@@ -1181,7 +1329,11 @@
    Pagination
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pagination.menu {
   margin: 0em;
   display: inline-block;
@@ -1214,7 +1366,11 @@
 
 /* active */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pagination.menu .active.item {
   border-top: none;
   padding-top: 0.83em;
@@ -1257,7 +1413,11 @@
 .ui.secondary.menu > .menu > .item,
 .ui.secondary.menu > .item {
   -webkit-box-shadow: none;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: none;
   border: none;
   height: auto !important;
@@ -1285,7 +1445,11 @@
   border: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.menu .link.item,
 .ui.secondary.menu a.item {
   opacity: 0.8;
@@ -1316,7 +1480,11 @@
 
 /* hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.menu .link.item:hover,
 .ui.secondary.menu a.item:hover {
   opacity: 1;
@@ -1328,7 +1496,11 @@
 /* active */
 
 .ui.secondary.menu > .menu > .active.item,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.menu > .active.item {
   background-color: rgba(0, 0, 0, 0.08);
   opacity: 1;
@@ -1353,7 +1525,11 @@
 
 /* inverted */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.inverted.menu .link.item,
 .ui.secondary.inverted.menu a.item {
   color: rgba(255, 255, 255, 0.5);
@@ -1361,7 +1537,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.inverted.menu .link.item:hover,
 .ui.secondary.inverted.menu a.item:hover {
   color: rgba(255, 255, 255, 0.9);
@@ -1418,7 +1598,11 @@
 }
 
 .ui.secondary.pointing.menu > .menu > .item,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.pointing.menu > .item {
   margin: 0em 0em -3px;
   padding: 0.6em 0.95em;
@@ -1502,7 +1686,11 @@
 /* Active */
 
 .ui.secondary.pointing.menu > .menu > .item.active,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.pointing.menu > .item.active {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.4);
@@ -1522,7 +1710,11 @@
    Secondary Vertical
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu {
   border: none;
   border-right: 3px solid rgba(0, 0, 0, 0.1);
@@ -1530,7 +1722,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.menu > .item {
   border: none;
   margin: 0em 0em 0.3em;
@@ -1553,7 +1749,11 @@
   border-radius: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item {
   margin: 0em -3px 0em 0em;
   border-bottom: none;
@@ -1570,7 +1770,11 @@
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item.hover,
 .ui.secondary.vertical.pointing.menu > .item:hover {
   background-color: transparent;
@@ -1582,7 +1786,11 @@
 
 /* Down */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item:active {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.2);
@@ -1593,7 +1801,11 @@
 
 /* Active */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item.active {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.4);
@@ -1677,7 +1889,11 @@
    Inverted Vertical
 ----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.inverted.vertical.pointing.menu {
   border-right: 3px solid rgba(255, 255, 255, 0.1);
   border-bottom: none;
@@ -1710,7 +1926,11 @@
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu > .item {
   opacity: 0.8;
   margin: 0em 1em;
@@ -1749,7 +1969,11 @@
   display: none !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu .header.item {
   background-color: transparent;
   opacity: 1;
@@ -1796,7 +2020,11 @@
   margin-bottom: 0rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.text.menu .item {
   float: left;
   clear: left;
@@ -1805,7 +2033,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.text.menu .item > .icon {
   float: none;
   margin: 0em 0.83em 0em 0em;
@@ -1823,7 +2055,11 @@
 
 /*--- hover ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu .item.hover,
 .ui.text.menu .item:hover {
   opacity: 1;
@@ -1835,7 +2071,11 @@
 
 /*--- active ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu .active.item {
   background-color: transparent;
   padding: 0em;
@@ -1874,7 +2114,11 @@
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.text.menu,
 .ui.inverted.text.menu .item,
 .ui.inverted.text.menu .item:hover,
@@ -1891,7 +2135,11 @@
     Icon Only
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.menu,
 .ui.vertical.icon.menu {
   width: auto;
@@ -1901,7 +2149,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.menu > .item {
   height: auto;
   text-align: center;
@@ -1910,7 +2162,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.menu > .item > .icon {
   display: block;
   float: none !important;
@@ -1975,7 +2231,11 @@
   text-align: center;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labeled.icon.menu > .item > .icon {
   display: block;
   font-size: 1.5em !important;
@@ -2001,7 +2261,11 @@
 
 /*--- Light Colors  ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .green.active.item,
 .ui.green.menu .active.item {
   border-color: #A1CF64 !important;
@@ -2010,7 +2274,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .red.active.item,
 .ui.red.menu .active.item {
   border-color: #D95C5C !important;
@@ -2019,7 +2287,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .blue.active.item,
 .ui.blue.menu .active.item {
   border-color: #6ECFF5 !important;
@@ -2028,7 +2300,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .purple.active.item,
 .ui.purple.menu .active.item {
   border-color: #564F8A !important;
@@ -2037,7 +2313,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .orange.active.item,
 .ui.orange.menu .active.item {
   border-color: #F05940 !important;
@@ -2046,7 +2326,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .teal.active.item,
 .ui.teal.menu .active.item {
   border-color: #00B5AD !important;
@@ -2072,7 +2356,11 @@
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .header.item {
   margin: 0em;
   background-color: rgba(0, 0, 0, 0.3);
@@ -2085,7 +2373,11 @@
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .item,
 .ui.inverted.menu .item > a {
   color: #FFFFFF;
@@ -2093,7 +2385,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .item .item,
 .ui.inverted.menu .item .item > a {
   color: rgba(255, 255, 255, 0.8);
@@ -2101,7 +2397,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .dropdown.item .menu .item,
 .ui.inverted.menu .dropdown.item .menu .item a {
   color: rgba(0, 0, 0, 0.75) !important;
@@ -2109,7 +2409,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .item.disabled,
 .ui.inverted.menu .item.disabled:hover,
 .ui.inverted.menu .item.disabled.hover {
@@ -2150,7 +2454,11 @@
 
 /*--- Hover ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.link.inverted.menu .item:hover,
 .ui.inverted.menu .item.hover,
 .ui.inverted.menu .link.item:hover,
@@ -2162,7 +2470,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu a.item:hover,
 .ui.inverted.menu .item.hover,
 .ui.inverted.menu .item > a:hover,
@@ -2178,7 +2490,11 @@
 
 /*--- Down ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu a.item:active,
 .ui.inverted.menu .dropdown.item:active,
 .ui.inverted.menu .link.item:active,
@@ -2201,7 +2517,11 @@
   background-color: rgba(255, 255, 255, 0.2);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .active.item,
 .ui.inverted.menu .active.item a {
   color: #ffffff !important;
@@ -2209,7 +2529,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.vertical.menu .item .menu .active.item {
   background-color: rgba(255, 255, 255, 0.2);
   color: #ffffff;
@@ -2293,7 +2617,11 @@
      Floated
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.floated.menu {
   float: left;
   margin: 0rem 0.5rem 0rem 0rem;
@@ -2301,7 +2629,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.right.floated.menu {
   float: right;
   margin: 0rem 0rem 0rem 0.5rem;
@@ -2420,7 +2752,11 @@
      Fitted
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.fitted.menu .item,
 .ui.fitted.menu .item .menu .item,
 .ui.menu .fitted.item {
@@ -2429,7 +2765,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontally.fitted.menu .item,
 .ui.horizontally.fitted.menu .item .menu .item,
 .ui.menu .horizontally.fitted.item {
@@ -2439,7 +2779,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertically.fitted.menu .item,
 .ui.vertically.fitted.menu .item .menu .item,
 .ui.menu .vertically.fitted.item {
@@ -2456,7 +2800,11 @@
    Borderless
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.borderless.menu .item:before,
 .ui.borderless.menu .item .menu .item:before,
 .ui.menu .borderless.item:before {
@@ -2472,7 +2820,11 @@
        Compact
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.compact.menu {
   display: inline-block;
   margin: 0em;
@@ -2502,7 +2854,11 @@
         Fluid
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fluid,
 .ui.vertical.menu.fluid {
   display: block;
@@ -2518,7 +2874,11 @@
       Evenly Sized
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.item.menu,
 .ui.item.menu .item {
   width: 100%;
@@ -2619,7 +2979,11 @@
 .ui.menu.fixed {
   position: fixed;
   z-index: 999;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   margin: 0em;
   border: none;
   width: 100%;
@@ -2640,7 +3004,11 @@
   border-radius: 0px !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.top {
   top: 0px;
   left: 0px;
@@ -2650,7 +3018,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.right {
   top: 0px;
   right: 0px;
@@ -2662,7 +3034,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.bottom {
   bottom: 0px;
   left: 0px;
@@ -2672,7 +3048,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.left {
   top: 0px;
   left: 0px;
@@ -2703,7 +3083,11 @@
 .ui.pointing.menu .active.item:after {
   position: absolute;
   bottom: -0.3em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   left: 50%;
   content: "";
   margin-left: -0.3em;
@@ -2747,7 +3131,11 @@
   display: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.pointing.menu .active.item:after {
   position: absolute;
   top: 50%;
@@ -2772,7 +3160,11 @@
   background-color: #FCFCFC;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.menu .active.item.hover:after,
 .ui.pointing.menu .active.item:hover:after {
   background-color: #FAFAFA;
@@ -2897,4 +3289,8 @@
 .ui.large.vertical.menu {
   width: 18rem;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

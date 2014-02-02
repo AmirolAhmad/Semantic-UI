@@ -56,7 +56,11 @@ $.fn.dropdown = function(parameters) {
     methodInvoked  = (typeof query == 'string'),
     queryArguments = [].slice.call(arguments, 1),
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
 
   $allModules
@@ -98,7 +102,11 @@ $.fn.dropdown = function(parameters) {
 
         element         = this,
         instance        = $module.data(moduleNamespace),
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         module
       ;
 
@@ -145,7 +153,11 @@ $.fn.dropdown = function(parameters) {
             module.bind.touchEvents();
           }
           module.bind.mouseEvents();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           module.instantiate();
         },
 
@@ -158,7 +170,11 @@ $.fn.dropdown = function(parameters) {
           instance = module;
           $module
             .data(moduleNamespace, module)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           ;
         },
 
@@ -277,7 +293,11 @@ $.fn.dropdown = function(parameters) {
             },
             hide: function(event) {
               module.determine.intent(event, module.hide);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
           },
 
@@ -298,7 +318,11 @@ $.fn.dropdown = function(parameters) {
 <<<<<<< HEAD
 =======
                 event.preventDefault();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               }
             },
 
@@ -352,7 +376,11 @@ $.fn.dropdown = function(parameters) {
                 else {
                   callback();
                 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               }
             }
 
@@ -389,7 +417,11 @@ $.fn.dropdown = function(parameters) {
             }
             else {
               module.error(error.action, settings.action);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
           },
           intent: function(event, callback) {
@@ -408,7 +440,11 @@ $.fn.dropdown = function(parameters) {
             else {
               module.verbose('Event occurred in dropdown, canceling callback');
               return false;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
           }
         },
@@ -506,7 +542,11 @@ $.fn.dropdown = function(parameters) {
         },
 
         get: {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           text: function() {
             return $text.text();
           },
@@ -566,7 +606,11 @@ $.fn.dropdown = function(parameters) {
             else {
               value = module.get.text();
             }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             return $selectedItem || false;
           }
         },
@@ -610,7 +654,11 @@ $.fn.dropdown = function(parameters) {
           }
         },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         set: {
           text: function(text) {
             module.debug('Changing text', text, $text);
@@ -628,7 +676,11 @@ $.fn.dropdown = function(parameters) {
             else {
               $module.data(metadata.value, value);
             }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           },
           active: function() {
             $module.addClass(className.active);
@@ -650,7 +702,11 @@ $.fn.dropdown = function(parameters) {
                 ? $selectedItem.data(metadata.text)
                 : $selectedItem.text()
               ;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               $item
                 .removeClass(className.active)
               ;
@@ -691,7 +747,11 @@ $.fn.dropdown = function(parameters) {
             return ($subMenu)
               ? $subMenu.is(':visible')
               : $menu.is(':visible')
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             ;
           },
           hidden: function($subMenu) {
@@ -702,7 +762,11 @@ $.fn.dropdown = function(parameters) {
 =======
               ? $subMenu.is(':not(:visible)')
               : $menu.is(':not(:visible)')
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             ;
           }
         },
@@ -713,7 +777,11 @@ $.fn.dropdown = function(parameters) {
             return (isTouchDevice || settings.on == 'click');
 =======
             return (hasTouch || settings.on == 'click');
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           },
           show: function() {
             return !$module.hasClass(className.disabled);
@@ -749,7 +817,11 @@ $.fn.dropdown = function(parameters) {
                     queue     : false
                   })
                 ;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               }
               else if(settings.transition == 'slide down') {
                 $currentMenu
@@ -784,7 +856,11 @@ $.fn.dropdown = function(parameters) {
                 module.error(error.transition);
 =======
                 module.error(error.transition, settings.transition);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               }
             }
           },
@@ -813,7 +889,11 @@ $.fn.dropdown = function(parameters) {
                     queue     : false
                   })
                 ;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               }
               else if(settings.transition == 'none') {
                 callback();
@@ -870,7 +950,11 @@ $.fn.dropdown = function(parameters) {
               }
               module.set.visible();
             });
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             $.proxy(settings.onShow, element)();
           }
         },
@@ -880,7 +964,11 @@ $.fn.dropdown = function(parameters) {
           if( module.is.visible() ) {
 =======
           if( !module.is.animated() && module.is.visible() ) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.debug('Hiding dropdown');
             if( module.can.click() ) {
               module.unbind.intent();
@@ -938,7 +1026,11 @@ $.fn.dropdown = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -959,7 +1051,11 @@ $.fn.dropdown = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -1030,7 +1126,11 @@ $.fn.dropdown = function(parameters) {
 =======
             if(moduleSelector) {
               title += ' \'' + moduleSelector + '\'';
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
             if( (console.group !== undefined || console.table !== undefined) && performance.length > 0) {
               console.groupCollapsed(title);
@@ -1100,7 +1200,11 @@ $.fn.dropdown = function(parameters) {
               else {
                 module.error(error.method, query);
                 return false;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               }
             });
           }
@@ -1125,7 +1229,11 @@ $.fn.dropdown = function(parameters) {
             returnedValue = response;
           }
           return found;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         }
       };
 
@@ -1150,7 +1258,11 @@ $.fn.dropdown = function(parameters) {
 =======
   return (returnedValue)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -1178,7 +1290,11 @@ $.fn.dropdown.settings = {
     show  : 200,
     hide  : 300,
     touch : 50
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   },
 
   transition : 'slide down',
@@ -1188,7 +1304,11 @@ $.fn.dropdown.settings = {
   onChange : function(){},
 =======
   onChange : function(value, text){},
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   onShow   : function(){},
   onHide   : function(){},
 
@@ -1207,7 +1327,11 @@ $.fn.dropdown.settings = {
     defaultValue : 'defaultValue',
     text         : 'text',
     value        : 'value'
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   },
 
   selector : {
@@ -1226,7 +1350,11 @@ $.fn.dropdown.settings = {
 =======
     visible     : 'visible',
     selection   : 'selection'
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   }
 
 };
@@ -1241,5 +1369,9 @@ $.extend( $.easing, {
 });
 
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 })( jQuery, window , document );

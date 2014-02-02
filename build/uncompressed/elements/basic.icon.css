@@ -26,7 +26,11 @@
   font-family: 'Basic Icons';
   src: url(../fonts/basic.icons.eot);
   src: url(../fonts/basic.icons.eot?#iefix) format('embedded-opentype'), url(../fonts/basic.icons.svg#basic.icons) format('svg'), url(../fonts/basic.icons.woff) format('woff'), url(../fonts/basic.icons.ttf) format('truetype');
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -36,7 +40,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon {
   display: inline-block;
   opacity: 0.75;
@@ -1331,7 +1339,11 @@ i.dropdown.basic.icon {
 
 /* stars are usually consecutive */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon.star {
   width: auto;
   margin: 0em;
@@ -1342,7 +1354,11 @@ i.basic.icon.star {
 
 /* left side basic.icons */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon.left,
 i.basic.icon.left,
 i.basic.icon.left {
@@ -1355,7 +1371,11 @@ i.basic.icon.left {
 
 /* right side basic.icons */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon.search,
 i.basic.icon.up,
 i.basic.icon.down,
@@ -1525,7 +1545,11 @@ i.basic.icon.disabled {
          Link
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.link.basic.icon {
   cursor: pointer;
   opacity: 0.7;
@@ -1565,7 +1589,11 @@ i.circular.basic.icon {
   border-radius: 500px !important;
   padding: 0.5em 0em !important;
   -webkit-box-shadow: 0em 0em 0em 0.1em rgba(0, 0, 0, 0.1) inset;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: 0em 0em 0em 0.1em rgba(0, 0, 0, 0.1) inset;
   line-height: 1 !important;
   width: 2em !important;
@@ -1659,7 +1687,11 @@ i.right.rotated.basic.icon {
         Square
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.square.basic.icon {
   width: 2em;
   height: 2em;
@@ -1701,7 +1733,11 @@ i.square.inverted.basic.icon {
       Inverted
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.basic.icon {
   background-color: #222222;
   color: #FFFFFF;
@@ -1765,7 +1801,11 @@ i.teal.basic.icon {
    Inverted Colors
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.black.basic.icon {
   background-color: #5C6166 !important;
   color: #FFFFFF !important;
@@ -1773,7 +1813,11 @@ i.inverted.black.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.blue.basic.icon {
   background-color: #6ECFF5 !important;
   color: #FFFFFF !important;
@@ -1781,7 +1825,11 @@ i.inverted.blue.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.green.basic.icon {
   background-color: #A1CF64 !important;
   color: #FFFFFF !important;
@@ -1789,7 +1837,11 @@ i.inverted.green.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.red.basic.icon {
   background-color: #D95C5C !important;
   color: #FFFFFF !important;
@@ -1797,7 +1849,11 @@ i.inverted.red.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.purple.basic.icon {
   background-color: #564F8A !important;
   color: #FFFFFF !important;
@@ -1805,7 +1861,11 @@ i.inverted.purple.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.teal.basic.icon {
   background-color: #00B5AD !important;
   color: #FFFFFF !important;
@@ -1842,7 +1902,11 @@ i.large.basic.icon {
 }
 
 i.big.basic.icon {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   font-size: 2em;
   margin-right: 0.5em;
   vertical-align: middle;
@@ -1850,7 +1914,11 @@ i.big.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.huge.basic.icon {
   font-size: 4em;
   margin-right: 0.75em;
@@ -1859,7 +1927,11 @@ i.huge.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.massive.basic.icon {
   font-size: 8em;
   margin-right: 1em;
@@ -1868,4 +1940,8 @@ i.massive.basic.icon {
 }
 =======
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

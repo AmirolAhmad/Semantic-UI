@@ -156,7 +156,11 @@
 
 .ui.shape .animating.side {
   position: absolute;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   top: 0px;
   left: 0px;
   z-index: 100;
@@ -231,4 +235,8 @@
 .ui.shape .active.side {
   display: block;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

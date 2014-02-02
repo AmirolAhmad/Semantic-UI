@@ -18,7 +18,11 @@
             Grid
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid {
   display: block;
   text-align: left;
@@ -44,7 +48,11 @@ body > .ui.grid {
   margin-right: 0% !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid:after,
 .ui.row:after {
   content: ".";
@@ -65,7 +73,11 @@ body > .ui.grid {
 
 /* Standard 16 column */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .column,
 .ui.grid > .row > .column {
   display: inline-block;
@@ -74,7 +86,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
   width: 6.25%;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   padding-left: 1.5%;
   padding-right: 1.5%;
   -webkit-box-sizing: border-box;
@@ -103,7 +119,11 @@ body > .ui.grid {
         Rows
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .row {
   display: block;
   width: 100% !important;
@@ -117,7 +137,11 @@ body > .ui.grid {
   font-size: 0rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .row:first-child {
   padding-top: 0rem;
   margin-top: 0rem;
@@ -132,7 +156,11 @@ body > .ui.grid {
       Content
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .row > img,
 .ui.grid > .row > .column > img {
   max-width: 100%;
@@ -161,7 +189,11 @@ body > .ui.grid {
   Page Grid (Responsive)
 -------------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.page.grid {
   min-width: 320px;
   margin-left: 0%;
@@ -172,7 +204,11 @@ body > .ui.grid {
 =======
 
 @media only screen and (max-width: 991px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.page.grid {
     padding: 0% 4%;
   }
@@ -182,7 +218,11 @@ body > .ui.grid {
 =======
 
 @media only screen and (min-width: 992px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.page.grid {
     padding: 0% 8%;
   }
@@ -190,7 +230,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (min-width: 1500px) {
   .ui.page.grid {
     padding: 0% 13%;
@@ -199,7 +243,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (min-width: 1750px) {
   .ui.page.grid {
     padding: 0% 18%;
@@ -208,7 +256,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (min-width: 2000px) {
   .ui.page.grid {
     padding: 0% 23%;
@@ -402,7 +454,11 @@ body > .ui.grid {
 
 /* Assume full width with one column */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.one.column.grid > .row > .column,
 .ui.one.column.grid > .column,
 .ui.grid > .one.column.row > .column {
@@ -411,7 +467,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.two.column.grid > .row > .column,
 .ui.two.column.grid > .column,
 .ui.grid > .two.column.row > .column {
@@ -420,7 +480,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.three.column.grid > .row > .column,
 .ui.three.column.grid > .column,
 .ui.grid > .three.column.row > .column {
@@ -429,7 +493,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.four.column.grid > .row > .column,
 .ui.four.column.grid > .column,
 .ui.grid > .four.column.row > .column {
@@ -438,7 +506,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.five.column.grid > .row > .column,
 .ui.five.column.grid > .column,
 .ui.grid > .five.column.row > .column {
@@ -447,7 +519,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.six.column.grid > .row > .column,
 .ui.six.column.grid > .column,
 .ui.grid > .six.column.row > .column {
@@ -456,7 +532,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.seven.column.grid > .row > .column,
 .ui.seven.column.grid > .column,
 .ui.grid > .seven.column.row > .column {
@@ -465,7 +545,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eight.column.grid > .row > .column,
 .ui.eight.column.grid > .column,
 .ui.grid > .eight.column.row > .column {
@@ -474,7 +558,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nine.column.grid > .row > .column,
 .ui.nine.column.grid > .column,
 .ui.grid > .nine.column.row > .column {
@@ -483,7 +571,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.ten.column.grid > .row > .column,
 .ui.ten.column.grid > .column,
 .ui.grid > .ten.column.row > .column {
@@ -492,7 +584,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eleven.column.grid > .row > .column,
 .ui.eleven.column.grid > .column,
 .ui.grid > .eleven.column.row > .column {
@@ -501,7 +597,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.twelve.column.grid > .row > .column,
 .ui.twelve.column.grid > .column,
 .ui.grid > .twelve.column.row > .column {
@@ -510,7 +610,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.thirteen.column.grid > .row > .column,
 .ui.thirteen.column.grid > .column,
 .ui.grid > .thirteen.column.row > .column {
@@ -519,7 +623,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.fourteen.column.grid > .row > .column,
 .ui.fourteen.column.grid > .column,
 .ui.grid > .fourteen.column.row > .column {
@@ -528,7 +636,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.fifteen.column.grid > .row > .column,
 .ui.fifteen.column.grid > .column,
 .ui.grid > .fifteen.column.row > .column {
@@ -537,7 +649,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sixteen.column.grid > .row > .column,
 .ui.sixteen.column.grid > .column,
 .ui.grid > .sixteen.column.row > .column {
@@ -549,7 +665,11 @@ body > .ui.grid {
 
 /* Assume full width with one column */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .column:only-child,
 .ui.grid > .row > .column:only-child {
   width: 100%;
@@ -571,7 +691,11 @@ body > .ui.grid {
   margin: 0% -2.5%;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.relaxed.grid > .column,
 .ui.relaxed.grid > .row > .column {
   padding-left: 2.5%;
@@ -608,7 +732,11 @@ body > .ui.grid {
         Divided
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.grid,
 .ui.divided.grid > .row {
   display: table;
@@ -619,7 +747,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.grid > .column:not(.row),
 .ui.divided.grid > .row > .column {
   display: table-cell;
@@ -664,7 +796,11 @@ body > .ui.grid {
   box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1), 0px -2px 0px 0px rgba(255, 255, 255, 0.8) !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertically.divided.grid > .row > .column,
 .ui.vertically.divided.grid > .column:not(.row),
 .ui.vertically.divided.grid > .row:first-child {
@@ -684,7 +820,11 @@ body > .ui.grid {
          Celled
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.grid {
   display: table;
   width: 100%;
@@ -699,7 +839,11 @@ body > .ui.grid {
   box-shadow: 0px 0px 0px 1px #DFDFDF;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.grid > .row,
 .ui.celled.grid > .column.row,
 .ui.celled.grid > .column.row:first-child {
@@ -716,7 +860,11 @@ body > .ui.grid {
   box-shadow: 0px -1px 0px 0px #dfdfdf;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.grid > .column:not(.row),
 .ui.celled.grid > .row > .column {
   display: table-cell;
@@ -762,7 +910,11 @@ body > .ui.grid {
 
 /* Vertical Centered */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.left.aligned.grid,
 .ui.left.aligned.grid > .row > .column,
 .ui.left.aligned.grid > .column,
@@ -773,7 +925,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.center.aligned.grid,
 .ui.center.aligned.grid > .row > .column,
 .ui.center.aligned.grid > .column,
@@ -784,7 +940,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.right.aligned.grid,
 .ui.right.aligned.grid > .row > .column,
 .ui.right.aligned.grid > .column,
@@ -817,7 +977,11 @@ body > .ui.grid {
 
 /* Vertical Centered */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.top.aligned.grid,
 .ui.top.aligned.grid > .row > .column,
 .ui.top.aligned.grid > .column,
@@ -828,7 +992,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.middle.aligned.grid,
 .ui.middle.aligned.grid > .row > .column,
 .ui.middle.aligned.grid > .column,
@@ -839,7 +1007,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.bottom.aligned.grid,
 .ui.bottom.aligned.grid > .row > .column,
 .ui.bottom.aligned.grid > .column,
@@ -857,7 +1029,11 @@ body > .ui.grid {
   Equal Height Columns
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .equal.height.row {
   display: table;
   width: 100%;
@@ -884,7 +1060,11 @@ body > .ui.grid {
 /* Mobile Only */
 
 @media only screen and (max-width: 767px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.mobile.only.grid,
   .ui.grid > .mobile.only.row {
     display: block !important;
@@ -899,7 +1079,11 @@ body > .ui.grid {
     display: inline-block !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.mobile.only.grid,
   .ui.celled.mobile.only.grid,
   .ui.divided.mobile.only.grid .row,
@@ -913,7 +1097,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.grid > .row > .mobile.only.column,
   .ui.celled.grid > .row > .mobile.only.column,
   .ui.divided.mobile.only.grid > .row > .column,
@@ -933,7 +1121,11 @@ body > .ui.grid {
   .ui.mobile.only.grid,
   .ui.grid > .mobile.only.row,
   .ui.grid > .mobile.only.column,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.grid > .row > .mobile.only.column {
     display: none;
   }
@@ -946,7 +1138,11 @@ body > .ui.grid {
 /* Tablet Only */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.tablet.only.grid,
   .ui.grid > .tablet.only.row {
     display: block !important;
@@ -961,7 +1157,11 @@ body > .ui.grid {
     display: inline-block !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.tablet.only.grid,
   .ui.celled.tablet.only.grid,
   .ui.divided.tablet.only.grid .row,
@@ -975,7 +1175,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.grid > .row > .tablet.only.column,
   .ui.celled.grid > .row > .tablet.only.column,
   .ui.divided.tablet.only.grid > .row > .column,
@@ -995,7 +1199,11 @@ body > .ui.grid {
   .ui.tablet.only.grid,
   .ui.grid > .tablet.only.row,
   .ui.grid > .tablet.only.column,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.grid > .row > .tablet.only.column {
     display: none;
   }
@@ -1008,7 +1216,11 @@ body > .ui.grid {
 /* Computer Only */
 
 @media only screen and (min-width: 992px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.computer.only.grid,
   .ui.grid > .computer.only.row {
     display: block !important;
@@ -1023,7 +1235,11 @@ body > .ui.grid {
     display: inline-block !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.computer.only.grid,
   .ui.celled.computer.only.grid,
   .ui.divided.computer.only.grid .row,
@@ -1037,7 +1253,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.grid > .row > .computer.only.column,
   .ui.celled.grid > .row > .computer.only.column,
   .ui.divided.computer.only.grid > .row > .column,
@@ -1057,7 +1277,11 @@ body > .ui.grid {
   .ui.computer.only.grid,
   .ui.grid > .computer.only.row,
   .ui.grid > .computer.only.column,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.grid > .row > .computer.only.column {
     display: none;
   }
@@ -1260,7 +1484,11 @@ body > .ui.grid {
     box-shadow: none !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.stackable.divided.grid .column,
   .ui.stackable.celled.grid .column {
     border-top: 1px dotted rgba(0, 0, 0, 0.1);
@@ -1268,7 +1496,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.stackable.grid > .row:first-child > .column:first-child,
   .ui.stackable.grid > .column:first-child {
     margin-top: 0em !important;
@@ -1277,7 +1509,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.stackable.divided.grid > .row:first-child > .column:first-child,
   .ui.stackable.celled.grid > .row:first-child > .column:first-child,
   .ui.stackable.divided.grid > .column:first-child,
@@ -1304,4 +1540,8 @@ body > .ui.grid {
     display: none;
   }
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

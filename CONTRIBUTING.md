@@ -21,10 +21,16 @@ Please submit any bugs you encounter when using the library to our [Github Issue
 When submiting a bug report, please include a set of steps to reproduce the issue and any related information, browser, OS etc. If we can't see the issue then it will make solving things much more difficult.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Please create a fork of this [jsfiddle](http://jsfiddle.net/pMDsH/) to demonstrate bugs.
 
 >>>>>>> upstream/master
+=======
+=======
+Please create a fork of this [jsfiddle](http://jsfiddle.net/pMDsH/) to demonstrate bugs.
+
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ### Style Guide
 
 Contributors should read over the coding guidelines for the project. Most importantly, the guide for language, as it is one of the most important parts about Semantic UI.
@@ -86,10 +92,16 @@ Make sure npm does not require sudo to operate, this might cause permissions iss
 ```bash
 npm install -g docpad
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 docpad install eco
 docpad update; docpad upgrade
 >>>>>>> upstream/master
+=======
+=======
+docpad install eco
+docpad update; docpad upgrade
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ```
 
 ```bash
@@ -101,6 +113,9 @@ npm install -g grunt-cli
 [Fork](https://github.com/jlukic/Semantic-UI/fork)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ### 4) Start Your Server
 
 It's important to note that all server code exists inside of `/node` in the project. So all commands should be run relative to that directory.
@@ -119,17 +134,26 @@ grunt build
 ### 4B) Start Your Server
 
 ```bash
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 docpad run
 ```
 
 Docpad should now run an instance of semantic-ui.com locally you can access at `http://localhost:9778`
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Note that some asset files might be missing until you run `grunt build` once.
 
 >>>>>>> upstream/master
+=======
+=======
+Note that some asset files might be missing until you run `grunt build` once.
+
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ## Fixing Bugs
 
 ### Watch Script
@@ -137,10 +161,16 @@ Note that some asset files might be missing until you run `grunt build` once.
 If you are working on fixing a UI component that is part of Semantic, your best bet is to work actively on the file in `/src/{type}/{elementname}/` while running a watch script from grunt. This will rebuild the docs after you make changes, so you can see if you have corrected the issue you are fixing.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 To see exactly what this is doing you can check out our [commented gruntfile](https://github.com/jlukic/Semantic-UI/blob/master/node/Gruntfile.js)
 =======
 To see exactly what this is doing you can check out our [commented gruntfile](https://github.com/jlukic/Semantic-UI/blob/master/Gruntfile.js)
 >>>>>>> upstream/master
+=======
+To see exactly what this is doing you can check out our [commented gruntfile](https://github.com/jlukic/Semantic-UI/blob/master/node/Gruntfile.js)
+=======
+To see exactly what this is doing you can check out our [commented gruntfile](https://github.com/jlukic/Semantic-UI/blob/master/Gruntfile.js)
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
 ```bash
 grunt

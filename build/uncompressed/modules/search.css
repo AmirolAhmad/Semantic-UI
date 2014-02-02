@@ -18,7 +18,11 @@
              Search
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search {
   position: relative;
   text-shadow: none;
@@ -44,7 +48,11 @@
      Button
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search > .button {
   position: relative;
   z-index: 2;
@@ -72,7 +80,11 @@
     Results
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results {
   display: none;
   position: absolute;
@@ -100,7 +112,11 @@
   box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -2px 0px 0px rgba(0, 0, 0, 0.1) inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result {
   cursor: pointer;
   overflow: hidden;
@@ -116,7 +132,11 @@
   border-top: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .image {
   background: #F0F0F0;
   margin-right: 10px;
@@ -126,7 +146,11 @@
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-radius: 3px;
   width: 38px;
   height: 38px;
@@ -134,7 +158,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .image img {
   display: block;
   width: 38px;
@@ -143,7 +171,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .image ~ .info {
   float: none;
   margin-left: 50px;
@@ -158,7 +190,11 @@
   float: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .title {
   font-weight: bold;
   color: rgba(0, 0, 0, 0.8);
@@ -173,7 +209,11 @@
   color: rgba(0, 0, 0, 0.6);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .price {
   float: right;
   color: #5BBD72;
@@ -196,7 +236,11 @@
   padding: 1em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .message .text .title {
   margin: 0em 0em 0.5rem;
   font-size: 1.25rem;
@@ -206,7 +250,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .message .text .description {
   margin: 0em;
   font-size: 1rem;
@@ -222,7 +270,11 @@
     Categories
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results .category {
   background-color: #FAFAFA;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -244,7 +296,11 @@
   border-top: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results .category > .name {
   float: left;
   padding: 12px 0px 0px 8px;
@@ -255,7 +311,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results .category .result {
   background-color: #FFFFFF;
   margin-left: 80px;
@@ -267,7 +327,11 @@
 
 /* View All Results */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .all {
   display: block;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -295,7 +359,11 @@
       Hover
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result:hover,
 .ui.search .category .result:hover {
   background-color: #F8F8F8;
@@ -324,7 +392,11 @@
   background: url(../images/loader-mini.gif) no-repeat 50% 50%;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search.loading .input .icon:before,
 .ui.search.loading .input .icon:after {
   display: none;
@@ -353,7 +425,11 @@
   color: #333333;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result.active,
 .ui.search .category .result.active {
   background-color: #FBFBFB;
@@ -385,7 +461,11 @@
 
 /* Large */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .large.result .image,
 .ui.search .large.result .image img {
   width: 50px;
@@ -414,4 +494,8 @@
 .ui.search .large.results .info .description {
   font-size: 11px;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

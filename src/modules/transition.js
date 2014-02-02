@@ -34,7 +34,11 @@ $.fn.transition = function() {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
   $allModules
     .each(function() {
@@ -83,7 +87,11 @@ $.fn.transition = function() {
 =======
           instance        = $module.data(moduleNamespace) || module;
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           if(methodInvoked) {
             methodInvoked = module.invoke(query);
           }
@@ -94,7 +102,11 @@ $.fn.transition = function() {
 <<<<<<< HEAD
 =======
           module.instantiate();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         },
 
         instantiate: function() {
@@ -102,7 +114,11 @@ $.fn.transition = function() {
 <<<<<<< HEAD
           instance = module;
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $module
             .data(moduleNamespace, instance)
           ;
@@ -160,7 +176,11 @@ $.fn.transition = function() {
               module.error(error.repeated);
             }
             else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.queue(settings.animation);
             }
             return false;
@@ -200,7 +220,11 @@ $.fn.transition = function() {
           module.restore.conditions();
           module.hide();
           module.remove.animating();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         },
 
         queue: function(animation) {
@@ -212,7 +236,11 @@ $.fn.transition = function() {
 <<<<<<< HEAD
 =======
               module.repaint();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.animate.apply(this, settings);
             })
           ;
@@ -242,7 +270,11 @@ $.fn.transition = function() {
               module.restore.conditions();
               module.show();
               $.proxy(settings.onShow, this)();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
             else {
               module.restore.conditions();
@@ -250,7 +282,11 @@ $.fn.transition = function() {
 <<<<<<< HEAD
 =======
             module.remove.duration();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.remove.animating();
           }
           $.proxy(settings.complete, this)();
@@ -277,7 +313,11 @@ $.fn.transition = function() {
               return true;
             }
             return false;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -317,7 +357,11 @@ $.fn.transition = function() {
                 })
               ;
             }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           },
 
           direction: function() {
@@ -330,7 +374,11 @@ $.fn.transition = function() {
 =======
                 .removeClass(className.inward)
                 .addClass(className.outward)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               ;
             }
             else {
@@ -342,7 +390,11 @@ $.fn.transition = function() {
 =======
                 .removeClass(className.outward)
                 .addClass(className.inward)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               ;
             }
           },
@@ -386,7 +438,11 @@ $.fn.transition = function() {
               .addClass(className.transition)
               .addClass(className.visible)
             ;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -412,7 +468,11 @@ $.fn.transition = function() {
               style     : $module.attr('style')
             };
             module.verbose('Saving original attributes', instance.cache);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -431,7 +491,11 @@ $.fn.transition = function() {
             }
             if(instance.cache.className) {
               $module.attr('class', instance.cache.className);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
             else {
               $module.removeAttr('class');
@@ -450,7 +514,11 @@ $.fn.transition = function() {
               if(module.get.displayType() === 'block') {
                 $module.removeAttr('style');
               }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
             if(module.is.looping()) {
               module.remove.looping();
@@ -459,7 +527,11 @@ $.fn.transition = function() {
             module.verbose('Restoring original attributes', module.cache);
 =======
             module.verbose('Restoring original attributes', instance.cache);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -497,7 +569,11 @@ $.fn.transition = function() {
             $module.removeClass(className.visible);
           },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           looping: function() {
             module.debug('Transitions are no longer looping');
             $module
@@ -507,7 +583,11 @@ $.fn.transition = function() {
             module.repaint();
 =======
             module.forceRepaint();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
 
         },
@@ -520,7 +600,11 @@ $.fn.transition = function() {
             if($.isPlainObject(animation)) {
 =======
             if(typeof animation == 'object') {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               return $.extend(true, {}, $.fn.transition.settings, animation);
             }
             // all arguments provided
@@ -529,7 +613,11 @@ $.fn.transition = function() {
               return $.extend(true, {}, $.fn.transition.settings, {
 =======
               return $.extend({}, $.fn.transition.settings, {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 animation : animation,
                 complete  : complete,
                 duration  : duration
@@ -541,7 +629,11 @@ $.fn.transition = function() {
               return $.extend(true, {}, $.fn.transition.settings, {
 =======
               return $.extend({}, $.fn.transition.settings, {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 animation : animation,
                 duration  : duration
               });
@@ -552,7 +644,11 @@ $.fn.transition = function() {
               return $.extend(true, {}, $.fn.transition.settings, duration, {
 =======
               return $.extend({}, $.fn.transition.settings, duration, {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 animation : animation
               });
             }
@@ -562,7 +658,11 @@ $.fn.transition = function() {
               return $.extend(true, {}, $.fn.transition.settings, {
 =======
               return $.extend({}, $.fn.transition.settings, {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 animation : animation,
                 complete  : duration
               });
@@ -573,7 +673,11 @@ $.fn.transition = function() {
               return $.extend(true, {}, $.fn.transition.settings, {
 =======
               return $.extend({}, $.fn.transition.settings, {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 animation : animation
               });
             }
@@ -594,7 +698,11 @@ $.fn.transition = function() {
             return $.fn.transition.exists[animation];
           },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           animationName: function() {
             var
               element     = document.createElement('div'),
@@ -612,7 +720,11 @@ $.fn.transition = function() {
                 module.verbose('Determining animation vendor name property', animations[animation]);
 =======
                 module.verbose('Determined animation vendor name property', animations[animation]);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return animations[animation];
               }
             }
@@ -636,7 +748,11 @@ $.fn.transition = function() {
                 module.verbose('Determining animation vendor end event', animations[animation]);
 =======
                 module.verbose('Determined animation vendor end event', animations[animation]);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return animations[animation];
               }
             }
@@ -661,7 +777,11 @@ $.fn.transition = function() {
             }
             else {
               module.debug('Unable to find css definition', $module.attr('class'));
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               return false;
             }
           },
@@ -725,7 +845,11 @@ $.fn.transition = function() {
               module.save.transitionExists(animation, transitionExists);
             }
             return transitionExists;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -758,7 +882,11 @@ $.fn.transition = function() {
           },
           supported: function() {
             return(animationName !== false && animationEnd !== false);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -789,7 +917,11 @@ $.fn.transition = function() {
           module.verbose('Showing element', display);
           module.remove.hidden();
           module.set.visible();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           module.repaint();
         },
 
@@ -823,7 +955,11 @@ $.fn.transition = function() {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -844,7 +980,11 @@ $.fn.transition = function() {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -935,7 +1075,11 @@ $.fn.transition = function() {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -946,7 +1090,11 @@ $.fn.transition = function() {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -980,7 +1128,11 @@ $.fn.transition = function() {
               }
               else if( object[value] !== undefined ) {
                 found = object[value];
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
               else {
@@ -1012,7 +1164,11 @@ $.fn.transition = function() {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found || false;
         }
@@ -1026,7 +1182,11 @@ $.fn.transition = function() {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -1114,7 +1274,11 @@ $.fn.transition.settings = {
     outward    : 'out',
     transition : 'ui transition',
     visible    : 'visible'
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   },
 
   // possible errors
@@ -1126,7 +1290,11 @@ $.fn.transition.settings = {
     repeated    : 'That animation is already occurring, cancelling repeated animation',
     method      : 'The method you called is not defined',
     support     : 'This browser does not support CSS animations'
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   }
 
 };

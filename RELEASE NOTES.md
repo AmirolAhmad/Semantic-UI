@@ -1,6 +1,9 @@
 ## RELEASE NOTES
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 =======
 ### Version 0.12.3 - Jan 24, 2014
 
@@ -474,7 +477,11 @@ Some updates to docs formatting
 - Fixes radio checkboxes (again)
 - Fixes header content display in icon headers
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ### Version 0.3.4 - Oct 2, 2013
 
 **Fixes**
@@ -483,7 +490,11 @@ Some updates to docs formatting
 <<<<<<< HEAD
 =======
 - Centering of content in icon header
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
 ### Version 0.3.3 - Oct 2, 2013
 

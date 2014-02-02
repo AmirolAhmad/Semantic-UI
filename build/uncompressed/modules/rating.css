@@ -38,7 +38,11 @@
   margin-right: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.rating:before {
   display: block;
   content: '';
@@ -56,7 +60,11 @@
 
 .ui.rating .icon {
   cursor: pointer;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   margin: 0em;
   width: 1em;
   height: auto;
@@ -118,7 +126,11 @@
 
 /* Star */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.star.rating .icon:before {
   content: '\f006';
   font-family: 'Icons';
@@ -129,7 +141,11 @@
 
 /* Active Star */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.star.rating .active.icon:before {
   content: '\f005';
   font-family: 'Icons';
@@ -151,7 +167,11 @@
   width: 1.2em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.heart.rating .icon:before {
   content: '\f08a';
   font-family: 'Icons';
@@ -162,7 +182,11 @@
 
 /* Active */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.heart.rating .active.icon:before {
   content: '\f004';
   font-family: 'Icons';
@@ -243,7 +267,11 @@
 
 /* icon */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.rating .icon.hover,
 .ui.rating .icon.hover.active {
   opacity: 1;
@@ -273,7 +301,11 @@
   font-size: 1rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.large.rating .icon {
   font-size: 1.5rem;
   vertical-align: middle;
@@ -289,4 +321,8 @@
   font-size: 2rem;
   vertical-align: middle;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

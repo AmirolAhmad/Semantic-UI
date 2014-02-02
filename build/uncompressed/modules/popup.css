@@ -18,7 +18,11 @@
             Popup
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.popup {
   display: none;
   position: absolute;
@@ -29,7 +33,11 @@
   border: 1px solid #DCDDDE;
 =======
   border: 1px solid rgba(0, 0, 0, 0.1);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   max-width: 250px;
   background-color: #FFFFFF;
   padding: 0.8em 1.2em;
@@ -51,7 +59,11 @@
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.popup .header {
   padding: 0em 0em 0.5em;
   font-size: 1.125em;
@@ -61,7 +73,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.popup:before {
   position: absolute;
   content: "";
@@ -74,7 +90,11 @@
   -moz-transform: rotate(45deg);
 =======
   -ms-transform: rotate(45deg);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   transform: rotate(45deg);
   z-index: 2;
   -webkit-box-sizing: border-box;
@@ -164,7 +184,11 @@
 
 /*--- Below ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.bottom.center.popup:before {
   margin-left: -0.4em;
   top: -0.4em;
@@ -232,7 +256,11 @@
 
 /*--- Above ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.top.center.popup:before {
   top: auto;
   right: auto;
@@ -284,7 +312,11 @@
 
 /*--- Left Center ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.left.center.popup:before {
   top: 50%;
   right: -0.35em;
@@ -304,7 +336,11 @@
 
 /*--- Right Center  ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.right.center.popup:before {
   top: 50%;
   left: -0.35em;
@@ -328,7 +364,11 @@
             States
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.loading.popup {
   display: block;
   visibility: hidden;
@@ -382,7 +422,11 @@
 
 /* Inverted colors  */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.popup {
   background-color: #333333;
   border: none;
@@ -396,7 +440,11 @@
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.popup .header {
   background-color: rgba(0, 0, 0, 0.2);
   color: #FFFFFF;
@@ -415,4 +463,8 @@
   -webkit-box-shadow: none;
   box-shadow: none;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

@@ -18,7 +18,11 @@
             Segment
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.segment {
   position: relative;
   background-color: #FFFFFF;
@@ -34,7 +38,11 @@
   box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
   margin: 1em 0em;
   padding: 1em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-radius: 5px 5px 5px 5px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -58,7 +66,11 @@
   margin-bottom: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.segment:after {
   content: '';
   display: block;
@@ -69,7 +81,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.segment {
   margin: 0em;
   padding-left: 0em;
@@ -96,7 +112,11 @@
   padding-top: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.segment {
   margin: 0em;
   padding-top: 0em;
@@ -197,7 +217,11 @@
 .ui.piled.segment {
   margin: 2em 0em;
   -webkit-box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.15);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   -ms-box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.15);
   -o-box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.15);
@@ -219,7 +243,11 @@
   margin-bottom: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.piled.segment:after,
 .ui.piled.segment:before {
   background-color: #FFFFFF;
@@ -247,7 +275,11 @@
 .ui.piled.segment:after {
   -webkit-transform: rotate(1.2deg);
   -ms-transform: rotate(1.2deg);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   transform: rotate(1.2deg);
   top: 0;
   z-index: -1;
@@ -263,7 +295,11 @@
 .ui.piled.segment:before {
   -webkit-transform: rotate(-1.2deg);
   -ms-transform: rotate(-1.2deg);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   transform: rotate(-1.2deg);
   top: 0;
   z-index: -2;
@@ -285,7 +321,11 @@
   padding-bottom: 1.7em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.stacked.segment:after,
 .ui.stacked.segment:before {
   content: '';
@@ -311,7 +351,11 @@
 
 /* Inverted */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.stacked.inverted.segment:after,
 .ui.stacked.inverted.segment:before {
   background-color: rgba(255, 255, 255, 0.1);
@@ -356,7 +400,11 @@
             States
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.disabled.segment {
   opacity: 0.8;
   color: #DDDDDD;
@@ -378,7 +426,11 @@
        Basic
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.basic.segment {
   position: relative;
   background-color: transparent;
@@ -476,7 +528,11 @@
    Inverted Colors
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.black.segment {
   background-color: #5C6166 !important;
   color: #FFFFFF !important;
@@ -484,7 +540,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.blue.segment {
   background-color: #6ECFF5 !important;
   color: #FFFFFF !important;
@@ -492,7 +552,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.green.segment {
   background-color: #A1CF64 !important;
   color: #FFFFFF !important;
@@ -500,7 +564,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.red.segment {
   background-color: #D95C5C !important;
   color: #FFFFFF !important;
@@ -513,7 +581,11 @@
   color: #FFFFFF !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.purple.segment {
   background-color: #564F8A !important;
   color: #FFFFFF !important;
@@ -521,7 +593,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.teal.segment {
   background-color: #00B5AD !important;
   color: #FFFFFF !important;
@@ -572,7 +648,11 @@
        Floated
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.floated.segment,
 .ui.left.floated.segment {
   float: left;
@@ -614,7 +694,11 @@
   color: #FFFFFF;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.segment,
 .ui.primary.inverted.segment {
   background-color: #222222;
@@ -630,7 +714,11 @@
      Ordinality
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.primary.segment {
   background-color: #FFFFFF;
   color: #555555;
@@ -638,7 +726,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.segment {
   background-color: #FAF9FA;
   color: #777777;
@@ -646,7 +738,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tertiary.segment {
   background-color: #EBEBEB;
   color: #B0B0B0;
@@ -654,7 +750,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.inverted.segment {
   background-color: #555555;
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(255, 255, 255, 0.3)), to(rgba(255, 255, 255, 0.3)));
@@ -671,7 +771,11 @@
   color: #FAFAFA;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tertiary.inverted.segment {
   background-color: #555555;
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(255, 255, 255, 0.6)), to(rgba(255, 255, 255, 0.6)));
@@ -715,7 +819,11 @@
   box-shadow: 0px 0px 0px 1px #DDDDDD;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.top.attached.segment {
   top: 0px;
   bottom: -1px;
@@ -734,7 +842,11 @@
   margin-top: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.segment.bottom.attached {
   top: -1px;
   bottom: 0px;
@@ -752,4 +864,8 @@
 .ui.segment.bottom.attached:last-child {
   margin-bottom: 0em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

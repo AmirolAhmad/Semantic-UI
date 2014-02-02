@@ -34,7 +34,11 @@ $.fn.chatroom = function(parameters) {
     methodInvoked  = (typeof query == 'string'),
     queryArguments = [].slice.call(arguments, 1),
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
   $(this)
     .each(function() {
@@ -48,7 +52,11 @@ $.fn.chatroom = function(parameters) {
         selector  = settings.selector,
         error     = settings.error,
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         $module         = $(this),
 
         $expandButton   = $module.find(selector.expandButton),
@@ -68,7 +76,11 @@ $.fn.chatroom = function(parameters) {
 <<<<<<< HEAD
 =======
         element         = this,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
         html            = '',
         users           = {},
@@ -466,7 +478,11 @@ $.fn.chatroom = function(parameters) {
 
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
       setting: function(name, value) {
         if(value !== undefined) {
           if( $.isPlainObject(name) ) {
@@ -495,7 +511,11 @@ $.fn.chatroom = function(parameters) {
         }
         else if(value !== undefined) {
           module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         }
         else {
           return module[name];
@@ -566,7 +586,11 @@ $.fn.chatroom = function(parameters) {
 <<<<<<< HEAD
           title += ' ' + '(' + $allDropdowns.size() + ')';
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           if( (console.group !== undefined || console.table !== undefined) && performance.length > 0) {
             console.groupCollapsed(title);
             if(console.table) {
@@ -604,7 +628,11 @@ $.fn.chatroom = function(parameters) {
               module.error(error.method);
 =======
               module.error(error.method, query);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
           });
         }
@@ -636,7 +664,11 @@ $.fn.chatroom = function(parameters) {
 =======
   return (returnedValue)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };

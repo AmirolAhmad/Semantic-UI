@@ -108,7 +108,11 @@
 
 /*--- Checkbox ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.checkbox .box:after,
 .ui.checkbox label:after {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -138,7 +142,11 @@
 .ui.checkbox .box:after,
 .ui.checkbox label:after {
   top: 0.275em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   left: 0.2em;
   width: 0.45em;
   height: 0.15em;
@@ -165,7 +173,11 @@
 
 /*--- Outside Label  ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.checkbox + label {
   cursor: pointer;
   opacity: 0.85;
@@ -227,7 +239,11 @@
 
 /*--- Active ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.checkbox input:checked + .box:after,
 .ui.checkbox input:checked + label:after {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -240,7 +256,11 @@
 
 /*--- Disabled ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.disabled.checkbox + .box:after,
 .ui.checkbox input[disabled] + .box:after,
 .ui.disabled.checkbox label,
@@ -404,7 +424,11 @@
 
 /* Button Activation Light */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.slider.checkbox .box:after,
 .ui.slider.checkbox label:after {
   opacity: 1;
@@ -465,7 +489,11 @@
 
 /* On Color */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.slider.checkbox input:checked + .box:after,
 .ui.slider.checkbox input:checked + label:after {
   background-color: #89B84C;
@@ -500,7 +528,11 @@
 
 .ui.toggle.checkbox .box:before,
 .ui.toggle.checkbox label:before {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   cursor: pointer;
   display: block;
   position: absolute;
@@ -567,7 +599,11 @@
   position: absolute;
   top: 0.15em;
   left: 0.5em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   z-index: 2;
   border: none;
   width: 0.75em;
@@ -657,4 +693,8 @@
 .ui.huge.checkbox {
   font-size: 1.5em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

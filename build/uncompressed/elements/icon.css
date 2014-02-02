@@ -11,7 +11,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*!
  *  Font Awesome 3.2.1
  *  the iconic font designed for Bootstrap
@@ -39,7 +43,11 @@
   font-family: 'Icons';
   src: url(../fonts/icons.eot);
   src: url(../fonts/icons.eot?#iefix) format('embedded-opentype'), url(../fonts/icons.svg#icons) format('svg'), url(../fonts/icons.woff) format('woff'), url(../fonts/icons.ttf) format('truetype');
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -49,7 +57,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.icon {
   display: inline-block;
   opacity: 0.75;
@@ -2125,7 +2137,11 @@ i.icon.star.half.empty:before {
   content: "\f123";
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.icon.star.half.full:before,
 i.icon.star.half:before {
   content: "\f089";
@@ -2654,7 +2670,11 @@ i.icon.signup:before {
 
 /* stars are usually consecutive */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.icon.star {
   width: auto;
   margin: 0em;
@@ -2667,7 +2687,11 @@ i.icon.left,
 
 /* left side icons */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.icon.left {
   width: auto;
   margin: 0em 0.5em 0em 0em;
@@ -2682,7 +2706,11 @@ i.icon.down,
 /* right side icons */
 
 i.icon.search,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.icon.right {
   width: auto;
   margin: 0em 0em 0em 0.5em;
@@ -2738,7 +2766,11 @@ i.icon.loading {
 
   to {
     -webkit-transform: rotate(360deg);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     -ms-transform: rotate(360deg);
     transform: rotate(360deg);
   }
@@ -2756,7 +2788,11 @@ i.icon.loading {
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes icon-loading {
   from {
     -webkit-transform: rotate(0deg);
@@ -2765,7 +2801,11 @@ i.icon.loading {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   to {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -2774,7 +2814,11 @@ i.icon.loading {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-ms-keyframes icon-loading {
   from {
     -ms-transform: rotate(0deg);
@@ -2783,7 +2827,11 @@ i.icon.loading {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   to {
     -ms-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -2851,7 +2899,11 @@ i.icon.disabled {
          Link
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.link.icon {
   cursor: pointer;
   opacity: 0.7;
@@ -2891,7 +2943,11 @@ i.circular.icon {
   border-radius: 500em !important;
   padding: 0.5em 0.35em !important;
   -webkit-box-shadow: 0em 0em 0em 0.1em rgba(0, 0, 0, 0.1) inset;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: 0em 0em 0em 0.1em rgba(0, 0, 0, 0.1) inset;
   line-height: 1 !important;
   width: 2em !important;
@@ -2989,7 +3045,11 @@ i.counterclockwise.rotated.icon {
         Square
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.square.icon {
   width: 2em;
   height: 2em;
@@ -3027,7 +3087,11 @@ i.square.inverted.icon {
       Inverted
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.icon {
   background-color: #222222;
   color: #FFFFFF;
@@ -3091,7 +3155,11 @@ i.teal.icon {
    Inverted Colors
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.black.icon {
   background-color: #5C6166 !important;
   color: #FFFFFF !important;
@@ -3099,7 +3167,11 @@ i.inverted.black.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.blue.icon {
   background-color: #6ECFF5 !important;
   color: #FFFFFF !important;
@@ -3107,7 +3179,11 @@ i.inverted.blue.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.green.icon {
   background-color: #A1CF64 !important;
   color: #FFFFFF !important;
@@ -3115,7 +3191,11 @@ i.inverted.green.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.red.icon {
   background-color: #D95C5C !important;
   color: #FFFFFF !important;
@@ -3123,7 +3203,11 @@ i.inverted.red.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.purple.icon {
   background-color: #564F8A !important;
   color: #FFFFFF !important;
@@ -3131,7 +3215,11 @@ i.inverted.purple.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.teal.icon {
   background-color: #00B5AD !important;
   color: #FFFFFF !important;
@@ -3174,7 +3262,11 @@ i.big.icon {
   vertical-align: middle;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.huge.icon {
   font-size: 4em;
   vertical-align: middle;
@@ -3190,4 +3282,8 @@ i.massive.icon {
   font-size: 8em;
   vertical-align: middle;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

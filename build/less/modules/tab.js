@@ -42,7 +42,11 @@
       moduleNamespace = settings.namespace + '-module',
 =======
       moduleNamespace = 'module-' + settings.namespace,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
       instance        = $module.data(moduleNamespace),
 
@@ -55,7 +59,11 @@
       invokedResponse
 =======
       returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     ;
 
     module = {
@@ -76,7 +84,11 @@
 <<<<<<< HEAD
 =======
           module.debug('Initializing page state');
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           if( $.address === undefined ) {
             module.error(error.state);
             return false;
@@ -109,7 +121,11 @@
               }
             }
             $.address
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               .unbind('change')
               .bind('change', module.event.history.change)
             ;
@@ -139,7 +155,11 @@
 <<<<<<< HEAD
 =======
           .removeData(moduleNamespace)
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           .off(eventNamespace)
         ;
       },
@@ -149,7 +169,11 @@
 <<<<<<< HEAD
           module.debug('Navigation clicked');
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           var
             tabPath = $(this).data(metadata.tab)
           ;
@@ -165,7 +189,11 @@
             }
             else {
               module.verbose('Changing tab without state management', event);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.changeTab(tabPath);
             }
             event.preventDefault();
@@ -227,7 +255,11 @@
         }
       },
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
       changeTab: function(tabPath) {
         var
           pushStateAvailable = (window.history && window.history.pushState),
@@ -297,7 +329,11 @@
                 module.debug('First time tab loaded calling tab init');
                 $.proxy(settings.onTabInit, $tab)(currentPath, parameterArray, historyEvent);
               }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               $.proxy(settings.onTabLoad, $tab)(currentPath, parameterArray, historyEvent);
             }
           }
@@ -521,7 +557,11 @@
         }
         else if(value !== undefined) {
           settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         }
         else {
           return settings[name];
@@ -542,7 +582,11 @@
         }
         else if(value !== undefined) {
           module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         }
         else {
           return module[name];
@@ -630,7 +674,11 @@
 <<<<<<< HEAD
 =======
           object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           maxDepth,
           found,
           response
@@ -641,7 +689,11 @@
         if(typeof query == 'string' && instance !== undefined) {
 =======
         if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           query    = query.split(/[\. ]/);
           maxDepth = query.length - 1;
           $.each(query, function(depth, value) {
@@ -682,7 +734,11 @@
               return false;
             }
             else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               return false;
             }
           });
@@ -711,7 +767,11 @@
         }
         else if(response !== undefined) {
           returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         }
         return found;
       }
@@ -736,7 +796,11 @@
 =======
     return (returnedValue !== undefined)
       ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
       : this
     ;
 
@@ -771,7 +835,11 @@
 =======
     history         : true,
     historyType     : 'hash',
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     path            : false,
 
     context         : 'body',

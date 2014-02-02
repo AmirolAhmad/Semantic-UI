@@ -18,7 +18,11 @@
            Breadcrumb
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.breadcrumb {
   margin: 1em 0em;
   display: inline-block;
@@ -48,7 +52,11 @@
           Content
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.breadcrumb .divider {
   display: inline-block;
   opacity: 0.5;
@@ -66,7 +74,11 @@
   cursor: pointer;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.breadcrumb .section {
   display: inline-block;
   margin: 0em;
@@ -78,7 +90,11 @@
 
 /* Loose Coupling */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.breadcrumb.segment {
   display: inline-block;
   padding: 0.5em 1em;
@@ -128,7 +144,11 @@
 .ui.huge.breadcrumb {
   font-size: 1.3em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Form
  * http://github.com/jlukic/semantic-ui/
@@ -156,7 +176,11 @@
         Form
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form {
   position: relative;
   max-width: 100%;
@@ -199,7 +223,11 @@
         Field
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .field {
   clear: both;
   margin: 0em 0em 1em;
@@ -214,7 +242,11 @@
         Labels
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .field > label {
   margin: 0em 0em 0.3em;
   display: block;
@@ -262,7 +294,11 @@
 .ui.form input[type="number"],
 .ui.form input[type="url"],
 .ui.form input[type="tel"] {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   margin: 0em;
   padding: 0.85em 1.2em;
   font-size: 0.875em;
@@ -286,7 +322,11 @@
   -webkit-transition: background-color 0.3s ease-out, -webkit-box-shadow 0.2s ease, border-color 0.2s ease;
   transition: background-color 0.3s ease-out, box-shadow 0.2s ease, border-color 0.2s ease;
   -webkit-box-shadow: 0em 0em 0em 0em rgba(0, 0, 0, 0.3) inset;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: 0em 0em 0em 0em rgba(0, 0, 0, 0.3) inset;
   -webkit-appearance: none;
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
@@ -298,7 +338,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.textarea,
 .ui.form textarea {
   line-height: 1.33;
@@ -313,7 +357,11 @@
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form textarea,
 .ui.form input[type="checkbox"] {
   vertical-align: top;
@@ -328,7 +376,11 @@
        Dividers
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .divider {
   clear: both;
   margin: 1em 0em;
@@ -343,7 +395,11 @@
    Types of Messages
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .info.message,
 .ui.form .warning.message,
 .ui.form .error.message {
@@ -376,7 +432,11 @@
   white-space: nowrap;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.field .prompt {
   margin-top: 0em;
   margin-left: 1em;
@@ -384,7 +444,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.field .prompt:before {
   margin-top: -0.3em;
   bottom: auto;
@@ -418,7 +482,11 @@
 .ui.form input[type="number"]:focus,
 .ui.form input[type="url"]:focus,
 .ui.form input[type="tel"]:focus,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form textarea:focus {
   color: rgba(0, 0, 0, 0.85);
   border-color: rgba(0, 0, 0, 0.2);
@@ -512,7 +580,11 @@
 .ui.form .field.error input[type="number"],
 .ui.form .field.error input[type="url"],
 .ui.form .field.error input[type="tel"] {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   background-color: #FFFAFA;
   border-color: #E7BEBE;
   border-left: none;
@@ -540,7 +612,11 @@
 .ui.form .field.error input[type="number"]:focus,
 .ui.form .field.error input[type="url"]:focus,
 .ui.form .field.error input[type="tel"]:focus {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-color: #ff5050;
   color: #ff5050;
   -webkit-appearance: none;
@@ -629,7 +705,11 @@
        Disabled
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .field :disabled,
 .ui.form .field.disabled {
   opacity: 0.5;
@@ -668,7 +748,11 @@
   position: relative;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form.loading:after {
   position: absolute;
   top: 0%;
@@ -696,7 +780,11 @@
       Fluid Width
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form.fluid {
   width: 100%;
   -webkit-box-sizing: border-box;
@@ -804,7 +892,11 @@
   margin: 0em 0em 1em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .grouped.fields .field {
   display: block;
   float: none;
@@ -831,7 +923,11 @@
   clear: both;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .fields:after {
   content: ' ';
   display: block;
@@ -845,7 +941,11 @@
 =======
 
 .ui.form .fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   clear: none;
   float: left;
   -webkit-box-sizing: border-box;
@@ -872,7 +972,11 @@
 
 .ui.form .two.fields > .fields,
 .ui.form .two.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 50%;
   padding-left: 1%;
   padding-right: 1%;
@@ -883,7 +987,11 @@
 
 .ui.form .three.fields > .fields,
 .ui.form .three.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 33.333%;
   padding-left: 1%;
   padding-right: 1%;
@@ -894,7 +1002,11 @@
 
 .ui.form .four.fields > .fields,
 .ui.form .four.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 25%;
   padding-left: 1%;
   padding-right: 1%;
@@ -905,7 +1017,11 @@
 
 .ui.form .five.fields > .fields,
 .ui.form .five.fields > .field {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   width: 20%;
   padding-left: 1%;
   padding-right: 1%;
@@ -935,7 +1051,11 @@
     Inline Fields
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field {
   min-height: 1.3em;
   margin-right: 0.5em;
@@ -957,7 +1077,11 @@
 .ui.form .inline.field > label,
 .ui.form .inline.field > p,
 .ui.form .inline.field > input {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   display: inline-block;
   width: auto;
   margin-top: 0em;
@@ -968,7 +1092,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field > input,
 .ui.form .inline.field > input {
   font-size: 0.875em;
@@ -976,7 +1104,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field > :first-child,
 .ui.form .inline.field > :first-child {
   margin: 0em 0.5em 0em 0em;
@@ -984,7 +1116,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.form .inline.fields .field > :only-child,
 .ui.form .inline.field > :only-child {
   margin: 0em;
@@ -1037,7 +1173,11 @@
 .ui.large.form {
   font-size: 1.125em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Grid
  * http://github.com/jlukic/semantic-ui/
@@ -1058,7 +1198,11 @@
             Grid
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid {
   display: block;
   text-align: left;
@@ -1084,7 +1228,11 @@ body > .ui.grid {
   margin-right: 0% !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid:after,
 .ui.row:after {
   content: ".";
@@ -1105,7 +1253,11 @@ body > .ui.grid {
 
 /* Standard 16 column */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .column,
 .ui.grid > .row > .column {
   display: inline-block;
@@ -1114,7 +1266,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
   width: 6.25%;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   padding-left: 1.5%;
   padding-right: 1.5%;
   -webkit-box-sizing: border-box;
@@ -1143,7 +1299,11 @@ body > .ui.grid {
         Rows
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .row {
   display: block;
   width: 100% !important;
@@ -1157,7 +1317,11 @@ body > .ui.grid {
   font-size: 0rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .row:first-child {
   padding-top: 0rem;
   margin-top: 0rem;
@@ -1172,7 +1336,11 @@ body > .ui.grid {
       Content
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .row > img,
 .ui.grid > .row > .column > img {
   max-width: 100%;
@@ -1201,7 +1369,11 @@ body > .ui.grid {
   Page Grid (Responsive)
 -------------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.page.grid {
   min-width: 320px;
   margin-left: 0%;
@@ -1212,7 +1384,11 @@ body > .ui.grid {
 =======
 
 @media only screen and (max-width: 991px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.page.grid {
     padding: 0% 4%;
   }
@@ -1222,7 +1398,11 @@ body > .ui.grid {
 =======
 
 @media only screen and (min-width: 992px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.page.grid {
     padding: 0% 8%;
   }
@@ -1230,7 +1410,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (min-width: 1500px) {
   .ui.page.grid {
     padding: 0% 13%;
@@ -1239,7 +1423,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (min-width: 1750px) {
   .ui.page.grid {
     padding: 0% 18%;
@@ -1248,7 +1436,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (min-width: 2000px) {
   .ui.page.grid {
     padding: 0% 23%;
@@ -1442,7 +1634,11 @@ body > .ui.grid {
 
 /* Assume full width with one column */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.one.column.grid > .row > .column,
 .ui.one.column.grid > .column,
 .ui.grid > .one.column.row > .column {
@@ -1451,7 +1647,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.two.column.grid > .row > .column,
 .ui.two.column.grid > .column,
 .ui.grid > .two.column.row > .column {
@@ -1460,7 +1660,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.three.column.grid > .row > .column,
 .ui.three.column.grid > .column,
 .ui.grid > .three.column.row > .column {
@@ -1469,7 +1673,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.four.column.grid > .row > .column,
 .ui.four.column.grid > .column,
 .ui.grid > .four.column.row > .column {
@@ -1478,7 +1686,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.five.column.grid > .row > .column,
 .ui.five.column.grid > .column,
 .ui.grid > .five.column.row > .column {
@@ -1487,7 +1699,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.six.column.grid > .row > .column,
 .ui.six.column.grid > .column,
 .ui.grid > .six.column.row > .column {
@@ -1496,7 +1712,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.seven.column.grid > .row > .column,
 .ui.seven.column.grid > .column,
 .ui.grid > .seven.column.row > .column {
@@ -1505,7 +1725,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eight.column.grid > .row > .column,
 .ui.eight.column.grid > .column,
 .ui.grid > .eight.column.row > .column {
@@ -1514,7 +1738,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nine.column.grid > .row > .column,
 .ui.nine.column.grid > .column,
 .ui.grid > .nine.column.row > .column {
@@ -1523,7 +1751,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.ten.column.grid > .row > .column,
 .ui.ten.column.grid > .column,
 .ui.grid > .ten.column.row > .column {
@@ -1532,7 +1764,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eleven.column.grid > .row > .column,
 .ui.eleven.column.grid > .column,
 .ui.grid > .eleven.column.row > .column {
@@ -1541,7 +1777,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.twelve.column.grid > .row > .column,
 .ui.twelve.column.grid > .column,
 .ui.grid > .twelve.column.row > .column {
@@ -1550,7 +1790,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.thirteen.column.grid > .row > .column,
 .ui.thirteen.column.grid > .column,
 .ui.grid > .thirteen.column.row > .column {
@@ -1559,7 +1803,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.fourteen.column.grid > .row > .column,
 .ui.fourteen.column.grid > .column,
 .ui.grid > .fourteen.column.row > .column {
@@ -1568,7 +1816,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.fifteen.column.grid > .row > .column,
 .ui.fifteen.column.grid > .column,
 .ui.grid > .fifteen.column.row > .column {
@@ -1577,7 +1829,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sixteen.column.grid > .row > .column,
 .ui.sixteen.column.grid > .column,
 .ui.grid > .sixteen.column.row > .column {
@@ -1589,7 +1845,11 @@ body > .ui.grid {
 
 /* Assume full width with one column */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .column:only-child,
 .ui.grid > .row > .column:only-child {
   width: 100%;
@@ -1611,7 +1871,11 @@ body > .ui.grid {
   margin: 0% -2.5%;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.relaxed.grid > .column,
 .ui.relaxed.grid > .row > .column {
   padding-left: 2.5%;
@@ -1648,7 +1912,11 @@ body > .ui.grid {
         Divided
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.grid,
 .ui.divided.grid > .row {
   display: table;
@@ -1659,7 +1927,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.grid > .column:not(.row),
 .ui.divided.grid > .row > .column {
   display: table-cell;
@@ -1704,7 +1976,11 @@ body > .ui.grid {
   box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1), 0px -2px 0px 0px rgba(255, 255, 255, 0.8) !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertically.divided.grid > .row > .column,
 .ui.vertically.divided.grid > .column:not(.row),
 .ui.vertically.divided.grid > .row:first-child {
@@ -1724,7 +2000,11 @@ body > .ui.grid {
          Celled
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.grid {
   display: table;
   width: 100%;
@@ -1739,7 +2019,11 @@ body > .ui.grid {
   box-shadow: 0px 0px 0px 1px #DFDFDF;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.grid > .row,
 .ui.celled.grid > .column.row,
 .ui.celled.grid > .column.row:first-child {
@@ -1756,7 +2040,11 @@ body > .ui.grid {
   box-shadow: 0px -1px 0px 0px #dfdfdf;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.grid > .column:not(.row),
 .ui.celled.grid > .row > .column {
   display: table-cell;
@@ -1802,7 +2090,11 @@ body > .ui.grid {
 
 /* Vertical Centered */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.left.aligned.grid,
 .ui.left.aligned.grid > .row > .column,
 .ui.left.aligned.grid > .column,
@@ -1813,7 +2105,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.center.aligned.grid,
 .ui.center.aligned.grid > .row > .column,
 .ui.center.aligned.grid > .column,
@@ -1824,7 +2120,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.right.aligned.grid,
 .ui.right.aligned.grid > .row > .column,
 .ui.right.aligned.grid > .column,
@@ -1857,7 +2157,11 @@ body > .ui.grid {
 
 /* Vertical Centered */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.top.aligned.grid,
 .ui.top.aligned.grid > .row > .column,
 .ui.top.aligned.grid > .column,
@@ -1868,7 +2172,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.middle.aligned.grid,
 .ui.middle.aligned.grid > .row > .column,
 .ui.middle.aligned.grid > .column,
@@ -1879,7 +2187,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.bottom.aligned.grid,
 .ui.bottom.aligned.grid > .row > .column,
 .ui.bottom.aligned.grid > .column,
@@ -1897,7 +2209,11 @@ body > .ui.grid {
   Equal Height Columns
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.grid > .equal.height.row {
   display: table;
   width: 100%;
@@ -1924,7 +2240,11 @@ body > .ui.grid {
 /* Mobile Only */
 
 @media only screen and (max-width: 767px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.mobile.only.grid,
   .ui.grid > .mobile.only.row {
     display: block !important;
@@ -1939,7 +2259,11 @@ body > .ui.grid {
     display: inline-block !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.mobile.only.grid,
   .ui.celled.mobile.only.grid,
   .ui.divided.mobile.only.grid .row,
@@ -1953,7 +2277,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.grid > .row > .mobile.only.column,
   .ui.celled.grid > .row > .mobile.only.column,
   .ui.divided.mobile.only.grid > .row > .column,
@@ -1973,7 +2301,11 @@ body > .ui.grid {
   .ui.mobile.only.grid,
   .ui.grid > .mobile.only.row,
   .ui.grid > .mobile.only.column,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.grid > .row > .mobile.only.column {
     display: none;
   }
@@ -1986,7 +2318,11 @@ body > .ui.grid {
 /* Tablet Only */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.tablet.only.grid,
   .ui.grid > .tablet.only.row {
     display: block !important;
@@ -2001,7 +2337,11 @@ body > .ui.grid {
     display: inline-block !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.tablet.only.grid,
   .ui.celled.tablet.only.grid,
   .ui.divided.tablet.only.grid .row,
@@ -2015,7 +2355,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.grid > .row > .tablet.only.column,
   .ui.celled.grid > .row > .tablet.only.column,
   .ui.divided.tablet.only.grid > .row > .column,
@@ -2035,7 +2379,11 @@ body > .ui.grid {
   .ui.tablet.only.grid,
   .ui.grid > .tablet.only.row,
   .ui.grid > .tablet.only.column,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.grid > .row > .tablet.only.column {
     display: none;
   }
@@ -2048,7 +2396,11 @@ body > .ui.grid {
 /* Computer Only */
 
 @media only screen and (min-width: 992px) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.computer.only.grid,
   .ui.grid > .computer.only.row {
     display: block !important;
@@ -2063,7 +2415,11 @@ body > .ui.grid {
     display: inline-block !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.computer.only.grid,
   .ui.celled.computer.only.grid,
   .ui.divided.computer.only.grid .row,
@@ -2077,7 +2433,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.divided.grid > .row > .computer.only.column,
   .ui.celled.grid > .row > .computer.only.column,
   .ui.divided.computer.only.grid > .row > .column,
@@ -2097,7 +2457,11 @@ body > .ui.grid {
   .ui.computer.only.grid,
   .ui.grid > .computer.only.row,
   .ui.grid > .computer.only.column,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.grid > .row > .computer.only.column {
     display: none;
   }
@@ -2300,7 +2664,11 @@ body > .ui.grid {
     box-shadow: none !important;
   }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.stackable.divided.grid .column,
   .ui.stackable.celled.grid .column {
     border-top: 1px dotted rgba(0, 0, 0, 0.1);
@@ -2308,7 +2676,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.stackable.grid > .row:first-child > .column:first-child,
   .ui.stackable.grid > .column:first-child {
     margin-top: 0em !important;
@@ -2317,7 +2689,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.stackable.divided.grid > .row:first-child > .column:first-child,
   .ui.stackable.celled.grid > .row:first-child > .column:first-child,
   .ui.stackable.divided.grid > .column:first-child,
@@ -2336,7 +2712,11 @@ body > .ui.grid {
 
   /* Remove pointers from vertical menus */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   .ui.stackable.grid .vertical.pointing.menu .item:after {
     display: none;
   }
@@ -2344,7 +2724,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Menu
  * http://github.com/jlukic/semantic-ui/
@@ -2372,7 +2756,11 @@ body > .ui.grid {
       Menu
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu {
   margin: 1rem 0rem;
   background-color: #FFFFFF;
@@ -2405,7 +2793,11 @@ body > .ui.grid {
   margin-bottom: 0rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu:after {
   content: ".";
   display: block;
@@ -2430,7 +2822,11 @@ body > .ui.grid {
   border-radius: 0px 0.1875em 0.1875em 0px;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item {
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -2505,7 +2901,11 @@ body > .ui.grid {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item .menu a.item:hover,
 .ui.menu .item .menu a.item.hover,
 .ui.menu .item .menu .link.item:hover,
@@ -2545,7 +2945,11 @@ body > .ui.grid {
       Items
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item {
   position: relative;
   display: inline-block;
@@ -2570,7 +2974,11 @@ body > .ui.grid {
   margin: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item.left,
 .ui.menu .menu.left {
   float: left;
@@ -2578,7 +2986,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item.right,
 .ui.menu .menu.right {
   float: right;
@@ -2593,7 +3005,11 @@ body > .ui.grid {
     Borders
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item:before {
   position: absolute;
   content: '';
@@ -2614,7 +3030,11 @@ body > .ui.grid {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.1) 50%, rgba(0, 0, 0, 0.05) 100%);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .menu.right .item:before,
 .ui.menu .item.right:before {
   right: auto;
@@ -2630,7 +3050,11 @@ body > .ui.grid {
   Text Content
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .text.item > *,
 .ui.menu .item > p:only-child {
   -webkit-user-select: text;
@@ -2710,7 +3134,11 @@ body > .ui.grid {
 }
 
 .ui.vertical.menu .item > .input input {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   margin: 0em;
   padding-top: 0.63em;
   padding-bottom: 0.63em;
@@ -2766,7 +3194,11 @@ body > .ui.grid {
      Header
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .header.item {
   background-color: rgba(0, 0, 0, 0.04);
   margin: 0em;
@@ -2816,7 +3248,11 @@ body > .ui.grid {
   margin: 0px !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .dropdown.item .menu .item {
   width: 100%;
   color: rgba(0, 0, 0, 0.75);
@@ -2846,7 +3282,11 @@ body > .ui.grid {
      Labels
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item > .label {
   background-color: rgba(0, 0, 0, 0.35);
   color: #FFFFFF;
@@ -2871,7 +3311,11 @@ body > .ui.grid {
       Images
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item > img:only-child {
   display: block;
   max-width: 100%;
@@ -2894,7 +3338,11 @@ body > .ui.grid {
       Hover
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.link.menu .item:hover,
 .ui.menu .item.hover,
 .ui.menu .link.item:hover,
@@ -2907,7 +3355,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .ui.dropdown.active {
   background-color: rgba(0, 0, 0, 0.02);
   -webkit-box-shadow: none;
@@ -2932,7 +3384,11 @@ body > .ui.grid {
       Down
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.link.menu .item:active,
 .ui.menu .link.item:active,
 .ui.menu a.item:active,
@@ -2949,7 +3405,11 @@ body > .ui.grid {
      Active
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .active.item {
   background-color: rgba(0, 0, 0, 0.01);
   color: rgba(0, 0, 0, 0.95);
@@ -3036,7 +3496,11 @@ body > .ui.grid {
      Disabled
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .item.disabled,
 .ui.menu .item.disabled:hover,
 .ui.menu .item.disabled.hover {
@@ -3064,7 +3528,11 @@ body > .ui.grid {
   position: relative;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.loading:after {
   position: absolute;
   top: 0%;
@@ -3092,7 +3560,11 @@ body > .ui.grid {
     Vertical
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item {
   display: block;
   height: auto !important;
@@ -3127,7 +3599,11 @@ body > .ui.grid {
   text-align: center;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item > .icon:not(.input) {
   float: right;
   width: 1.22em;
@@ -3136,7 +3612,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item > .label + .icon {
   float: none;
   margin: 0em 0.25em 0em 0em;
@@ -3147,7 +3627,11 @@ body > .ui.grid {
 
 /*--- Border ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item:before {
   position: absolute;
   content: '';
@@ -3185,7 +3669,11 @@ body > .ui.grid {
   content: "\f0da";
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .dropdown.item .menu {
   top: 0% !important;
   left: 100%;
@@ -3197,7 +3685,11 @@ body > .ui.grid {
   box-shadow: 0 0px 1px 1px #DDDDDD;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .dropdown.item.active {
   border-top-right-radius: 0em;
   border-bottom-right-radius: 0em;
@@ -3239,7 +3731,11 @@ body > .ui.grid {
   margin: 0.5em -0.95em 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.menu .item > .menu > .item {
   padding: 0.5rem 1.5rem;
   font-size: 0.875em;
@@ -3268,7 +3764,11 @@ body > .ui.grid {
   color: rgba(0, 0, 0, 0.4);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu > .menu > .item:hover,
 .ui.tiered.menu > .menu > .item.hover {
   color: rgba(0, 0, 0, 0.8);
@@ -3283,7 +3783,11 @@ body > .ui.grid {
   color: rgba(0, 0, 0, 0.8);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu > .menu .item.active:after {
   position: absolute;
   content: '';
@@ -3297,7 +3801,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu .sub.menu {
   background-color: rgba(0, 0, 0, 0.01);
   border-radius: 0em;
@@ -3327,7 +3835,11 @@ body > .ui.grid {
   background-image: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tiered.menu .sub.menu .active.item {
   padding-top: 0.83em;
   background-color: transparent;
@@ -3375,7 +3887,11 @@ body > .ui.grid {
   color: rgba(255, 255, 255, 0.6);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.tiered.menu > .menu > .item:hover,
 .ui.inverted.tiered.menu > .menu > .item.hover {
   color: rgba(255, 255, 255, 0.9);
@@ -3390,7 +3906,11 @@ body > .ui.grid {
   display: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.tiered.menu > .sub.menu > .active.item,
 .ui.inverted.tiered.menu > .menu > .active.item {
   color: #ffffff !important;
@@ -3442,7 +3962,11 @@ body > .ui.grid {
   box-shadow: none !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tabular.menu .item {
   background-color: transparent;
   border-left: 1px solid transparent;
@@ -3465,7 +3989,11 @@ body > .ui.grid {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tabular.menu .item:hover {
   background-color: transparent;
   color: rgba(0, 0, 0, 0.8);
@@ -3506,7 +4034,11 @@ body > .ui.grid {
 
 /* Coupling with segment for attachment */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.attached.tabular.menu {
   position: relative;
   z-index: 2;
@@ -3528,7 +4060,11 @@ body > .ui.grid {
    Pagination
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pagination.menu {
   margin: 0em;
   display: inline-block;
@@ -3561,7 +4097,11 @@ body > .ui.grid {
 
 /* active */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pagination.menu .active.item {
   border-top: none;
   padding-top: 0.83em;
@@ -3604,7 +4144,11 @@ body > .ui.grid {
 .ui.secondary.menu > .menu > .item,
 .ui.secondary.menu > .item {
   -webkit-box-shadow: none;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: none;
   border: none;
   height: auto !important;
@@ -3632,7 +4176,11 @@ body > .ui.grid {
   border: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.menu .link.item,
 .ui.secondary.menu a.item {
   opacity: 0.8;
@@ -3663,7 +4211,11 @@ body > .ui.grid {
 
 /* hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.menu .link.item:hover,
 .ui.secondary.menu a.item:hover {
   opacity: 1;
@@ -3675,7 +4227,11 @@ body > .ui.grid {
 /* active */
 
 .ui.secondary.menu > .menu > .active.item,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.menu > .active.item {
   background-color: rgba(0, 0, 0, 0.08);
   opacity: 1;
@@ -3700,7 +4256,11 @@ body > .ui.grid {
 
 /* inverted */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.inverted.menu .link.item,
 .ui.secondary.inverted.menu a.item {
   color: rgba(255, 255, 255, 0.5);
@@ -3708,7 +4268,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.inverted.menu .link.item:hover,
 .ui.secondary.inverted.menu a.item:hover {
   color: rgba(255, 255, 255, 0.9);
@@ -3765,7 +4329,11 @@ body > .ui.grid {
 }
 
 .ui.secondary.pointing.menu > .menu > .item,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.pointing.menu > .item {
   margin: 0em 0em -3px;
   padding: 0.6em 0.95em;
@@ -3849,7 +4417,11 @@ body > .ui.grid {
 /* Active */
 
 .ui.secondary.pointing.menu > .menu > .item.active,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.pointing.menu > .item.active {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.4);
@@ -3869,7 +4441,11 @@ body > .ui.grid {
    Secondary Vertical
 -----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu {
   border: none;
   border-right: 3px solid rgba(0, 0, 0, 0.1);
@@ -3877,7 +4453,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.menu > .item {
   border: none;
   margin: 0em 0em 0.3em;
@@ -3900,7 +4480,11 @@ body > .ui.grid {
   border-radius: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item {
   margin: 0em -3px 0em 0em;
   border-bottom: none;
@@ -3917,7 +4501,11 @@ body > .ui.grid {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item.hover,
 .ui.secondary.vertical.pointing.menu > .item:hover {
   background-color: transparent;
@@ -3929,7 +4517,11 @@ body > .ui.grid {
 
 /* Down */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item:active {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.2);
@@ -3940,7 +4532,11 @@ body > .ui.grid {
 
 /* Active */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.vertical.pointing.menu > .item.active {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.4);
@@ -4024,7 +4620,11 @@ body > .ui.grid {
    Inverted Vertical
 ----------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.secondary.inverted.vertical.pointing.menu {
   border-right: 3px solid rgba(255, 255, 255, 0.1);
   border-bottom: none;
@@ -4057,7 +4657,11 @@ body > .ui.grid {
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu > .item {
   opacity: 0.8;
   margin: 0em 1em;
@@ -4096,7 +4700,11 @@ body > .ui.grid {
   display: none !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu .header.item {
   background-color: transparent;
   opacity: 1;
@@ -4143,7 +4751,11 @@ body > .ui.grid {
   margin-bottom: 0rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.text.menu .item {
   float: left;
   clear: left;
@@ -4152,7 +4764,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.text.menu .item > .icon {
   float: none;
   margin: 0em 0.83em 0em 0em;
@@ -4170,7 +4786,11 @@ body > .ui.grid {
 
 /*--- hover ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu .item.hover,
 .ui.text.menu .item:hover {
   opacity: 1;
@@ -4182,7 +4802,11 @@ body > .ui.grid {
 
 /*--- active ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.text.menu .active.item {
   background-color: transparent;
   padding: 0em;
@@ -4221,7 +4845,11 @@ body > .ui.grid {
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.text.menu,
 .ui.inverted.text.menu .item,
 .ui.inverted.text.menu .item:hover,
@@ -4238,7 +4866,11 @@ body > .ui.grid {
     Icon Only
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.menu,
 .ui.vertical.icon.menu {
   width: auto;
@@ -4248,7 +4880,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.menu > .item {
   height: auto;
   text-align: center;
@@ -4257,7 +4893,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.menu > .item > .icon {
   display: block;
   float: none !important;
@@ -4322,7 +4962,11 @@ body > .ui.grid {
   text-align: center;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labeled.icon.menu > .item > .icon {
   display: block;
   font-size: 1.5em !important;
@@ -4348,7 +4992,11 @@ body > .ui.grid {
 
 /*--- Light Colors  ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .green.active.item,
 .ui.green.menu .active.item {
   border-color: #A1CF64 !important;
@@ -4357,7 +5005,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .red.active.item,
 .ui.red.menu .active.item {
   border-color: #D95C5C !important;
@@ -4366,7 +5018,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .blue.active.item,
 .ui.blue.menu .active.item {
   border-color: #6ECFF5 !important;
@@ -4375,7 +5031,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .purple.active.item,
 .ui.purple.menu .active.item {
   border-color: #564F8A !important;
@@ -4384,7 +5044,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .orange.active.item,
 .ui.orange.menu .active.item {
   border-color: #F05940 !important;
@@ -4393,7 +5057,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu .teal.active.item,
 .ui.teal.menu .active.item {
   border-color: #00B5AD !important;
@@ -4419,7 +5087,11 @@ body > .ui.grid {
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .header.item {
   margin: 0em;
   background-color: rgba(0, 0, 0, 0.3);
@@ -4432,7 +5104,11 @@ body > .ui.grid {
   box-shadow: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .item,
 .ui.inverted.menu .item > a {
   color: #FFFFFF;
@@ -4440,7 +5116,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .item .item,
 .ui.inverted.menu .item .item > a {
   color: rgba(255, 255, 255, 0.8);
@@ -4448,7 +5128,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .dropdown.item .menu .item,
 .ui.inverted.menu .dropdown.item .menu .item a {
   color: rgba(0, 0, 0, 0.75) !important;
@@ -4456,7 +5140,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .item.disabled,
 .ui.inverted.menu .item.disabled:hover,
 .ui.inverted.menu .item.disabled.hover {
@@ -4497,7 +5185,11 @@ body > .ui.grid {
 
 /*--- Hover ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.link.inverted.menu .item:hover,
 .ui.inverted.menu .item.hover,
 .ui.inverted.menu .link.item:hover,
@@ -4509,7 +5201,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu a.item:hover,
 .ui.inverted.menu .item.hover,
 .ui.inverted.menu .item > a:hover,
@@ -4525,7 +5221,11 @@ body > .ui.grid {
 
 /*--- Down ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu a.item:active,
 .ui.inverted.menu .dropdown.item:active,
 .ui.inverted.menu .link.item:active,
@@ -4548,7 +5248,11 @@ body > .ui.grid {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.menu .active.item,
 .ui.inverted.menu .active.item a {
   color: #ffffff !important;
@@ -4556,7 +5260,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.vertical.menu .item .menu .active.item {
   background-color: rgba(255, 255, 255, 0.2);
   color: #ffffff;
@@ -4640,7 +5348,11 @@ body > .ui.grid {
      Floated
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.floated.menu {
   float: left;
   margin: 0rem 0.5rem 0rem 0rem;
@@ -4648,7 +5360,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.right.floated.menu {
   float: right;
   margin: 0rem 0rem 0rem 0.5rem;
@@ -4767,7 +5483,11 @@ body > .ui.grid {
      Fitted
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.fitted.menu .item,
 .ui.fitted.menu .item .menu .item,
 .ui.menu .fitted.item {
@@ -4776,7 +5496,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontally.fitted.menu .item,
 .ui.horizontally.fitted.menu .item .menu .item,
 .ui.menu .horizontally.fitted.item {
@@ -4786,7 +5510,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertically.fitted.menu .item,
 .ui.vertically.fitted.menu .item .menu .item,
 .ui.menu .vertically.fitted.item {
@@ -4803,7 +5531,11 @@ body > .ui.grid {
    Borderless
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.borderless.menu .item:before,
 .ui.borderless.menu .item .menu .item:before,
 .ui.menu .borderless.item:before {
@@ -4819,7 +5551,11 @@ body > .ui.grid {
        Compact
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.compact.menu {
   display: inline-block;
   margin: 0em;
@@ -4849,7 +5585,11 @@ body > .ui.grid {
         Fluid
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fluid,
 .ui.vertical.menu.fluid {
   display: block;
@@ -4865,7 +5605,11 @@ body > .ui.grid {
       Evenly Sized
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.item.menu,
 .ui.item.menu .item {
   width: 100%;
@@ -4966,7 +5710,11 @@ body > .ui.grid {
 .ui.menu.fixed {
   position: fixed;
   z-index: 999;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   margin: 0em;
   border: none;
   width: 100%;
@@ -4987,7 +5735,11 @@ body > .ui.grid {
   border-radius: 0px !important;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.top {
   top: 0px;
   left: 0px;
@@ -4997,7 +5749,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.right {
   top: 0px;
   right: 0px;
@@ -5009,7 +5765,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.bottom {
   bottom: 0px;
   left: 0px;
@@ -5019,7 +5779,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.menu.fixed.left {
   top: 0px;
   left: 0px;
@@ -5050,7 +5814,11 @@ body > .ui.grid {
 .ui.pointing.menu .active.item:after {
   position: absolute;
   bottom: -0.3em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   left: 50%;
   content: "";
   margin-left: -0.3em;
@@ -5094,7 +5862,11 @@ body > .ui.grid {
   display: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.vertical.pointing.menu .active.item:after {
   position: absolute;
   top: 50%;
@@ -5119,7 +5891,11 @@ body > .ui.grid {
   background-color: #FCFCFC;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.menu .active.item.hover:after,
 .ui.pointing.menu .active.item:hover:after {
   background-color: #FAFAFA;
@@ -5245,7 +6021,11 @@ body > .ui.grid {
 .ui.large.vertical.menu {
   width: 18rem;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Message
  * http://github.com/jlukic/semantic-ui/
@@ -5266,7 +6046,11 @@ body > .ui.grid {
             Message
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message {
   position: relative;
   min-height: 18px;
@@ -5283,7 +6067,11 @@ body > .ui.grid {
   -ms-transition: opacity 0.1s ease, color 0.1s ease, background 0.1s ease, box-shadow 0.1s ease;
 =======
   -webkit-transition: opacity 0.1s ease, color 0.1s ease, background 0.1s ease, -webkit-box-shadow 0.1s ease;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   transition: opacity 0.1s ease, color 0.1s ease, background 0.1s ease, box-shadow 0.1s ease;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -5322,7 +6110,11 @@ body > .ui.grid {
 
 /* block with headers */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message .header {
   margin: 0em;
   font-size: 1.33em;
@@ -5334,7 +6126,11 @@ body > .ui.grid {
 
 /* block with paragraphs */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message p {
   opacity: 0.85;
   margin: 1em 0em;
@@ -5380,7 +6176,11 @@ body > .ui.grid {
 
 /* block with child list */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message ul.list {
   opacity: 0.85;
   list-style-position: inside;
@@ -5403,7 +6203,11 @@ body > .ui.grid {
   padding: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message ul.list li:before {
   position: absolute;
   content: '\2022';
@@ -5426,7 +6230,11 @@ body > .ui.grid {
 
 /* dismissable block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message > .close.icon {
   cursor: pointer;
   position: absolute;
@@ -5464,7 +6272,11 @@ body > .ui.grid {
             States
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message.visible,
 .ui.header.visible {
   display: block !important;
@@ -5472,7 +6284,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.message.hidden,
 .ui.header.hidden {
   display: none;
@@ -5508,7 +6324,11 @@ body > .ui.grid {
     Attached
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.attached.message {
   margin-left: -1px;
   margin-right: -1px;
@@ -5559,7 +6379,11 @@ body > .ui.grid {
       Icon
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.message {
   display: table;
   width: 100%;
@@ -5587,7 +6411,11 @@ body > .ui.grid {
   padding-left: 1em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.icon.message > .content {
   display: table-cell;
   vertical-align: middle;
@@ -5602,7 +6430,11 @@ body > .ui.grid {
     Inverted
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.message {
   background-color: rgba(255, 255, 255, 0.05);
   color: rgba(255, 255, 255, 0.95);
@@ -5634,7 +6466,11 @@ body > .ui.grid {
      Colors
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.black.message {
   background-color: #333333;
   color: rgba(255, 255, 255, 0.95);
@@ -5649,7 +6485,11 @@ body > .ui.grid {
      Types
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.blue.message,
 .ui.info.message {
   background-color: #E6F4F9;
@@ -5661,7 +6501,11 @@ body > .ui.grid {
 
 /* Green Text Block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.green.message {
   background-color: #DEFCD5;
   color: #52A954;
@@ -5672,7 +6516,11 @@ body > .ui.grid {
 
 /* Yellow Text Block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.yellow.message,
 .ui.warning.message {
   background-color: #F6F3D5;
@@ -5684,7 +6532,11 @@ body > .ui.grid {
 
 /* Red Text Block */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.red.message {
   background-color: #F1D7D7;
   color: #A95252;
@@ -5762,7 +6614,11 @@ body > .ui.grid {
 .ui.massive.message {
   font-size: 2em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Table
  * http://github.com/jlukic/semantic-ui/
@@ -5786,7 +6642,11 @@ body > .ui.grid {
 
 /* Prototype */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table {
   width: 100%;
   border-collapse: collapse;
@@ -5797,7 +6657,11 @@ body > .ui.grid {
 
 /* Table Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th,
 .ui.table tr,
 .ui.table td {
@@ -5837,7 +6701,11 @@ body > .ui.grid {
 .ui.table th {
   cursor: auto;
   background-color: rgba(0, 0, 0, 0.05);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   text-align: left;
   color: rgba(0, 0, 0, 0.8);
   padding: 0.5em 0.7em;
@@ -5877,7 +6745,11 @@ body > .ui.grid {
 
 /* Table Cells */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table td {
   padding: 0.40em 0.7em;
   vertical-align: middle;
@@ -5895,7 +6767,11 @@ body > .ui.grid {
   border-top: 1px solid rgba(0, 0, 0, 0.03);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tfoot th {
   font-weight: normal;
   font-style: italic;
@@ -6025,7 +6901,11 @@ body > .ui.grid {
 
 .ui.sortable.table th.disabled:hover {
   cursor: auto;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   text-align: left;
   font-weight: bold;
   color: #333333;
@@ -6065,7 +6945,11 @@ body > .ui.grid {
   box-shadow: 2px 0px 0px #119000 inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.positive td,
 .ui.table td.positive {
   background-color: #F2F8F0 !important;
@@ -6074,7 +6958,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.positive:hover td,
 .ui.celled.table tr:hover td.positive,
 .ui.table tr.positive:hover td,
@@ -6105,7 +6993,11 @@ body > .ui.grid {
   box-shadow: 2px 0px 0px #CD2929 inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.negative td,
 .ui.table td.negative {
   background-color: #F9F4F4;
@@ -6114,7 +7006,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.negative:hover td,
 .ui.celled.table tr:hover td.negative,
 .ui.table tr.negative:hover td,
@@ -6161,7 +7057,11 @@ body > .ui.grid {
   color: #CD2929;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.error:hover td,
 .ui.celled.table tr:hover td.error,
 .ui.table tr.error:hover td,
@@ -6195,7 +7095,11 @@ body > .ui.grid {
   box-shadow: 2px 0px 0px #7D6C00 inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.warning td,
 .ui.table td.warning,
 .ui.table th.warning {
@@ -6207,7 +7111,11 @@ body > .ui.grid {
   color: #7D6C00;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tr.warning:hover td,
 .ui.celled.table tr:hover td.warning,
 .ui.table tr.warning:hover td,
@@ -6262,7 +7170,11 @@ body > .ui.grid {
      Disabled
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table tr.disabled td,
 .ui.table tr td.disabled,
 .ui.table tr.disabled:hover td,
@@ -6394,7 +7306,11 @@ body > .ui.grid {
 
 /* Column Width */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.one.wide,
 .ui.table td.one.wide {
   width: 6.25%;
@@ -6402,7 +7318,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.two.wide,
 .ui.table td.two.wide {
   width: 12.5%;
@@ -6410,7 +7330,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.three.wide,
 .ui.table td.three.wide {
   width: 18.75%;
@@ -6418,7 +7342,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.four.wide,
 .ui.table td.four.wide {
   width: 25%;
@@ -6426,7 +7354,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.five.wide,
 .ui.table td.five.wide {
   width: 31.25%;
@@ -6434,7 +7366,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.six.wide,
 .ui.table td.six.wide {
   width: 37.5%;
@@ -6442,7 +7378,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.seven.wide,
 .ui.table td.seven.wide {
   width: 43.75%;
@@ -6450,7 +7390,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.eight.wide,
 .ui.table td.eight.wide {
   width: 50%;
@@ -6458,7 +7402,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.nine.wide,
 .ui.table td.nine.wide {
   width: 56.25%;
@@ -6466,7 +7414,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.ten.wide,
 .ui.table td.ten.wide {
   width: 62.5%;
@@ -6474,7 +7426,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.eleven.wide,
 .ui.table td.eleven.wide {
   width: 68.75%;
@@ -6482,7 +7438,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.twelve.wide,
 .ui.table td.twelve.wide {
   width: 75%;
@@ -6490,7 +7450,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.thirteen.wide,
 .ui.table td.thirteen.wide {
   width: 81.25%;
@@ -6498,7 +7462,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.fourteen.wide,
 .ui.table td.fourteen.wide {
   width: 87.5%;
@@ -6506,7 +7474,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.fifteen.wide,
 .ui.table td.fifteen.wide {
   width: 93.75%;
@@ -6514,7 +7486,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.table th.sixteen.wide,
 .ui.table td.sixteen.wide {
   width: 100%;
@@ -6536,7 +7512,11 @@ body > .ui.grid {
   color: rgba(0, 0, 0, 0.8);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.table tbody tr,
 .ui.celled.table tfoot tr {
   border: none;
@@ -6582,7 +7562,11 @@ body > .ui.grid {
     Sortable
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sortable.table thead th {
   cursor: pointer;
   white-space: nowrap;
@@ -6590,7 +7574,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sortable.table thead th.sorted,
 .ui.sortable.table thead th.sorted:hover {
   -webkit-user-select: none;
@@ -6601,7 +7589,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.sortable.table thead th:after {
   display: inline-block;
   content: '';
@@ -6647,7 +7639,11 @@ body > .ui.grid {
   color: rgba(255, 255, 255, 0.9);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.table th {
   background-color: rgba(0, 0, 0, 0.15);
   color: rgba(255, 255, 255, 0.9);
@@ -6700,7 +7696,11 @@ body > .ui.grid {
       Basic
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.basic.table th {
   background-color: transparent;
   padding: 0.5em;
@@ -6733,7 +7733,11 @@ body > .ui.grid {
      Padded
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.padded.table th,
 .ui.padded.table td {
   padding: 0.8em 1em;
@@ -6792,7 +7796,11 @@ body > .ui.grid {
 .ui.large.table {
   font-size: 1.1em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - basic.Icon (Basic)
  * http://github.com/jlukic/semantic-ui/
@@ -6821,7 +7829,11 @@ body > .ui.grid {
   font-family: 'Basic Icons';
   src: url(../fonts/basic.icons.eot);
   src: url(../fonts/basic.icons.eot?#iefix) format('embedded-opentype'), url(../fonts/basic.icons.svg#basic.icons) format('svg'), url(../fonts/basic.icons.woff) format('woff'), url(../fonts/basic.icons.ttf) format('truetype');
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -6831,7 +7843,11 @@ body > .ui.grid {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon {
   display: inline-block;
   opacity: 0.75;
@@ -8126,7 +9142,11 @@ i.dropdown.basic.icon {
 
 /* stars are usually consecutive */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon.star {
   width: auto;
   margin: 0em;
@@ -8137,7 +9157,11 @@ i.basic.icon.star {
 
 /* left side basic.icons */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon.left,
 i.basic.icon.left,
 i.basic.icon.left {
@@ -8150,7 +9174,11 @@ i.basic.icon.left {
 
 /* right side basic.icons */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.basic.icon.search,
 i.basic.icon.up,
 i.basic.icon.down,
@@ -8320,7 +9348,11 @@ i.basic.icon.disabled {
          Link
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.link.basic.icon {
   cursor: pointer;
   opacity: 0.7;
@@ -8360,7 +9392,11 @@ i.circular.basic.icon {
   border-radius: 500px !important;
   padding: 0.5em 0em !important;
   -webkit-box-shadow: 0em 0em 0em 0.1em rgba(0, 0, 0, 0.1) inset;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   box-shadow: 0em 0em 0em 0.1em rgba(0, 0, 0, 0.1) inset;
   line-height: 1 !important;
   width: 2em !important;
@@ -8454,7 +9490,11 @@ i.right.rotated.basic.icon {
         Square
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.square.basic.icon {
   width: 2em;
   height: 2em;
@@ -8496,7 +9536,11 @@ i.square.inverted.basic.icon {
       Inverted
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.basic.icon {
   background-color: #222222;
   color: #FFFFFF;
@@ -8560,7 +9604,11 @@ i.teal.basic.icon {
    Inverted Colors
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.black.basic.icon {
   background-color: #5C6166 !important;
   color: #FFFFFF !important;
@@ -8568,7 +9616,11 @@ i.inverted.black.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.blue.basic.icon {
   background-color: #6ECFF5 !important;
   color: #FFFFFF !important;
@@ -8576,7 +9628,11 @@ i.inverted.blue.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.green.basic.icon {
   background-color: #A1CF64 !important;
   color: #FFFFFF !important;
@@ -8584,7 +9640,11 @@ i.inverted.green.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.red.basic.icon {
   background-color: #D95C5C !important;
   color: #FFFFFF !important;
@@ -8592,7 +9652,11 @@ i.inverted.red.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.purple.basic.icon {
   background-color: #564F8A !important;
   color: #FFFFFF !important;
@@ -8600,7 +9664,11 @@ i.inverted.purple.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.inverted.teal.basic.icon {
   background-color: #00B5AD !important;
   color: #FFFFFF !important;
@@ -8637,7 +9705,11 @@ i.large.basic.icon {
 }
 
 i.big.basic.icon {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   font-size: 2em;
   margin-right: 0.5em;
   vertical-align: middle;
@@ -8645,7 +9717,11 @@ i.big.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.huge.basic.icon {
   font-size: 4em;
   margin-right: 0.75em;
@@ -8654,7 +9730,11 @@ i.huge.basic.icon {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 i.massive.basic.icon {
   font-size: 8em;
   margin-right: 1em;
@@ -8663,7 +9743,11 @@ i.massive.basic.icon {
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Button
  * http://github.com/jlukic/semantic-ui/
@@ -8687,7 +9771,11 @@ i.massive.basic.icon {
 
 /* Prototype */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.button {
   cursor: pointer;
   display: inline-block;
@@ -8702,7 +9790,11 @@ i.massive.basic.icon {
   background-color: #FAFAFA;
   color: #808080;
   margin: 0em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   padding: 0.8em 1.5em;
   font-size: 1rem;
   text-transform: uppercase;
@@ -8725,7 +9817,11 @@ i.massive.basic.icon {
   border-radius: 0.25em;
   -webkit-box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.08) inset;
   box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.08) inset;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -8905,7 +10001,11 @@ i.massive.basic.icon {
   background-image: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.button:hover .icon,
 .ui.button.hover .icon {
   opacity: 0.85;
@@ -8968,7 +10068,11 @@ i.massive.basic.icon {
   transition: all 0s linear;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.loading.button:after {
   position: absolute;
   top: 0em;
@@ -11482,7 +12586,11 @@ h5.ui.header {
 }
 /*
  * # Semantic - Divider
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -11543,7 +12651,11 @@ i.icon {
   border-bottom: 1px solid rgba(255, 255, 255, 0.8);
   line-height: 1;
   height: 0em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -18165,7 +19277,11 @@ a.ui.teal.label:hover:before {
 }
 /*
  * # Semantic - Loader
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -18975,7 +20091,11 @@ a.ui.teal.label:hover:before {
 }
 /*
  * # Semantic - Reveal
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -19096,7 +20216,11 @@ a.ui.teal.label:hover:before {
 .ui.slide.reveal > .content {
   display: block;
   float: left;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -19524,7 +20648,11 @@ a.ui.teal.label:hover:before {
 }
 /*
  * # Semantic - Segment
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -21077,7 +22205,11 @@ a.ui.teal.label:hover:before {
 }
 /*
  * # Semantic - Chat Room
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -21563,7 +22695,11 @@ body.ui.dimmed.dimmable > :not(.dimmer){
 }
 /*
  * # Semantic - Checkbox
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -22563,7 +23699,11 @@ body.ui.dimmed.dimmable > :not(.dimmer){
 }
 /*
  * # Semantic - Dropdown
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -23377,7 +24517,11 @@ a.ui.nag {
 }
 /*
  * # Semantic - Modal
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -23496,7 +24640,11 @@ a.ui.nag {
   position: relative;
   padding: 2em;
   background-color: #F4F4F4;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -23881,7 +25029,11 @@ a.ui.nag {
 }
 /*
  * # Semantic - Nag
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -24159,7 +25311,11 @@ a.ui.nag {
 }
 /*
  * # Semantic - Popup
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/jlukic/semantic-ui/
  *
  *
@@ -24856,7 +26012,11 @@ a.ui.nag {
   font-size: 2rem;
   vertical-align: middle;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Search
  * http://github.com/jlukic/semantic-ui/
@@ -24877,7 +26037,11 @@ a.ui.nag {
              Search
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search {
   position: relative;
   text-shadow: none;
@@ -24903,7 +26067,11 @@ a.ui.nag {
      Button
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search > .button {
   position: relative;
   z-index: 2;
@@ -24931,7 +26099,11 @@ a.ui.nag {
     Results
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results {
   display: none;
   position: absolute;
@@ -24959,7 +26131,11 @@ a.ui.nag {
   box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -2px 0px 0px rgba(0, 0, 0, 0.1) inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result {
   cursor: pointer;
   overflow: hidden;
@@ -24975,7 +26151,11 @@ a.ui.nag {
   border-top: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .image {
   background: #F0F0F0;
   margin-right: 10px;
@@ -24985,7 +26165,11 @@ a.ui.nag {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-radius: 3px;
   width: 38px;
   height: 38px;
@@ -24993,7 +26177,11 @@ a.ui.nag {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .image img {
   display: block;
   width: 38px;
@@ -25002,7 +26190,11 @@ a.ui.nag {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .image ~ .info {
   float: none;
   margin-left: 50px;
@@ -25017,7 +26209,11 @@ a.ui.nag {
   float: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .title {
   font-weight: bold;
   color: rgba(0, 0, 0, 0.8);
@@ -25032,7 +26228,11 @@ a.ui.nag {
   color: rgba(0, 0, 0, 0.6);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result .price {
   float: right;
   color: #5BBD72;
@@ -25055,7 +26255,11 @@ a.ui.nag {
   padding: 1em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .message .text .title {
   margin: 0em 0em 0.5rem;
   font-size: 1.25rem;
@@ -25065,7 +26269,11 @@ a.ui.nag {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .message .text .description {
   margin: 0em;
   font-size: 1rem;
@@ -25081,7 +26289,11 @@ a.ui.nag {
     Categories
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results .category {
   background-color: #FAFAFA;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -25103,7 +26315,11 @@ a.ui.nag {
   border-top: none;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results .category > .name {
   float: left;
   padding: 12px 0px 0px 8px;
@@ -25114,7 +26330,11 @@ a.ui.nag {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .results .category .result {
   background-color: #FFFFFF;
   margin-left: 80px;
@@ -25126,7 +26346,11 @@ a.ui.nag {
 
 /* View All Results */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .all {
   display: block;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -25154,7 +26378,11 @@ a.ui.nag {
       Hover
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result:hover,
 .ui.search .category .result:hover {
   background-color: #F8F8F8;
@@ -25183,7 +26411,11 @@ a.ui.nag {
   background: url(../images/loader-mini.gif) no-repeat 50% 50%;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search.loading .input .icon:before,
 .ui.search.loading .input .icon:after {
   display: none;
@@ -25212,7 +26444,11 @@ a.ui.nag {
   color: #333333;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .result.active,
 .ui.search .category .result.active {
   background-color: #FBFBFB;
@@ -25244,7 +26480,11 @@ a.ui.nag {
 
 /* Large */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.search .large.result .image,
 .ui.search .large.result .image img {
   width: 50px;
@@ -25274,7 +26514,11 @@ a.ui.nag {
 .ui.search .large.results .info .description {
   font-size: 11px;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Shape
  * http://github.com/jlukic/semantic-ui/
@@ -25433,7 +26677,11 @@ a.ui.nag {
 
 .ui.shape .animating.side {
   position: absolute;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   top: 0px;
   left: 0px;
   z-index: 100;
@@ -25509,7 +26757,11 @@ a.ui.nag {
 .ui.shape .active.side {
   display: block;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Sidebar
  * http://github.com/jlukic/semantic-ui/
@@ -25566,7 +26818,11 @@ body {
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
   box-sizing: border-box;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   -ms-overflow-y: auto;
   overflow-y: auto;
   top: 0px;
@@ -25835,7 +27091,11 @@ body.pushed.scrolling.ui.dimmable {
 .ui.active.bottom.sidebar {
   margin-top: -40px !important;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Tab
  * http://github.com/jlukic/semantic-ui/
@@ -25877,7 +27137,11 @@ body.pushed.scrolling.ui.dimmable {
        Active
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tab.active,
 .ui.tab.open {
   display: block;
@@ -25892,7 +27156,11 @@ body.pushed.scrolling.ui.dimmable {
        Loading
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tab.loading {
   position: relative;
   overflow: hidden;
@@ -25903,7 +27171,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tab.loading * {
   position: relative !important;
   left: -10000px !important;
@@ -25911,7 +27183,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tab.loading:after {
   position: absolute;
   top: 50px;
@@ -25929,7 +27205,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*******************************
   Semantic - Transition
   Author: Jack Lukic
@@ -25941,7 +27221,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
   Some transitions adapted from Animate CSS
   https://github.com/daneden/animate.css
@@ -26009,7 +27293,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Loading */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.loading.transition {
   position: absolute;
   top: -999999px;
@@ -26031,7 +27319,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Visible */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.visible.transition {
   display: block;
   visibility: visible;
@@ -26327,7 +27619,11 @@ body.pushed.scrolling.ui.dimmable {
 
 .ui.slide.down.transition.in {
   -webkit-animation-name: slide;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   animation-name: slide;
   transform-origin: 50% 0%;
   -ms-transform-origin: 50% 0%;
@@ -26397,7 +27693,11 @@ body.pushed.scrolling.ui.dimmable {
   transform-origin: 50% 100%;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes slide {
   0% {
     opacity: 0;
@@ -26456,7 +27756,11 @@ body.pushed.scrolling.ui.dimmable {
   }
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes slideOut {
   0% {
     opacity: 1;
@@ -27048,7 +28352,11 @@ body.pushed.scrolling.ui.dimmable {
   100% {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     transform: scale(1);
     opacity: 1;
   }
@@ -27127,7 +28435,11 @@ body.pushed.scrolling.ui.dimmable {
   100% {
     -webkit-transform: rotateY(0deg);
     -ms-transform: rotateY(0deg);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     transform: rotateY(0deg);
     opacity: 1;
   }
@@ -27272,7 +28584,11 @@ body.pushed.scrolling.ui.dimmable {
   100% {
     -webkit-transform: rotateX(0deg);
     -ms-transform: rotateX(0deg);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     transform: rotateX(0deg);
     opacity: 1;
   }
@@ -27341,7 +28657,11 @@ body.pushed.scrolling.ui.dimmable {
   100% {
     -webkit-transform: rotateX(-90deg);
     -ms-transform: rotateX(-90deg);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     transform: rotateX(-90deg);
     opacity: 0;
   }
@@ -27359,7 +28679,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Fade */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes fade {
   0% {
     opacity: 0;
@@ -27367,7 +28691,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     opacity: 1;
   }
@@ -27391,7 +28719,11 @@ body.pushed.scrolling.ui.dimmable {
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @keyframes fade {
   0% {
     opacity: 0;
@@ -27399,7 +28731,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     opacity: 1;
   }
@@ -27407,7 +28743,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes fadeOut {
   0% {
     opacity: 1;
@@ -27415,7 +28755,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     opacity: 0;
   }
@@ -27439,7 +28783,11 @@ body.pushed.scrolling.ui.dimmable {
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @keyframes fadeOut {
   0% {
     opacity: 1;
@@ -27447,7 +28795,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   100% {
     opacity: 0;
   }
@@ -27458,7 +28810,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Fade Up */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes fadeUp {
   0% {
     opacity: 0;
@@ -27527,7 +28883,11 @@ body.pushed.scrolling.ui.dimmable {
   }
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes fadeUpOut {
   0% {
     opacity: 1;
@@ -27599,7 +28959,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Fade Down */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes fadeDown {
   0% {
     opacity: 0;
@@ -27668,7 +29032,11 @@ body.pushed.scrolling.ui.dimmable {
   }
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes fadeDownOut {
   0% {
     opacity: 1;
@@ -27817,7 +29185,11 @@ body.pushed.scrolling.ui.dimmable {
   }
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @-webkit-keyframes scaleOut {
   0% {
     opacity: 1;
@@ -27886,7 +29258,11 @@ body.pushed.scrolling.ui.dimmable {
     transform: scale(0.7);
   }
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic - Video
  * http://github.com/jlukic/semantic-ui/
@@ -27907,7 +29283,11 @@ body.pushed.scrolling.ui.dimmable {
             Video
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video {
   position: relative;
   max-width: 100%;
@@ -27935,7 +29315,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Play Icon Overlay */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video .play {
   cursor: pointer;
   position: absolute;
@@ -27958,7 +29342,11 @@ body.pushed.scrolling.ui.dimmable {
   transition: opacity 0.3s;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video .play.icon:before {
   position: absolute;
   top: 50%;
@@ -27972,7 +29360,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video .placeholder {
   display: block;
   width: 100%;
@@ -28019,7 +29411,11 @@ body.pushed.scrolling.ui.dimmable {
      Active
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.video.active .play,
 .ui.video.active .placeholder {
   display: none;
@@ -28034,7 +29430,11 @@ body.pushed.scrolling.ui.dimmable {
 .ui.video.active .embed {
   display: block;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic Comment View
  * http://github.com/jlukic/semantic-ui/
@@ -28077,7 +29477,11 @@ body.pushed.scrolling.ui.dimmable {
      Comment
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment {
   position: relative;
   margin-top: 0.5em;
@@ -28086,7 +29490,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment:first-child {
   margin-top: 0em;
   padding-top: 0em;
@@ -28101,7 +29509,11 @@ body.pushed.scrolling.ui.dimmable {
    Avatar (Optional)
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .avatar {
   display: block;
   float: left;
@@ -28110,7 +29522,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .avatar img {
   display: block;
   margin: 0em auto;
@@ -28128,7 +29544,11 @@ body.pushed.scrolling.ui.dimmable {
      Content
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment > .content,
 .ui.comments .comment > .avatar {
   display: block;
@@ -28146,7 +29566,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* If there is an avatar move content over */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment > .avatar ~ .content {
   padding-top: 0.25em;
   margin-left: 3.5em;
@@ -28154,7 +29578,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .metadata {
   display: inline-block;
   margin-left: 0.3em;
@@ -28163,7 +29591,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .metadata > * {
   display: inline-block;
   margin: 0em 0.3em 0em 0em;
@@ -28178,7 +29610,11 @@ body.pushed.scrolling.ui.dimmable {
      Comment Text
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .text {
   margin: 0.25em 0em 0.5em;
   word-wrap: break-word;
@@ -28200,7 +29636,11 @@ body.pushed.scrolling.ui.dimmable {
   font-size: 0.9em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .actions a {
   display: inline-block;
   margin: 0em 0.3em 0em 0em;
@@ -28209,7 +29649,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .actions a.active,
 .ui.comments .comment .actions a:hover {
   color: rgba(0, 0, 0, 0.6);
@@ -28224,7 +29668,11 @@ body.pushed.scrolling.ui.dimmable {
       Reply Form
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .reply.form {
   margin-top: 0.75em;
   width: 100%;
@@ -28240,7 +29688,11 @@ body.pushed.scrolling.ui.dimmable {
   margin-left: 2em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments > .reply.form {
   margin-top: 1.5em;
   max-width: 40em;
@@ -28262,7 +29714,11 @@ body.pushed.scrolling.ui.dimmable {
     Nested Comments
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .comments {
   margin-top: 0.5em;
   padding-top: 0.5em;
@@ -28271,7 +29727,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.comments .comment .comments:before {
   position: absolute;
   top: 0px;
@@ -28334,7 +29794,11 @@ body.pushed.scrolling.ui.dimmable {
         Threaded
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.threaded.comments .comment .comments {
   margin-left: 2em !important;
   padding-left: 2em !important;
@@ -28396,7 +29860,11 @@ body.pushed.scrolling.ui.dimmable {
 .ui.small.comments {
   font-size: 0.875em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Activity Feed View
  * http://github.com/jlukic/semantic-ui/
@@ -28425,7 +29893,11 @@ body.pushed.scrolling.ui.dimmable {
   cursor: pointer;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed,
 .ui.feed .event,
 .ui.feed .label,
@@ -28449,7 +29921,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Event */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .event {
   width: 100%;
   display: table;
@@ -28475,7 +29951,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Event Label */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .label {
   width: 3em;
   display: table-cell;
@@ -28485,7 +29965,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .label .icon {
   font-size: 1.5em;
   padding: 0.5em;
@@ -28494,7 +29978,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .label img {
   width: 3em;
   margin: 0em;
@@ -28513,7 +30001,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .content {
   display: table-cell;
   vertical-align: top;
@@ -28526,7 +30018,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Date */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .content .date {
   float: right;
   padding-left: 1em;
@@ -28545,7 +30041,11 @@ body.pushed.scrolling.ui.dimmable {
   color: rgba(0, 0, 0, 0.75);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .content .summary img {
   display: inline-block;
   margin-right: 0.25em;
@@ -28558,7 +30058,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Additional Information */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .content .extra {
   margin: 1em 0em 0em;
   padding: 0.5em 0em 0em;
@@ -28567,7 +30071,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .content .extra.images img {
   display: inline-block;
   margin-right: 0.25em;
@@ -28576,7 +30084,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.feed .content .extra.text {
   padding: 0.5em 1em;
   border-left: 0.2em solid rgba(0, 0, 0, 0.1);
@@ -28647,7 +30159,11 @@ body.pushed.scrolling.ui.dimmable {
 .ui.small.feed .content .extra.text {
   padding: 0.25em 0.5em;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic Item View
  * http://github.com/jlukic/semantic-ui/
@@ -28700,7 +30216,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Force Clearing */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items:after {
   display: block;
   content: ' ';
@@ -28719,7 +30239,11 @@ body.pushed.scrolling.ui.dimmable {
       Item
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items > .row > .item,
 .ui.items > .item {
   display: block;
@@ -28758,7 +30282,11 @@ body.pushed.scrolling.ui.dimmable {
   padding: 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items a.item,
 .ui.items .item a {
   cursor: pointer;
@@ -28766,7 +30294,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items .item,
 .ui.items .item > .image,
 .ui.items .item > .image .overlay,
@@ -28788,7 +30320,11 @@ body.pushed.scrolling.ui.dimmable {
       Images
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items .item > .image {
   display: block;
   position: relative;
@@ -28837,7 +30373,11 @@ body.pushed.scrolling.ui.dimmable {
   padding: 0.75em 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items .item > .content > .name {
   display: block;
   font-size: 1.25em;
@@ -28848,7 +30388,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items .item > .content > .description {
   clear: both;
   margin: 0em 0em;
@@ -28878,7 +30422,11 @@ body.pushed.scrolling.ui.dimmable {
       Meta
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items .item .meta {
   float: right;
   color: rgba(0, 0, 0, 0.35);
@@ -29009,7 +30557,11 @@ body.pushed.scrolling.ui.dimmable {
       Extra
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items .item .extra {
   position: absolute;
   width: 100%;
@@ -29029,7 +30581,11 @@ body.pushed.scrolling.ui.dimmable {
   transition: color 0.2s ease;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.items .item .extra > img {
   display: inline-block;
   border-radius: 500px 500px 500px 500px;
@@ -29136,7 +30692,11 @@ body.pushed.scrolling.ui.dimmable {
     Connected
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.connected.items {
   display: table;
   width: 100%;
@@ -29146,7 +30706,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.connected.items > .row > .item,
 .ui.connected.items > .item {
   float: none;
@@ -29160,7 +30724,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.connected.items > .row {
   display: table;
   margin: 0.5em 0em;
@@ -29178,7 +30746,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Borders */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.connected.items > .item,
 .ui.connected.items > .row:last-child > .item {
   border-bottom: 0.2em solid rgba(0, 0, 0, 0.2);
@@ -29186,7 +30758,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.connected.items > .row:last-child > .item:first-child,
 .ui.connected.items > .item:first-child {
   border-radius: 0em 0em 0em 0.33em;
@@ -29194,7 +30770,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.connected.items > .row:last-child > .item:last-child,
 .ui.connected.items > .item:last-child {
   border-radius: 0em 0em 0.33em 0em;
@@ -29215,7 +30795,11 @@ body.pushed.scrolling.ui.dimmable {
 
 /* Item Count */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.one.connected.items > .row > .item,
 .ui.one.connected.items > .item {
   width: 50%;
@@ -29225,7 +30809,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.two.connected.items > .row > .item,
 .ui.two.connected.items > .item {
   width: 50%;
@@ -29235,7 +30823,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.three.connected.items > .row > .item,
 .ui.three.connected.items > .item {
   width: 33.333%;
@@ -29245,7 +30837,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.four.connected.items > .row > .item,
 .ui.four.connected.items > .item {
   width: 25%;
@@ -29255,7 +30851,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.five.connected.items > .row > .item,
 .ui.five.connected.items > .item {
   width: 20%;
@@ -29265,7 +30865,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.six.connected.items > .row > .item,
 .ui.six.connected.items > .item {
   width: 16.66%;
@@ -29275,7 +30879,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.seven.connected.items > .row > .item,
 .ui.seven.connected.items > .item {
   width: 14.28%;
@@ -29285,7 +30893,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eight.connected.items > .row > .item,
 .ui.eight.connected.items > .item {
   width: 12.5%;
@@ -29295,7 +30907,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nine.connected.items > .row > .item,
 .ui.nine.connected.items > .item {
   width: 11.11%;
@@ -29305,7 +30921,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.ten.connected.items > .row > .item,
 .ui.ten.connected.items > .item {
   width: 10%;
@@ -29315,7 +30935,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eleven.connected.items > .row > .item,
 .ui.eleven.connected.items > .item {
   width: 9.09%;
@@ -29325,7 +30949,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.twelve.connected.items > .row > .item,
 .ui.twelve.connected.items > .item {
   width: 8.3333%;
@@ -29342,7 +30970,11 @@ body.pushed.scrolling.ui.dimmable {
       Responsive
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (max-width: 768px) {
   .ui.stackable.items {
     display: block !important;
@@ -29355,7 +30987,11 @@ body.pushed.scrolling.ui.dimmable {
 
   .ui.stackable.items > .item,
   .ui.stackable.items > .row > .item {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     display: block !important;
     height: auto !important;
     width: auto !important;
@@ -29372,7 +31008,11 @@ body.pushed.scrolling.ui.dimmable {
       Horizontal
 ---------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.items > .item,
 .ui.items > .horizontal.item {
   display: table;
@@ -29380,7 +31020,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.items > .item > .image .ui.items > .horizontal.item > .image {
   display: table-cell;
   width: 50%;
@@ -29388,7 +31032,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.items > .item > .image + .content,
 .ui.items > .horizontal.item > .image + .content {
   width: 50%;
@@ -29397,7 +31045,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.items > .item > .content,
 .ui.items > .horizontal.item > .content {
   padding: 1% 1.7% 11% 3%;
@@ -29406,7 +31058,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.items > .item > .meta,
 .ui.items > .horizontal.item > .meta {
   position: absolute;
@@ -29418,7 +31074,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.items > .item > .image + .content + .meta,
 .ui.items > .horizontal.item > .image + .content + .meta {
   bottom: 7%;
@@ -29428,7 +31088,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.items > .item .avatar,
 .ui.items > .horizontal.item .avatar {
   width: 11.5%;
@@ -29450,7 +31114,11 @@ body.pushed.scrolling.ui.dimmable {
     Item Count
 ---------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.one.items {
   margin-left: -2%;
   margin-right: -2%;
@@ -29458,7 +31126,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.one.items > .item {
   width: 100%;
   margin-left: 2%;
@@ -29467,7 +31139,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.two.items {
   margin-left: -1%;
   margin-right: -1%;
@@ -29475,7 +31151,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.two.items > .item {
   width: 48%;
   margin-left: 1%;
@@ -29491,7 +31171,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.three.items {
   margin-left: -1%;
   margin-right: -1%;
@@ -29499,7 +31183,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.three.items > .item {
   width: 31.333%;
   margin-left: 1%;
@@ -29515,7 +31203,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.four.items {
   margin-left: -0.5%;
   margin-right: -0.5%;
@@ -29523,7 +31215,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.four.items > .item {
   width: 24%;
   margin-left: 0.5%;
@@ -29539,7 +31235,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.five.items {
   margin-left: -0.5%;
   margin-right: -0.5%;
@@ -29547,7 +31247,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.five.items > .item {
   width: 19%;
   margin-left: 0.5%;
@@ -29563,7 +31267,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.six.items {
   margin-left: -0.5%;
   margin-right: -0.5%;
@@ -29571,7 +31279,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.six.items > .item {
   width: 15.66%;
   margin-left: 0.5%;
@@ -29587,7 +31299,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.seven.items {
   margin-left: -0.5%;
   margin-right: -0.5%;
@@ -29595,7 +31311,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.seven.items > .item {
   width: 13.28%;
   margin-left: 0.5%;
@@ -29612,7 +31332,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eight.items {
   margin-left: -0.25%;
   margin-right: -0.25%;
@@ -29620,7 +31344,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eight.items > .item {
   width: 12.0%;
   margin-left: 0.25%;
@@ -29637,7 +31365,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nine.items {
   margin-left: -0.25%;
   margin-right: -0.25%;
@@ -29645,7 +31377,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.nine.items > .item {
   width: 10.61%;
   margin-left: 0.25%;
@@ -29662,7 +31398,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.ten.items {
   margin-left: -0.2%;
   margin-right: -0.2%;
@@ -29670,7 +31410,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.ten.items > .item {
   width: 9.6%;
   margin-left: 0.2%;
@@ -29687,7 +31431,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eleven.items {
   margin-left: -0.2%;
   margin-right: -0.2%;
@@ -29695,7 +31443,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.eleven.items > .item {
   width: 8.69%;
   margin-left: 0.2%;
@@ -29712,7 +31464,11 @@ body.pushed.scrolling.ui.dimmable {
   clear: left;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.twelve.items {
   margin-left: -0.1%;
   margin-right: -0.1%;
@@ -29720,7 +31476,11 @@ body.pushed.scrolling.ui.dimmable {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.twelve.items > .item {
   width: 8.1333%;
   margin-left: 0.1%;
@@ -29737,7 +31497,11 @@ body.pushed.scrolling.ui.dimmable {
 .ui.twelve.items > .item:nth-child(12n+1) {
   clear: left;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Semantic List - Flat
  * http://github.com/jlukic/semantic-ui/
@@ -29759,7 +31523,11 @@ body.pushed.scrolling.ui.dimmable {
             List
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list,
 ol.ui.list,
 .ui.list {
@@ -29770,7 +31538,11 @@ ol.ui.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list ul,
 ol.ui.list ol,
 .ui.list .list {
@@ -29780,7 +31552,11 @@ ol.ui.list ol,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list:first-child,
 ol.ui.list:first-child,
 .ui.list:first-child {
@@ -29789,7 +31565,11 @@ ol.ui.list:first-child,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list:last-child,
 ol.ui.list:last-child,
 .ui.list:last-child {
@@ -29808,7 +31588,11 @@ ol.ui.list:last-child,
 
 /* List Item */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list li,
 ol.ui.list li,
 .ui.list .item {
@@ -29821,7 +31605,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item:after {
   content: '';
   display: block;
@@ -29897,7 +31685,11 @@ ol.ui.list li,
 
 /* Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item > .content {
   display: inline-block;
   vertical-align: middle;
@@ -29960,7 +31752,11 @@ ol.ui.list li,
 
 /* Floated Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item > .left.floated {
   margin-right: 1em;
   float: left;
@@ -29968,7 +31764,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item > .right.floated {
   margin-left: 1em;
   float: right;
@@ -29990,7 +31790,11 @@ ol.ui.list li,
       Horizontal
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.list {
   display: inline-block;
   font-size: 0em;
@@ -30000,7 +31804,11 @@ ol.ui.list li,
 =======
 
 .ui.horizontal.list > .item {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   display: inline-block;
   margin-left: 1em;
   font-size: 1rem;
@@ -30136,7 +31944,11 @@ ol.ui.list li,
       Selection
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item {
   cursor: pointer;
   color: rgba(0, 0, 0, 0.4);
@@ -30152,7 +31964,11 @@ ol.ui.list li,
   transition: 0.2s color ease, 0.2s padding-left ease, 0.2s background-color ease;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item:hover {
   background-color: rgba(0, 0, 0, 0.02);
   color: rgba(0, 0, 0, 0.7);
@@ -30166,7 +31982,11 @@ ol.ui.list li,
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item:active {
   background-color: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.7);
@@ -30174,7 +31994,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item.active {
   background-color: rgba(0, 0, 0, 0.04);
   color: rgba(0, 0, 0, 0.7);
@@ -30232,7 +32056,11 @@ ul.ui.list,
   margin-left: 1.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list li,
 .ui.bulleted.list .item {
   position: relative;
@@ -30248,7 +32076,11 @@ ul.ui.list li:before,
 .ui.bulleted.list .item:before {
   position: absolute;
   left: -1.5em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   content: '•';
   line-height: 1.2rem;
   vertical-align: top;
@@ -30268,7 +32100,11 @@ ul.ui.list ul,
 
 /* Horizontal Bulleted */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list,
 .ui.horizontal.bulleted.list {
   margin-left: 0em;
@@ -30276,7 +32112,11 @@ ul.ui.horizontal.bulleted.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li,
 .ui.horizontal.bulleted.list .item {
   margin-left: 1.5em;
@@ -30284,7 +32124,11 @@ ul.ui.horizontal.bulleted.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li:before,
 .ui.horizontal.bulleted.list .item:before {
   left: -0.9em;
@@ -30292,7 +32136,11 @@ ul.ui.horizontal.bulleted.list li:before,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li:first-child,
 .ui.horizontal.bulleted.list .item:first-child {
   margin-left: 0em;
@@ -30300,7 +32148,11 @@ ul.ui.horizontal.bulleted.list li:first-child,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li:first-child::before,
 .ui.horizontal.bulleted.list .item:first-child::before {
   display: none;
@@ -30315,7 +32167,11 @@ ul.ui.horizontal.bulleted.list li:first-child::before,
        Ordered
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list,
 .ui.ordered.list {
   counter-reset: ordered;
@@ -30325,7 +32181,11 @@ ol.ui.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list li,
 .ui.ordered.list .item {
   list-style-type: none;
@@ -30334,7 +32194,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list li:before,
 .ui.ordered.list .item:before {
   position: absolute;
@@ -30359,7 +32223,11 @@ ol.ui.list ol,
   padding-left: 2.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list ol li:before,
 .ui.ordered.list .list .item:before {
   left: -2.5em;
@@ -30370,7 +32238,11 @@ ol.ui.list ol li:before,
 
 /* Horizontal Ordered */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.horizontal.list,
 .ui.ordered.horizontal.list {
   margin-left: 0em;
@@ -30378,7 +32250,11 @@ ol.ui.horizontal.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.horizontal.list li:before,
 .ui.ordered.horizontal.list .item:before {
   position: static;
@@ -30398,7 +32274,11 @@ ol.ui.horizontal.list li:before,
 
 .ui.divided.list > .item,
 .ui.divided.list:not(.horizontal) > .list {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding-left: 0.5em;
   padding-right: 0.5em;
@@ -30482,7 +32362,11 @@ ol.ui.horizontal.list li:before,
   margin-left: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.ordered.list > .item {
   padding-left: 2em;
   padding-right: 2em;
@@ -30497,7 +32381,11 @@ ol.ui.horizontal.list li:before,
   left: 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.ordered.list .item .list {
   margin-left: -2em;
   margin-right: -2em;
@@ -30517,7 +32405,11 @@ ol.ui.horizontal.list li:before,
 }
 
 .ui.divided.horizontal.list > .item {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-top: none;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
   margin: 0em;
@@ -30555,7 +32447,11 @@ ol.ui.horizontal.list li:before,
         Celled
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.list > .item,
 .ui.celled.list > .list {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -30575,7 +32471,11 @@ ol.ui.horizontal.list li:before,
 
 /* Sub Menu */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.list .item .list {
   margin-left: -0.5em;
   margin-right: -0.5em;
@@ -30631,7 +32531,11 @@ ol.ui.horizontal.list li:before,
   margin-left: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.ordered.list .item {
   padding-left: 2em;
   padding-right: 2em;
@@ -30646,7 +32550,11 @@ ol.ui.horizontal.list li:before,
   left: 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.ordered.list .item .list {
   margin-left: -2em;
   margin-right: -2em;
@@ -30664,7 +32572,11 @@ ol.ui.horizontal.list li:before,
   margin-left: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.celled.list .item {
   border-top: none;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
@@ -30676,7 +32588,11 @@ ol.ui.horizontal.list li:before,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.celled.list .item:last-child {
   border-bottom: none;
   border-right: 1px solid rgba(0, 0, 0, 0.1);
@@ -30702,7 +32618,11 @@ ol.ui.horizontal.list li:before,
        Relaxed
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.relaxed.list:not(.horizontal) .item {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -30714,7 +32634,11 @@ ol.ui.horizontal.list li:before,
   margin-bottom: 0.25em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.relaxed.list .item {
   padding-left: 1.25em;
   padding-right: 1.25em;
@@ -30722,7 +32646,11 @@ ol.ui.horizontal.list li:before,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.very.relaxed.list:not(.horizontal) .item {
   padding-top: 1em;
   padding-bottom: 1em;
@@ -30734,7 +32662,11 @@ ol.ui.horizontal.list li:before,
   margin-bottom: 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.very.relaxed.list .item {
   padding-left: 2em;
   padding-right: 2em;
@@ -30805,7 +32737,11 @@ ol.ui.horizontal.list li:before,
 .ui.massive.list .item {
   font-size: 1.5rem;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*
  * # Statistic
  *
@@ -30840,7 +32776,11 @@ ol.ui.horizontal.list li:before,
             Content
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.statistic > .number {
   font-size: 4em;
   font-weight: bold;
@@ -30855,4 +32795,8 @@ ol.ui.horizontal.list li:before,
 .ui.statistic > .description {
   opacity: 0.8;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

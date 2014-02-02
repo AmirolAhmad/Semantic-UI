@@ -30,7 +30,11 @@ $.fn.dimmer = function(parameters) {
     moduleSelector  = $allModules.selector || '',
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     time            = new Date().getTime(),
     performance     = [],
 
@@ -46,7 +50,11 @@ $.fn.dimmer = function(parameters) {
 =======
 
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
 
   $allModules
@@ -71,7 +79,11 @@ $.fn.dimmer = function(parameters) {
           ? 'touchstart'
           : 'click',
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         $module = $(this),
         $dimmer,
         $dimmable,
@@ -98,7 +110,11 @@ $.fn.dimmer = function(parameters) {
               module.create();
 =======
               $dimmer = module.create();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             }
           }
         },
@@ -147,7 +163,11 @@ $.fn.dimmer = function(parameters) {
           $module
             .removeData(moduleNamespace)
           ;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $dimmable
             .off(eventNamespace)
           ;
@@ -182,7 +202,11 @@ $.fn.dimmer = function(parameters) {
           module.debug('Add content to dimmer', $content);
           if($content.parent()[0] !== $dimmer[0]) {
             $content.detach().appendTo($dimmer);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -192,7 +216,11 @@ $.fn.dimmer = function(parameters) {
           return $dimmer.appendTo($dimmable);
 =======
           return $( settings.template.dimmer() ).appendTo($dimmable);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         },
 
         animate: {
@@ -221,7 +249,11 @@ $.fn.dimmer = function(parameters) {
                     module.set.active();
                     callback();
                   }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 })
               ;
             }
@@ -238,7 +270,11 @@ $.fn.dimmer = function(parameters) {
                 .fadeTo(settings.duration, 1, function() {
 =======
                 .fadeTo(module.get.duration(), 1, function() {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                   $dimmer.removeAttr('style');
                   module.set.active();
                   callback();
@@ -273,7 +309,11 @@ $.fn.dimmer = function(parameters) {
                     module.remove.active();
                     callback();
                   }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 })
               ;
             }
@@ -288,7 +328,11 @@ $.fn.dimmer = function(parameters) {
                 .fadeOut(module.get.duration(), function() {
                   $dimmer.removeAttr('style');
                   module.remove.dimmed();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                   module.remove.active();
                   callback();
                 })
@@ -313,7 +357,11 @@ $.fn.dimmer = function(parameters) {
               }
             }
             return settings.duration;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -332,7 +380,11 @@ $.fn.dimmer = function(parameters) {
             return $module.is(selector.dimmable);
           },
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           active: function() {
             return $dimmer.hasClass(className.active);
           },
@@ -354,7 +406,11 @@ $.fn.dimmer = function(parameters) {
           },
           dimmed: function() {
             return $dimmable.hasClass(className.dimmed);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           },
           disabled: function() {
             return $dimmable.hasClass(className.disabled);
@@ -367,7 +423,11 @@ $.fn.dimmer = function(parameters) {
           page: function () {
             return $dimmable.is('body');
           },
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           pageDimmer: function() {
             return $dimmer.hasClass(className.pageDimmer);
           }
@@ -384,7 +444,11 @@ $.fn.dimmer = function(parameters) {
 <<<<<<< HEAD
 =======
             module.set.dimmed();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             $dimmer
               .removeClass(className.transition)
               .addClass(className.active)
@@ -430,7 +494,11 @@ $.fn.dimmer = function(parameters) {
           ;
           module.debug('Showing dimmer', $dimmer, settings);
           if( !module.is.active() && module.is.enabled() ) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.animate.show(callback);
             $.proxy(settings.onShow, element)();
             $.proxy(settings.onChange, element)();
@@ -449,7 +517,11 @@ $.fn.dimmer = function(parameters) {
             : function(){}
           ;
           if( module.is.active() || module.is.animating() ) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.debug('Hiding dimmer', $dimmer);
             module.animate.hide(callback);
             $.proxy(settings.onHide, element)();
@@ -466,7 +538,11 @@ $.fn.dimmer = function(parameters) {
           if( !module.is.active() ) {
 =======
           if( !module.is.dimmed() ) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             module.show();
           }
           else {
@@ -489,7 +565,11 @@ $.fn.dimmer = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -510,7 +590,11 @@ $.fn.dimmer = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -601,7 +685,11 @@ $.fn.dimmer = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -612,7 +700,11 @@ $.fn.dimmer = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -653,7 +745,11 @@ $.fn.dimmer = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -682,7 +778,11 @@ $.fn.dimmer = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -711,7 +811,11 @@ $.fn.dimmer = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -745,7 +849,11 @@ $.fn.dimmer.settings = {
     show : 500,
     hide : 500
   },
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
   onChange    : function(){},
   onShow      : function(){},

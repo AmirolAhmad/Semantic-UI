@@ -13,7 +13,11 @@
 // [Read more about coding conventions](http://semantic-ui.com/guide/javascriptguide.html) and [Read about modules](http://semantic-ui.com/module.html)
 /*
  * # Semantic Module
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  * http://github.com/quirkyinc/semantic
  *
  *
@@ -24,7 +28,11 @@
  *
  * Released: April 17 2013
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
  */
 
 ;(function ( $, window, document, undefined ) {
@@ -56,7 +64,11 @@ $.fn.example = function(parameters) {
     moduleNamespace = 'module-' + namespace,
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     // Preserve selector from outside each scope and mark current time for performance tracking
     moduleSelector  = $allModules.selector || '',
     time            = new Date().getTime(),
@@ -70,7 +82,11 @@ $.fn.example = function(parameters) {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
 
   // ## Singular
@@ -102,7 +118,11 @@ $.fn.example = function(parameters) {
         instance        = $(this).data(moduleNamespace),
         element         = this,
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         // Cache selectors using selector settings object for access inside instance of module
         $module        = $(this),
         $text          = $module.find(settings.selector.text),
@@ -115,7 +135,11 @@ $.fn.example = function(parameters) {
         instance        = $module.data(moduleNamespace),
         element         = this,
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 
         module
       ;
@@ -163,7 +187,11 @@ $.fn.example = function(parameters) {
         // Selectors or cached values sometimes need to refreshed
         refresh: function() {
           module.verbose('Refreshing elements', element);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           $module = $(element);
           $text   = $(this).find(settings.selector.text);
         },
@@ -239,7 +267,11 @@ $.fn.example = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -264,7 +296,11 @@ $.fn.example = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -368,7 +404,11 @@ $.fn.example = function(parameters) {
         // For example 'set active', will look for both `setText : function(){}`, `set: { text: function(){} }`
 =======
         // For example 'set text', will look for both `setText : function(){}`, `set: { text: function(){} }`
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         // Invoke attempts to preserve the 'this' chaining unless a value is returned.
         // If multiple values are returned an array of values matching up to the length of the selector is returned
         invoke: function(query, passedArguments, context) {
@@ -406,7 +446,11 @@ $.fn.example = function(parameters) {
                 module.error(error.method);
 =======
                 module.error(error.method, query);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -438,7 +482,11 @@ $.fn.example = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -471,7 +519,11 @@ $.fn.example = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 

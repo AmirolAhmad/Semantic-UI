@@ -19,7 +19,11 @@
             List
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list,
 ol.ui.list,
 .ui.list {
@@ -30,7 +34,11 @@ ol.ui.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list ul,
 ol.ui.list ol,
 .ui.list .list {
@@ -40,7 +48,11 @@ ol.ui.list ol,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list:first-child,
 ol.ui.list:first-child,
 .ui.list:first-child {
@@ -49,7 +61,11 @@ ol.ui.list:first-child,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list:last-child,
 ol.ui.list:last-child,
 .ui.list:last-child {
@@ -68,7 +84,11 @@ ol.ui.list:last-child,
 
 /* List Item */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list li,
 ol.ui.list li,
 .ui.list .item {
@@ -81,7 +101,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item:after {
   content: '';
   display: block;
@@ -157,7 +181,11 @@ ol.ui.list li,
 
 /* Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item > .content {
   display: inline-block;
   vertical-align: middle;
@@ -220,7 +248,11 @@ ol.ui.list li,
 
 /* Floated Content */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item > .left.floated {
   margin-right: 1em;
   float: left;
@@ -228,7 +260,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.list .item > .right.floated {
   margin-left: 1em;
   float: right;
@@ -250,7 +286,11 @@ ol.ui.list li,
       Horizontal
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.list {
   display: inline-block;
   font-size: 0em;
@@ -260,7 +300,11 @@ ol.ui.list li,
 =======
 
 .ui.horizontal.list > .item {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   display: inline-block;
   margin-left: 1em;
   font-size: 1rem;
@@ -396,7 +440,11 @@ ol.ui.list li,
       Selection
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item {
   cursor: pointer;
   color: rgba(0, 0, 0, 0.4);
@@ -412,7 +460,11 @@ ol.ui.list li,
   transition: 0.2s color ease, 0.2s padding-left ease, 0.2s background-color ease;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item:hover {
   background-color: rgba(0, 0, 0, 0.02);
   color: rgba(0, 0, 0, 0.7);
@@ -426,7 +478,11 @@ ol.ui.list li,
 }
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item:active {
   background-color: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.7);
@@ -434,7 +490,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.selection.list .item.active {
   background-color: rgba(0, 0, 0, 0.04);
   color: rgba(0, 0, 0, 0.7);
@@ -492,7 +552,11 @@ ul.ui.list,
   margin-left: 1.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.list li,
 .ui.bulleted.list .item {
   position: relative;
@@ -508,7 +572,11 @@ ul.ui.list li:before,
 .ui.bulleted.list .item:before {
   position: absolute;
   left: -1.5em;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   content: '•';
   line-height: 1.2rem;
   vertical-align: top;
@@ -528,7 +596,11 @@ ul.ui.list ul,
 
 /* Horizontal Bulleted */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list,
 .ui.horizontal.bulleted.list {
   margin-left: 0em;
@@ -536,7 +608,11 @@ ul.ui.horizontal.bulleted.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li,
 .ui.horizontal.bulleted.list .item {
   margin-left: 1.5em;
@@ -544,7 +620,11 @@ ul.ui.horizontal.bulleted.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li:before,
 .ui.horizontal.bulleted.list .item:before {
   left: -0.9em;
@@ -552,7 +632,11 @@ ul.ui.horizontal.bulleted.list li:before,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li:first-child,
 .ui.horizontal.bulleted.list .item:first-child {
   margin-left: 0em;
@@ -560,7 +644,11 @@ ul.ui.horizontal.bulleted.list li:first-child,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ul.ui.horizontal.bulleted.list li:first-child::before,
 .ui.horizontal.bulleted.list .item:first-child::before {
   display: none;
@@ -575,7 +663,11 @@ ul.ui.horizontal.bulleted.list li:first-child::before,
        Ordered
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list,
 .ui.ordered.list {
   counter-reset: ordered;
@@ -585,7 +677,11 @@ ol.ui.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list li,
 .ui.ordered.list .item {
   list-style-type: none;
@@ -594,7 +690,11 @@ ol.ui.list li,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list li:before,
 .ui.ordered.list .item:before {
   position: absolute;
@@ -619,7 +719,11 @@ ol.ui.list ol,
   padding-left: 2.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.list ol li:before,
 .ui.ordered.list .list .item:before {
   left: -2.5em;
@@ -630,7 +734,11 @@ ol.ui.list ol li:before,
 
 /* Horizontal Ordered */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.horizontal.list,
 .ui.ordered.horizontal.list {
   margin-left: 0em;
@@ -638,7 +746,11 @@ ol.ui.horizontal.list,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 ol.ui.horizontal.list li:before,
 .ui.ordered.horizontal.list .item:before {
   position: static;
@@ -658,7 +770,11 @@ ol.ui.horizontal.list li:before,
 
 .ui.divided.list > .item,
 .ui.divided.list:not(.horizontal) > .list {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding-left: 0.5em;
   padding-right: 0.5em;
@@ -742,7 +858,11 @@ ol.ui.horizontal.list li:before,
   margin-left: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.ordered.list > .item {
   padding-left: 2em;
   padding-right: 2em;
@@ -757,7 +877,11 @@ ol.ui.horizontal.list li:before,
   left: 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.divided.ordered.list .item .list {
   margin-left: -2em;
   margin-right: -2em;
@@ -777,7 +901,11 @@ ol.ui.horizontal.list li:before,
 }
 
 .ui.divided.horizontal.list > .item {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-top: none;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
   margin: 0em;
@@ -815,7 +943,11 @@ ol.ui.horizontal.list li:before,
         Celled
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.list > .item,
 .ui.celled.list > .list {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -835,7 +967,11 @@ ol.ui.horizontal.list li:before,
 
 /* Sub Menu */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.list .item .list {
   margin-left: -0.5em;
   margin-right: -0.5em;
@@ -891,7 +1027,11 @@ ol.ui.horizontal.list li:before,
   margin-left: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.ordered.list .item {
   padding-left: 2em;
   padding-right: 2em;
@@ -906,7 +1046,11 @@ ol.ui.horizontal.list li:before,
   left: 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.celled.ordered.list .item .list {
   margin-left: -2em;
   margin-right: -2em;
@@ -924,7 +1068,11 @@ ol.ui.horizontal.list li:before,
   margin-left: 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.celled.list .item {
   border-top: none;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
@@ -936,7 +1084,11 @@ ol.ui.horizontal.list li:before,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.celled.list .item:last-child {
   border-bottom: none;
   border-right: 1px solid rgba(0, 0, 0, 0.1);
@@ -962,7 +1114,11 @@ ol.ui.horizontal.list li:before,
        Relaxed
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.relaxed.list:not(.horizontal) .item {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -974,7 +1130,11 @@ ol.ui.horizontal.list li:before,
   margin-bottom: 0.25em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.relaxed.list .item {
   padding-left: 1.25em;
   padding-right: 1.25em;
@@ -982,7 +1142,11 @@ ol.ui.horizontal.list li:before,
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.very.relaxed.list:not(.horizontal) .item {
   padding-top: 1em;
   padding-bottom: 1em;
@@ -994,7 +1158,11 @@ ol.ui.horizontal.list li:before,
   margin-bottom: 0.5em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.very.relaxed.list .item {
   padding-left: 2em;
   padding-right: 2em;
@@ -1064,4 +1232,8 @@ ol.ui.horizontal.list li:before,
 .ui.massive.list .item {
   font-size: 1.5rem;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

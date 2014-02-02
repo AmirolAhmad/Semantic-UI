@@ -18,7 +18,11 @@
             Label
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.label {
   display: inline-block;
   vertical-align: middle;
@@ -33,7 +37,11 @@
   -webkit-border-radius: 0.325em;
   -moz-border-radius: 0.325em;
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   border-radius: 0.325em;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -97,7 +105,11 @@ a.ui.label {
 
 /* Detail */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.label .detail {
   display: inline-block;
   margin-left: 0.5em;
@@ -120,7 +132,11 @@ a.ui.label {
 
 /* Removable label */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.label .delete.icon {
   cursor: pointer;
   margin: 0em 0em 0em 0.5em;
@@ -171,7 +187,11 @@ a.ui.label {
              Types
 *******************************/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.image.label {
   width: auto !important;
   margin-top: 0em;
@@ -190,7 +210,11 @@ a.ui.label {
   box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1) inset;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.image.label img {
   display: inline-block;
   height: 2.25em;
@@ -233,7 +257,11 @@ a.ui.label {
         Hover
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 a.ui.labels .label:hover,
 a.ui.label:hover {
   background-color: #E0E0E0;
@@ -243,7 +271,11 @@ a.ui.label:hover {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels a.label:hover:before,
 a.ui.label:hover:before {
   background-color: #E0E0E0;
@@ -259,7 +291,11 @@ a.ui.label:hover:before {
       Visible
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels.visible .label,
 .ui.label.visible {
   display: inline-block !important;
@@ -274,7 +310,11 @@ a.ui.label:hover:before {
       Hidden
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels.hidden .label,
 .ui.label.hidden {
   display: none !important;
@@ -296,7 +336,11 @@ a.ui.label:hover:before {
          Tag
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tag.labels .label,
 .ui.tag.label {
   margin-left: 1em;
@@ -311,7 +355,11 @@ a.ui.label:hover:before {
   border-radius: 0px 3px 3px 0px;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tag.labels .label:before,
 .ui.tag.label:before {
   position: absolute;
@@ -344,7 +392,11 @@ a.ui.label:hover:before {
   transition: background 0.1s linear;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.tag.labels .label:after,
 .ui.tag.label:after {
   position: absolute;
@@ -392,7 +444,11 @@ a.ui.label:hover:before {
   border-color: rgba(0, 0, 0, 0.15);
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.ribbon.label:after {
   position: absolute;
   content: "";
@@ -417,7 +473,11 @@ a.ui.label:hover:before {
        Attached
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.top.attached.label,
 .ui.attached.label {
   width: 100%;
@@ -461,7 +521,11 @@ a.ui.label:hover:before {
   border-radius: 4px 0em 4px 0em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.top.right.attached.label {
   width: auto;
   left: auto;
@@ -475,7 +539,11 @@ a.ui.label:hover:before {
   border-radius: 0em 4px 0em 4px;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.bottom.left.attached.label {
   width: auto;
   top: auto;
@@ -489,7 +557,11 @@ a.ui.label:hover:before {
   border-radius: 4px 0em 0em 4px;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.bottom.right.attached.label {
   top: auto;
   bottom: 0em;
@@ -512,7 +584,11 @@ a.ui.label:hover:before {
     Corner Label
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.corner.label {
   background-color: transparent;
   position: absolute;
@@ -536,7 +612,11 @@ a.ui.label:hover:before {
   transition: color 0.2s ease;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.corner.label:after {
   position: absolute;
   content: "";
@@ -568,7 +648,11 @@ a.ui.label:hover:before {
   margin: 0.4em 0em 0em 0.7em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.corner.label .text {
   display: inline-block;
   font-weight: bold;
@@ -591,7 +675,11 @@ a.ui.label:hover:before {
 
 /* Left Corner */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.left.corner.label,
 .ui.left.corner.label:after {
   right: auto;
@@ -600,7 +688,11 @@ a.ui.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.left.corner.label:after {
   border-top: 3em solid transparent;
   border-right: 3em solid transparent;
@@ -650,7 +742,11 @@ a.ui.label:hover:before {
        Fluid
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.label.fluid,
 .ui.fluid.labels > .label {
   width: 100%;
@@ -669,7 +765,11 @@ a.ui.label:hover:before {
        Inverted
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.inverted.labels .label,
 .ui.inverted.label {
   color: #FFFFFF !important;
@@ -687,7 +787,11 @@ a.ui.label:hover:before {
 
 /*--- Black ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.black.labels .label,
 .ui.black.label {
   background-color: #5C6166 !important;
@@ -697,7 +801,11 @@ a.ui.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels .black.label:before,
 .ui.black.labels .label:before,
 .ui.black.label:before {
@@ -734,7 +842,11 @@ a.ui.black.label:hover:before {
 
 /* Corner */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.black.corner.label,
 .ui.black.corner.label:hover {
   background-color: transparent !important;
@@ -751,7 +863,11 @@ a.ui.black.label:hover:before {
 
 /*--- Green ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.green.labels .label,
 .ui.green.label {
   background-color: #A1CF64 !important;
@@ -761,7 +877,11 @@ a.ui.black.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels .green.label:before,
 .ui.green.labels .label:before,
 .ui.green.label:before {
@@ -773,7 +893,11 @@ a.ui.black.label:hover:before {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 a.ui.green.labels .label:hover,
 a.ui.green.label:hover {
   background-color: #89B84C !important;
@@ -782,7 +906,11 @@ a.ui.green.label:hover {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels a.green.label:hover:before,
 .ui.green.labels a.label:hover:before,
 a.ui.green.label:hover:before {
@@ -794,7 +922,11 @@ a.ui.green.label:hover:before {
 
 /* Corner */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.green.corner.label,
 .ui.green.corner.label:hover {
   background-color: transparent !important;
@@ -811,7 +943,11 @@ a.ui.green.label:hover:before {
 
 /*--- Red ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.red.labels .label,
 .ui.red.label {
   background-color: #D95C5C !important;
@@ -821,7 +957,11 @@ a.ui.green.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels .red.label:before,
 .ui.red.labels .label:before,
 .ui.red.label:before {
@@ -833,7 +973,11 @@ a.ui.green.label:hover:before {
 
 /* Corner */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.red.corner.label,
 .ui.red.corner.label:hover {
   background-color: transparent !important;
@@ -844,7 +988,11 @@ a.ui.green.label:hover:before {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 a.ui.red.labels .label:hover,
 a.ui.red.label:hover {
   background-color: #DE3859 !important;
@@ -854,7 +1002,11 @@ a.ui.red.label:hover {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels a.red.label:hover:before,
 .ui.red.labels a.label:hover:before,
 a.ui.red.label:hover:before {
@@ -872,7 +1024,11 @@ a.ui.red.label:hover:before {
 
 /*--- Blue ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.blue.labels .label,
 .ui.blue.label {
   background-color: #6ECFF5 !important;
@@ -882,7 +1038,11 @@ a.ui.red.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels .blue.label:before,
 .ui.blue.labels .label:before,
 .ui.blue.label:before {
@@ -894,7 +1054,11 @@ a.ui.red.label:hover:before {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 a.ui.blue.labels .label:hover,
 .ui.blue.labels a.label:hover,
 a.ui.blue.label:hover {
@@ -905,7 +1069,11 @@ a.ui.blue.label:hover {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels a.blue.label:hover:before,
 .ui.blue.labels a.label:hover:before,
 a.ui.blue.label:hover:before {
@@ -917,7 +1085,11 @@ a.ui.blue.label:hover:before {
 
 /* Corner */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.blue.corner.label,
 .ui.blue.corner.label:hover {
   background-color: transparent !important;
@@ -934,7 +1106,11 @@ a.ui.blue.label:hover:before {
 
 /*--- Purple ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.purple.labels .label,
 .ui.purple.label {
   background-color: #564F8A !important;
@@ -944,7 +1120,11 @@ a.ui.blue.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels .purple.label:before,
 .ui.purple.labels .label:before,
 .ui.purple.label:before {
@@ -956,7 +1136,11 @@ a.ui.blue.label:hover:before {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 a.ui.purple.labels .label:hover,
 .ui.purple.labels a.label:hover,
 a.ui.purple.label:hover {
@@ -967,7 +1151,11 @@ a.ui.purple.label:hover {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels a.purple.label:hover:before,
 .ui.purple.labels a.label:hover:before,
 a.ui.purple.label:hover:before {
@@ -979,7 +1167,11 @@ a.ui.purple.label:hover:before {
 
 /* Corner */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.purple.corner.label,
 .ui.purple.corner.label:hover {
   background-color: transparent !important;
@@ -1040,7 +1232,11 @@ a.ui.orange.label:hover:before {
 
 /*--- Teal ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.teal.labels .label,
 .ui.teal.label {
   background-color: #00B5AD !important;
@@ -1050,7 +1246,11 @@ a.ui.orange.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels .teal.label:before,
 .ui.teal.labels .label:before,
 .ui.teal.label:before {
@@ -1062,7 +1262,11 @@ a.ui.orange.label:hover:before {
 
 /* Hover */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 a.ui.teal.labels .label:hover,
 .ui.teal.labels a.label:hover,
 a.ui.teal.label:hover {
@@ -1073,7 +1277,11 @@ a.ui.teal.label:hover {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.labels a.teal.label:hover:before,
 .ui.teal.labels a.label:hover:before,
 a.ui.teal.label:hover:before {
@@ -1085,7 +1293,11 @@ a.ui.teal.label:hover:before {
 
 /* Corner */
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.teal.corner.label,
 .ui.teal.corner.label:hover {
   background-color: transparent !important;
@@ -1106,7 +1318,11 @@ a.ui.teal.label:hover:before {
      Horizontal
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.horizontal.labels .label,
 .ui.horizontal.label {
   margin: -0.125em 0.5em -0.125em 0em;
@@ -1124,7 +1340,11 @@ a.ui.teal.label:hover:before {
        Circular
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.circular.labels .label,
 .ui.circular.label {
   min-height: 1em;
@@ -1162,7 +1382,11 @@ a.ui.teal.label:hover:before {
   position: absolute;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.label:before {
   position: absolute;
   content: "";
@@ -1203,7 +1427,11 @@ a.ui.teal.label:hover:before {
   background-color: #E8E8E8;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.label,
 .ui.pointing.above.label {
   margin-top: 1em;
@@ -1211,7 +1439,11 @@ a.ui.teal.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.label:before,
 .ui.pointing.above.label:before {
   margin-left: -0.3em;
@@ -1224,7 +1456,11 @@ a.ui.teal.label:hover:before {
 
 /*--- Below ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.below.label {
   margin-top: 0em;
   margin-bottom: 1em;
@@ -1232,7 +1468,11 @@ a.ui.teal.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.below.label:before {
   margin-left: -0.3em;
   top: auto;
@@ -1246,7 +1486,11 @@ a.ui.teal.label:hover:before {
 
 /*--- Left ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.left.label {
   margin-top: 0em;
   margin-left: 1em;
@@ -1254,7 +1498,11 @@ a.ui.teal.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.left.label:before {
   margin-top: -0.3em;
   bottom: auto;
@@ -1268,7 +1516,11 @@ a.ui.teal.label:hover:before {
 
 /*--- Right ---*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.right.label {
   margin-top: 0em;
   margin-right: 1em;
@@ -1276,7 +1528,11 @@ a.ui.teal.label:hover:before {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.pointing.right.label:before {
   margin-top: -0.3em;
   right: -0.3em;
@@ -1294,7 +1550,11 @@ a.ui.teal.label:hover:before {
    Floating Label
 -------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.floating.label {
   position: absolute;
   z-index: 100;
@@ -1312,7 +1572,11 @@ a.ui.teal.label:hover:before {
         Sizes
 --------------------*/
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.small.labels .label,
 .ui.small.label {
   font-size: 0.75rem;
@@ -1327,7 +1591,11 @@ a.ui.teal.label:hover:before {
   font-size: 0.8125rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 .ui.large.labels .label,
 .ui.large.label {
   font-size: 0.875rem;
@@ -1343,4 +1611,8 @@ a.ui.teal.label:hover:before {
 .ui.huge.label {
   font-size: 1rem;
 }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6

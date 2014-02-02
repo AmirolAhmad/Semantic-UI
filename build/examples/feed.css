@@ -44,7 +44,11 @@ body {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 #feed > .grid > .column {
   height: 100%;
 }
@@ -52,7 +56,11 @@ body {
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*-------------------
        Inbox
 --------------------*/
@@ -63,7 +71,11 @@ body {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 #feed .inbox.tab .item {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -85,7 +97,11 @@ body {
   margin-left: 2em;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 #feed .page {
   float: right;
   margin-top: 0.9em;
@@ -112,7 +128,11 @@ body {
   background-color: #FAFAFA;
 }
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 /*******************************
           Responsive
 *******************************/
@@ -120,7 +140,11 @@ body {
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
 @media only screen and (max-width : 1000px) {
   #feed .inbox .date {
     float: none;

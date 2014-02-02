@@ -32,7 +32,11 @@ $.fn.modal = function(parameters) {
     moduleSelector  = $allModules.selector || '',
 
 =======
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     time            = new Date().getTime(),
     performance     = [],
 
@@ -44,7 +48,11 @@ $.fn.modal = function(parameters) {
     invokedResponse
 =======
     returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   ;
 
 
@@ -80,7 +88,11 @@ $.fn.modal = function(parameters) {
         $otherModals,
         $focusedElement,
         $dimmable,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         $dimmer,
 
         element      = this,
@@ -126,7 +138,11 @@ $.fn.modal = function(parameters) {
           $otherModals = $module.siblings(selector.modal);
           $allModals   = $otherModals.add($module);
 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           module.verbose('Attaching close events', $close);
           $close
             .on('click' + eventNamespace, module.event.close)
@@ -136,7 +152,11 @@ $.fn.modal = function(parameters) {
             .on('resize', function() {
 =======
             .on('resize' + eventNamespace, function() {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.event.debounce(module.refresh, 50);
             })
           ;
@@ -167,7 +187,11 @@ $.fn.modal = function(parameters) {
           $context
             .dimmer('destroy')
           ;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         },
 
         refresh: function() {
@@ -187,7 +211,11 @@ $.fn.modal = function(parameters) {
             : module.show
 =======
             : module.toggle
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           ;
           if($toggle.size() > 0) {
             module.debug('Attaching modal events to element', selector, event);
@@ -239,7 +267,11 @@ $.fn.modal = function(parameters) {
               }
               event.stopImmediatePropagation();
             }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           },
           debounce: function(method, delay) {
             clearTimeout(module.timer);
@@ -262,7 +294,11 @@ $.fn.modal = function(parameters) {
               else {
                 module.debug('Escape key pressed, but closable is set to false');
               }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               event.preventDefault();
             }
           },
@@ -271,7 +307,11 @@ $.fn.modal = function(parameters) {
             if( $context.dimmer('is active') ) {
 =======
             if( $dimmable.dimmer('is active') ) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               module.refresh();
             }
           }
@@ -433,7 +473,11 @@ $.fn.modal = function(parameters) {
           module.debug('Hiding modal');
           module.remove.keyboardShortcuts();
           if(settings.transition && $.fn.transition !== undefined && $module.transition('is supported')) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             $module
               .transition(settings.transition + ' out', settings.duration, function() {
                 module.remove.active();
@@ -441,7 +485,11 @@ $.fn.modal = function(parameters) {
 <<<<<<< HEAD
 =======
                 callback();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               })
             ;
           }
@@ -453,7 +501,11 @@ $.fn.modal = function(parameters) {
 <<<<<<< HEAD
 =======
                 callback();
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
               })
             ;
           }
@@ -494,7 +546,11 @@ $.fn.modal = function(parameters) {
                 .modal('hide modal', callback)
             ;
           }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
         },
 
         add: {
@@ -520,7 +576,11 @@ $.fn.modal = function(parameters) {
             if($focusedElement && $focusedElement.size() > 0) {
               $focusedElement.focus();
             }
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -539,7 +599,11 @@ $.fn.modal = function(parameters) {
             $dimmer.removeClass(className.scrolling);
 =======
             $dimmable.removeClass(className.scrolling);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             $module.removeClass(className.scrolling);
           }
         },
@@ -553,7 +617,11 @@ $.fn.modal = function(parameters) {
               : $context.height()
 =======
               : $dimmable.height()
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           };
           module.debug('Caching modal and container sizes', module.cache);
         },
@@ -573,7 +641,11 @@ $.fn.modal = function(parameters) {
           modernBrowser: function() {
             // appName for IE11 reports 'Netscape' can no longer use
             return !(window.ActiveXObject || "ActiveXObject" in window);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
         },
 
@@ -613,7 +685,11 @@ $.fn.modal = function(parameters) {
           },
           scrolling: function() {
             $dimmable.addClass(className.scrolling);
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             $module.addClass(className.scrolling);
           },
           type: function() {
@@ -662,7 +738,11 @@ $.fn.modal = function(parameters) {
           }
           else if(value !== undefined) {
             settings[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return settings[name];
@@ -683,7 +763,11 @@ $.fn.modal = function(parameters) {
           }
           else if(value !== undefined) {
             module[name] = value;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           else {
             return module[name];
@@ -771,7 +855,11 @@ $.fn.modal = function(parameters) {
 <<<<<<< HEAD
 =======
             object = instance,
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             maxDepth,
             found,
             response
@@ -782,7 +870,11 @@ $.fn.modal = function(parameters) {
           if(typeof query == 'string' && instance !== undefined) {
 =======
           if(typeof query == 'string' && object !== undefined) {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
             query    = query.split(/[\. ]/);
             maxDepth = query.length - 1;
             $.each(query, function(depth, value) {
@@ -823,7 +915,11 @@ $.fn.modal = function(parameters) {
                 return false;
               }
               else {
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
                 return false;
               }
             });
@@ -852,7 +948,11 @@ $.fn.modal = function(parameters) {
           }
           else if(response !== undefined) {
             returnedValue = response;
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
           }
           return found;
         }
@@ -879,7 +979,11 @@ $.fn.modal = function(parameters) {
 =======
   return (returnedValue !== undefined)
     ? returnedValue
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
     : this
   ;
 };
@@ -940,7 +1044,11 @@ $.fn.modal.settings = {
   error : {
     dimmer    : 'UI Dimmer, a required component is not included in this page',
     method    : 'The method you called is not defined.'
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
   },
   className : {
     active    : 'active',
@@ -957,4 +1065,8 @@ $.fn.modal.settings = {
 
 
 })( jQuery, window , document );
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> 763ed5718ca5ba52521779e9c5ba0a18c5213862
+>>>>>>> f670ece27b675a08d8c3e0f54567b6f44df2d2f6
